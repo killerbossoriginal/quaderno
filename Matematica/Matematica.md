@@ -1,0 +1,3 @@
+- [Equazioni di secondo grado](Equazioni%20di%20secondo%20grado.md)
+- [Esponenziali](Esponenziali.md)
+- [Logaritmi](Logaritmi.md)
