@@ -1,4 +1,4 @@
-Il logaritmo è la funzione inversa dell'[[Esponenziali]], esso è ricavato tramite una simmetria di un esponenziale sulla bisettrice del 1/3 quadrante.
+Il logaritmo è la funzione inversa dell'[esponenziale](Esponenziali.md), esso è ricavato tramite una simmetria di un esponenziale sulla bisettrice del 1/3 quadrante.
 $$x = log_{a} b \Leftrightarrow a^x = b$$
 # Le proprietà dei logaritmi
 ## Somma

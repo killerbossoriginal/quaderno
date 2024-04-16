@@ -11,8 +11,12 @@
             "id": "67e21306793bf96c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Matematica/Logaritmi.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Matematica/Logaritmi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Matematica/Logaritmi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Matematica/Logaritmi.md"
+          }
         }
       }
     ],
@@ -123,8 +131,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dac1ff3a8a2ec90",
+  "active": "67e21306793bf96c",
   "lastOpenFiles": [
+    "Matematica/Untitled.md",
+    "Matematica/Esponenziali.md",
     "Filosofia/Platone/Lettera VII.md",
     "Filosofia/Socrate/La morte.md",
     "Filosofia/Platone/La Vita.md.2024-04-15_18.00.12.foldersync.old",
@@ -151,7 +161,6 @@
     "Fisica/Calore Specifico.md",
     "esponenziale.md",
     "Fisica/Principi",
-    "Matematica/Esponenziali.md",
     "Fisica/Lavoro.md",
     "Fisica/Termodinamica/Principi/2° Principio della Termodinamica.md",
     "Fisica/Termodinamica",
@@ -161,7 +170,6 @@
     "Fisica/Termodinamica/Principi",
     "Matematica/Logaritmi.md",
     "Matematica/Equazioni di secondo grado.md",
-    "2024-04-11.md",
     "Fisica/Untitled.canvas",
     "Fisica"
   ]
