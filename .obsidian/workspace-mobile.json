@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d05536f3cfbcc7cc",
+            "id": "68a6360132705d2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Giovanni Boccaccio/Decameron/4 giorno/1 novella - Tancredi e Ghismunda.md",
+                "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/VIII novella - Nastagio degli Onesti.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Italiano/Giovanni Boccaccio/Decameron/4 giorno/1 novella - Tancredi e Ghismunda.md",
+            "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/VIII novella - Nastagio degli Onesti.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Italiano/Giovanni Boccaccio/Decameron/4 giorno/1 novella - Tancredi e Ghismunda.md",
+            "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/VIII novella - Nastagio degli Onesti.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Italiano/Giovanni Boccaccio/Decameron/4 giorno/1 novella - Tancredi e Ghismunda.md"
+            "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/VIII novella - Nastagio degli Onesti.md"
           }
         }
       }
@@ -131,17 +131,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d05536f3cfbcc7cc",
+  "active": "68a6360132705d2b",
   "lastOpenFiles": [
-    "Italiano/Giovanni Boccaccio/Decameron/4 giorno/4 Giorno.md",
+    "Italiano/Giovanni Boccaccio/Decameron/V giorno/V Giorno.md",
+    "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md",
+    "Italiano/Giovanni Boccaccio/Decameron/V giorno/VIII novella - Nastagio degli Onesti.md",
+    "Italiano/Giovanni Boccaccio/Decameron/IV giorno/IV Giorno.md",
     "Italiano/Giovanni Boccaccio/Decameron/Decameron.md",
     "Italiano/Giovanni Boccaccio/Giovanni Boccaccio.md",
-    "Italiano/Giovanni Boccaccio/Decameron/4 giorno/1 novella - Tancredi e Ghismunda.md",
+    "Italiano/Giovanni Boccaccio/Decameron/V giorno",
     "Italiano/Italiano.md",
     "Italiano/Giovanni Boccaccio",
     "README.md",
     "Matematica/Logaritmi.md",
-    "Italiano/Giovanni Boccaccio/Decameron/4 giorno",
+    "Italiano/Giovanni Boccaccio/Decameron/IV giorno",
     "Italiano/Giovanni Boccaccio/Decameron",
     "Italiano",
     "Matematica/Esponenziali.md",
@@ -168,9 +171,6 @@
     "Fisica/Principi/macchina termica.png",
     "Matematica/Esponenziale.md",
     "Fisica/Principi/II Principio della Termodinamica.md",
-    "Fisica/Principi/2° Principio della Termodinamica.md",
-    "Matematica/Esercizi.md",
-    "Fisica/Principi",
     "Fisica/Untitled.canvas"
   ]
 }

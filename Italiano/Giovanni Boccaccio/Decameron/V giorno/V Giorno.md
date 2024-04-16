@@ -1,0 +1,1 @@
+- [VIII novella - Nastagio degli Onesti](VIII%20novella%20-%20Nastagio%20degli%20Onesti.md) 

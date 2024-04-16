@@ -3,9 +3,9 @@ Tancredredi insiste sull'onore tradito dalla figlia. Però lei non si sente colp
 L'idea è simile a quella di Dante con Francessca, ma anche di molti alti latini, ma al contrario di Dante propone Ghismunda come un esempio positivo. Dante infatti è costretto dal contesto a condannare Francesca all'inferno.
 Boccaccio riprende ==l'idea della nobiltà dell'animo== e lo ==stile del romanzo cortese==
 ## Ghismunda come esempio
-E' da far notare che qui la donna è il soggetto attivo della passione.
+E' da far notare che qui la donna è il soggetto attivo della passione. Ghismunda è naturale, per lei la nobiltà si acquisisce. Tancredi è l'esatta antitesi.
 # Testo
-> Tancredi, prenze di Salerno, uccide l’amante della figliuola e mandale il cuore in una coppa d’oro; la quale, messa sopra esso acqua avvelenata, quella si bee, e cosí muore.
+> *Tancredi, prenze di Salerno, uccide l’amante della figliuola e mandale il cuore in una coppa d’oro; la quale, messa sopra esso acqua avvelenata, quella si bee, e cosí muore.*
 
 Fiera materia di ragionare n’ha oggi il nostro re data, pensando che, dove per rallegrarci venuti siamo, ci convenga raccontar l’altrui lagrime, le quali dir non si possono che chi le dice e chi l’ode non abbia compassione. Forse per temperare alquanto la letizia avuta li giorni passati l’ha fatto: ma che che se l’abbia mosso, poi che a me non si conviene di mutare il suo piacere, un pietoso accidente, anzi sventurato e degno delle nostre lagrime racconterò.
 
