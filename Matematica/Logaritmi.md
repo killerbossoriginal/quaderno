@@ -15,3 +15,6 @@ Risoluzione:
 3. Vedere se si mantiene il segno:
 	1. Se $base > 1$ allora si mantiene il segno
 	2. Se $base < 1$ allora si cambia il segno
+
+# Cambio di base
+$$log_a(b)=\frac{log_c(b)}{log_c(a)}$$
