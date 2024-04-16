@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Matematica/Matematica.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Matematica/Matematica.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Matematica/Matematica.md"
+            "file": "README.md"
           }
         }
       }
@@ -152,10 +151,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21ae0050b756d2a2",
+  "active": "081ba3756d8f7aea",
   "lastOpenFiles": [
-    "README.md",
     "Matematica/Matematica.md",
+    "README.md",
     "Matematica/Logaritmi.md",
     "Filosofia/Platone/Platone.md",
     "Matematica/Esponenziali.md",
