@@ -18,6 +18,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "081ba3756d8f7aea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce0a71e6d3b8ef47",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -133,12 +153,14 @@
   },
   "active": "67e21306793bf96c",
   "lastOpenFiles": [
+    "Indice.md",
+    "Matematica/Logaritmi.md",
     "Matematica/Untitled.md",
     "Matematica/Esponenziali.md",
     "Filosofia/Platone/Lettera VII.md",
     "Filosofia/Socrate/La morte.md",
     "Filosofia/Platone/La Vita.md.2024-04-15_18.00.12.foldersync.old",
-    "Filosofia/Platone/La Vita.md",
+    "Filosofia/Platone/Platone.md",
     "Filosofia/Platone/Le Opere.md",
     "Filosofia/Platone/La realtà.md",
     "Filosofia/Platone/L'essere umano.md",
@@ -168,8 +190,6 @@
     "Fisica/Principi/macchina-termica.png.md",
     "macchina.md",
     "Fisica/Termodinamica/Principi",
-    "Matematica/Logaritmi.md",
-    "Matematica/Equazioni di secondo grado.md",
     "Fisica/Untitled.canvas",
     "Fisica"
   ]
