@@ -1,5 +1,5 @@
 # Matematica
-- [Esponenziali](Esponenziali.md)
-- [Logaritmi](Logaritmi.md)
+- [Esponenziali](./Matematica/Esponenziali.md)
+- [Logaritmi](./Matematica/Logaritmi.md)
 # Filosofia
-- [Platone](Platone.md)
+- [Platone](./Filosofia/Platone/Platone.md)
