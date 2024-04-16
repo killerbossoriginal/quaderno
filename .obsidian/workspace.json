@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "6889402291df9489",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa4d349f399b0616",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b4797bb2ef45813",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f40bb621e490afe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Filosofia/Platone/Lettera VII.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0083c2a10383b1c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f4cea535f21fafb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73a26744805a2ea3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32233a896a6f8df1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "586ef70b384713e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "509e2950f5eb9a69",
+    "type": "split",
+    "children": [
+      {
+        "id": "87464c8f32201616",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1da6f2f05962cfb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Filosofia/Platone/Lettera VII.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a05b40e9fd7e31f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Filosofia/Platone/Lettera VII.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fb903f8ea6d510b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd70f500576232e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Filosofia/Platone/Lettera VII.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6f40bb621e490afe",
+  "lastOpenFiles": [
+    "Filosofia/Platone/Le Opere.md",
+    "Filosofia/Platone/La Vita.md",
+    "Filosofia/Platone/L'essere umano.md",
+    "Filosofia/Platone/La realtà.md",
+    "Filosofia/Platone/Idee.md",
+    "Filosofia/Platone/Anima.md",
+    "Filosofia/Platone/La Vita.md.2024-04-15_18.00.12.foldersync.old",
+    "Filosofia/Platone/Lettera VII.md",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Filosofia/Socrate/La morte.md",
+    "Filosofia/Platone/La morte di Socrate.md",
+    "Filosofia/Socrate",
+    "Filosofia/platone/L'anima.md",
+    "L'essere umano.md",
+    "Filosofia/Platone",
+    "Matematica/Logaritmi.md",
+    "Matematica/Esponenziali.md",
+    "Matematica/Equazioni di secondo grado.md",
+    "Matematica/Esponenziale.md",
+    "Filosofia",
+    "Fisica/Termodinamica/Principi/macchina-termica.png"
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "8c6da623a64692e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "515a4c70f29c11cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67e21306793bf96c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d0ed33a242927f7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2dac1ff3a8a2ec90",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1db4e93d8a8ea878",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b6385fb0d4b8fe15",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b0e88703c72c379d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9357d0b8bf3be0ac",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "62b42c711fb1bf8b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c3ffc9b18d4c5700",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5df5a48b1cd47b5f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2dac1ff3a8a2ec90",
+  "lastOpenFiles": [
+    "Filosofia/Platone/Lettera VII.md",
+    "Filosofia/Socrate/La morte.md",
+    "Filosofia/Platone/La Vita.md.2024-04-15_18.00.12.foldersync.old",
+    "Filosofia/Platone/La Vita.md",
+    "Filosofia/Platone/Le Opere.md",
+    "Filosofia/Platone/La realtà.md",
+    "Filosofia/Platone/L'essere umano.md",
+    "Filosofia/Platone/Idee.md",
+    "Filosofia/Platone/Anima.md",
+    "Matematica/Logaritmi.md.2024-04-16_10.24.09.foldersync.old",
+    "Filosofia/Socrate",
+    "Filosofia/Platone",
+    "Filosofia",
+    "Fisica/Termodinamica/L'efficenza di una macchina termica.md",
+    "Fisica/Il Lavoro.md",
+    "Fisica/Principi/macchina-termica.png",
+    "Fisica/Principi/macchina termica.png",
+    "Matematica/Esponenziale.md",
+    "Fisica/Principi/II Principio della Termodinamica.md",
+    "Fisica/Principi/2° Principio della Termodinamica.md",
+    "Matematica/Esercizi.md",
+    "Fisica/Potenza.md",
+    "Fisica/L'efficenza di una macchina termica.md",
+    "Fisica/Calore Specifico.md",
+    "esponenziale.md",
+    "Fisica/Principi",
+    "Matematica/Esponenziali.md",
+    "Fisica/Lavoro.md",
+    "Fisica/Termodinamica/Principi/2° Principio della Termodinamica.md",
+    "Fisica/Termodinamica",
+    "Untitled",
+    "Fisica/Principi/macchina-termica.png.md",
+    "macchina.md",
+    "Fisica/Termodinamica/Principi",
+    "Matematica/Logaritmi.md",
+    "Matematica/Equazioni di secondo grado.md",
+    "2024-04-11.md",
+    "Fisica/Untitled.canvas",
+    "Fisica"
+  ]
+}
