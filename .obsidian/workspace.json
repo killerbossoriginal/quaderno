@@ -8,23 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b4797bb2ef45813",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "6f40bb621e490afe",
+            "id": "41c305a384c87f38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Platone/Lettera VII.md",
+                "file": "Filosofia/Platone/La conoscenza.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "2b995efbab64b086",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Platone/Lettera VII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Platone/Lettera VII.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +131,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Filosofia/Platone/Lettera VII.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,16 +152,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f40bb621e490afe",
+  "active": "2b995efbab64b086",
   "lastOpenFiles": [
-    "Filosofia/Platone/Le Opere.md",
-    "Filosofia/Platone/La Vita.md",
+    "Filosofia/Platone/Platone.md",
+    "Filosofia/Platone/La conoscenza.md",
+    "Filosofia/Platone/L'ontologia.md",
+    "Filosofia/Platone/Le idee.md",
     "Filosofia/Platone/L'essere umano.md",
-    "Filosofia/Platone/La realtà.md",
-    "Filosofia/Platone/Idee.md",
-    "Filosofia/Platone/Anima.md",
-    "Filosofia/Platone/La Vita.md.2024-04-15_18.00.12.foldersync.old",
     "Filosofia/Platone/Lettera VII.md",
+    "Filosofia/Platone/Le Opere.md",
+    "Filosofia/Platone/Anima.md",
+    "Filosofia/Platone/Miti/Il mito della caverna.md",
+    "Filosofia/Platone/Miti",
+    "Filosofia/Filosofia.md",
+    "Italiano/Giovanni Boccaccio/Decameron/Decameron.md",
+    "Filosofia/Platone/La Vita.md",
+    "Filosofia/Platone/La realtà.md",
+    "Filosofia/Platone/La Vita.md.2024-04-15_18.00.12.foldersync.old",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",

@@ -15,4 +15,4 @@ Con la speranza che Dioniso potesse tornare sui suoi passi, Platone tornò a Sir
 Nel mentre sempre a Siracusa, Dione continua a volere un governo di filosofi, a tal punto da far deporre Dioniso, diventò così lui il tiranno, ma venne assassinato per una congiura.
 Scrive in onore dei congiunti di Dione la [[Lettera VII]], e qualche anno dopo morì ad Atene a circa 80 anni.
 # Gli Ideali
-Durante la sua vita creò una teoria ontologica, dicendo che la realtà non è limitata alle cose *sensibili*, concrete, ma invece si può riportare a **entità immutabili** ed eterne, chiamate [idee](Idee.md).
+Durante la sua vita creò una teoria [ontologica](L'ontologia.md), dicendo che la realtà non è limitata alle cose *sensibili*, concrete, ma invece si può riportare a **entità immutabili** ed eterne, chiamate [idee](Le%20idee.md).

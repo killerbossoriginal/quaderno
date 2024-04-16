@@ -29,20 +29,20 @@ Le opere sono:
 	8. Ippia Maggiore
 	9. Ippia Minore
 	10. Menesseno
-	11. ==Protagora==
+	11. Protagora
 	12. Gorgia
 2. Dialoghi della maturità
 	1. Menone
 	2. Eutidemo
 	3. Cradilo
-	4. ==Fedone==
-	5. ==Repubblica==
-	6. ==Simposio==
-	7. ==Fedro==
+	4. Fedone
+	5. Repubblica
+	6. Simposio
+	7. Fedro
 3. Dialoghi della vecchiaia
 	1. Teeteto
 	2. Filebo
-	3. ==Parmenide==
+	3. Parmenide
 	4. Sofista
 	5. Politico
 	6. Timeo
