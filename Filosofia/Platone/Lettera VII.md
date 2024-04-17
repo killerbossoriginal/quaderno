@@ -1,3 +1,4 @@
+La lettera VII è una lettera dedicata ai parenti di Dione, allievo di Platone, diventato tiranno a Siracusa e morto.
 # La guerra del Peloponneso
 ## I Trenta tiranni
 Dopo la sconfitta di Atene da parte di Sparta, e quindi la caduta del governo democratico, venne instaurata da Sparta una oligarchia, simile alla loro. Infatti vennero inseriti al governo **i Trenta tiranni**.

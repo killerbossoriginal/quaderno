@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41c305a384c87f38",
+            "id": "2b995efbab64b086",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Platone/La conoscenza.md",
+                "file": "Filosofia/Platone/Anima.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2b995efbab64b086",
+            "id": "8a599d340bff2c31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematica/Esponenziali.md",
+                "file": "Filosofia/Platone/Il Simposio.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematica/Esponenziali.md",
+                "file": "Filosofia/Platone/Il Simposio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematica/Esponenziali.md",
+                "file": "Filosofia/Platone/Il Simposio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematica/Esponenziali.md"
+                "file": "Filosofia/Platone/Il Simposio.md"
               }
             }
           }
@@ -160,17 +160,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b995efbab64b086",
+  "active": "8a599d340bff2c31",
   "lastOpenFiles": [
-    "Matematica/Equazioni di secondo grado.md",
+    "Filosofia/Platone/Anima.md",
+    "Filosofia/Platone/Il Simposio.md",
     "Filosofia/Platone/Platone.md",
     "Filosofia/Platone/La conoscenza.md",
+    "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
+    "Filosofia/Platone/Lettera VII.md",
+    "Matematica/Matematica.md",
     "Filosofia/Platone/L'ontologia.md",
     "Filosofia/Platone/Le idee.md",
     "Filosofia/Platone/L'essere umano.md",
-    "Filosofia/Platone/Lettera VII.md",
     "Filosofia/Platone/Le Opere.md",
-    "Filosofia/Platone/Anima.md",
     "Filosofia/Platone/Miti/Il mito della caverna.md",
     "Filosofia/Platone/Miti",
     "Filosofia/Filosofia.md",
@@ -189,6 +191,7 @@
     "Filosofia/Platone",
     "Matematica/Logaritmi.md",
     "Matematica/Esponenziali.md",
+    "Matematica/Equazioni di secondo grado.md",
     "Matematica/Esponenziale.md",
     "Filosofia",
     "Fisica/Termodinamica/Principi/macchina-termica.png"

@@ -16,3 +16,11 @@ Nel mentre sempre a Siracusa, Dione continua a volere un governo di filosofi, a 
 Scrive in onore dei congiunti di Dione la [[Lettera VII]], e qualche anno dopo morì ad Atene a circa 80 anni.
 # Gli Ideali
 Durante la sua vita creò una teoria [ontologica](L'ontologia.md), dicendo che la realtà non è limitata alle cose *sensibili*, concrete, ma invece si può riportare a **entità immutabili** ed eterne, chiamate [idee](Le%20idee.md).
+
+# Date Importanti
+
+| Anno     | Evento           |
+| -------- | ---------------- |
+| 427 a.C. | Nascita          |
+| 399 a.C. | Morte di Socrate |
+| 347 a.C. | Morte di Platone |
