@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68a6360132705d2b",
+            "id": "3827857dc8d151e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/VIII novella - Nastagio degli Onesti.md",
+                "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/VIII novella - Nastagio degli Onesti.md",
+            "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/VIII novella - Nastagio degli Onesti.md",
+            "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/VIII novella - Nastagio degli Onesti.md"
+            "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md"
           }
         }
       }
@@ -131,11 +131,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68a6360132705d2b",
+  "active": "3827857dc8d151e9",
   "lastOpenFiles": [
     "Italiano/Giovanni Boccaccio/Decameron/V giorno/V Giorno.md",
-    "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md",
+    "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno/VIII novella - Nastagio degli Onesti.md",
+    "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md",
     "Italiano/Giovanni Boccaccio/Decameron/IV giorno/IV Giorno.md",
     "Italiano/Giovanni Boccaccio/Decameron/Decameron.md",
     "Italiano/Giovanni Boccaccio/Giovanni Boccaccio.md",
@@ -170,7 +171,6 @@
     "Fisica/Principi/macchina-termica.png",
     "Fisica/Principi/macchina termica.png",
     "Matematica/Esponenziale.md",
-    "Fisica/Principi/II Principio della Termodinamica.md",
     "Fisica/Untitled.canvas"
   ]
 }

@@ -23,8 +23,12 @@
             "id": "2b995efbab64b086",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Matematica/Esponenziali.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matematica/Esponenziali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matematica/Esponenziali.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Matematica/Esponenziali.md"
+              }
             }
           }
         ],
@@ -154,6 +162,7 @@
   },
   "active": "2b995efbab64b086",
   "lastOpenFiles": [
+    "Matematica/Equazioni di secondo grado.md",
     "Filosofia/Platone/Platone.md",
     "Filosofia/Platone/La conoscenza.md",
     "Filosofia/Platone/L'ontologia.md",
@@ -180,7 +189,6 @@
     "Filosofia/Platone",
     "Matematica/Logaritmi.md",
     "Matematica/Esponenziali.md",
-    "Matematica/Equazioni di secondo grado.md",
     "Matematica/Esponenziale.md",
     "Filosofia",
     "Fisica/Termodinamica/Principi/macchina-termica.png"
