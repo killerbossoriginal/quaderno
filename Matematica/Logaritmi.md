@@ -1,5 +1,7 @@
 Il logaritmo è la funzione inversa dell'[esponenziale](Esponenziali.md), esso è ricavato tramite una simmetria di un esponenziale sulla bisettrice del 1/3 quadrante.
 $$x = log_{a} b \Leftrightarrow a^x = b$$
+E quindi sostituendo in un grafico:
+$$y=log_a x \Leftrightarrow a^y=x $$
 # Le proprietà dei logaritmi
 ## Somma
 $$ log_a b + log_a c = log_{a}(bc) $$
