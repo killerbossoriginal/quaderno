@@ -5,4 +5,4 @@ Per Platone conoscere qualcosa di nuovo quindi è semplicemente ricordare. Quest
 Così come esistono due realtà, esistono anche due conoscenze diverse, basate su queste realtà.
 Queste due conoscenze sono:
 **Dòxa** (`δόξα`): la conoscenza sensibile, quella basata sul mondo sensibile. E' basata su conoscenze date dai sensi, e quindi che possono facilmente sbagliare e essere soggettivi.
-**Aletheia** (`ἀλήθεια`): la conoscenza intellettiva, quella basata sull'iperuranio, E' basata sul[le idee](Le%20idee.md) e quindi è la vera conoscenza, oggettiva. Ad essa si accede tramite la reminiscenza
+**Aletheia** (`ἀλήθεια`): anche nota come ==Scienza==, la conoscenza intellettiva, quella basata sull'iperuranio, E' basata sul[le idee](Le%20idee.md) e quindi è la vera conoscenza, oggettiva. Ad essa si accede tramite la reminiscenza.

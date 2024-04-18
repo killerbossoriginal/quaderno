@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "515a4c70f29c11cf",
+        "id": "9d47f808fe4239ae",
         "type": "tabs",
         "children": [
           {
-            "id": "3827857dc8d151e9",
+            "id": "bd8dcfb1081d4127",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematica/Logaritmi.md",
+                "file": "Filosofia/Platone/La conoscenza.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Matematica/Logaritmi.md",
+            "file": "Filosofia/Platone/La conoscenza.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Matematica/Logaritmi.md",
+            "file": "Filosofia/Platone/La conoscenza.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Matematica/Logaritmi.md"
+            "file": "Filosofia/Platone/La conoscenza.md"
           }
         }
       }
@@ -131,8 +131,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3827857dc8d151e9",
+  "active": "bd8dcfb1081d4127",
   "lastOpenFiles": [
+    "Filosofia/Platone/Platone.md",
+    "Matematica/Logaritmi.md",
     "Matematica/Esponenziali.md",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno/V Giorno.md",
@@ -145,13 +147,11 @@
     "Italiano/Italiano.md",
     "Italiano/Giovanni Boccaccio",
     "README.md",
-    "Matematica/Logaritmi.md",
     "Italiano/Giovanni Boccaccio/Decameron/IV giorno",
     "Italiano/Giovanni Boccaccio/Decameron",
     "Italiano",
     "Filosofia/Platone/Anima.md",
     "Filosofia/Platone/L'essere umano.md",
-    "Filosofia/Platone/Platone.md",
     "Filosofia/Platone/La realtà.md",
     "Fisica/Termodinamica/Termodinamica.md",
     "Fisica/Fisica.md",
