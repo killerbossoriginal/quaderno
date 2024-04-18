@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Platone/Anima.md",
+                "file": "Filosofia/Platone/Platone.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Platone/Il Simposio.md",
+                "file": "Filosofia/Filosofia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Platone/Il Simposio.md",
+                "file": "Filosofia/Platone/Platone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Platone/Il Simposio.md",
+                "file": "Filosofia/Platone/Platone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filosofia/Platone/Il Simposio.md"
+                "file": "Filosofia/Platone/Platone.md"
               }
             }
           }
@@ -160,22 +159,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a599d340bff2c31",
+  "active": "2b995efbab64b086",
   "lastOpenFiles": [
     "Filosofia/Platone/Anima.md",
-    "Filosofia/Platone/Il Simposio.md",
+    "Filosofia/Filosofia.md",
     "Filosofia/Platone/Platone.md",
+    "Filosofia/Platone/L'ontologia.md",
+    "Filosofia/Platone/L'essere umano.md",
+    "Filosofia/Platone/Il Simposio.md",
+    "Filosofia/Platone/Lettera VII.md",
+    "Filosofia/Platone/Le Opere.md",
+    "Filosofia/Platone/Le idee.md",
     "Filosofia/Platone/La conoscenza.md",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
-    "Filosofia/Platone/Lettera VII.md",
     "Matematica/Matematica.md",
-    "Filosofia/Platone/L'ontologia.md",
-    "Filosofia/Platone/Le idee.md",
-    "Filosofia/Platone/L'essere umano.md",
-    "Filosofia/Platone/Le Opere.md",
     "Filosofia/Platone/Miti/Il mito della caverna.md",
     "Filosofia/Platone/Miti",
-    "Filosofia/Filosofia.md",
     "Italiano/Giovanni Boccaccio/Decameron/Decameron.md",
     "Filosofia/Platone/La Vita.md",
     "Filosofia/Platone/La realtà.md",
