@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Platone/La conoscenza.md",
+                "file": "Filosofia/Platone/L'ontologia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Filosofia/Platone/La conoscenza.md",
+            "file": "Filosofia/Platone/L'ontologia.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Filosofia/Platone/La conoscenza.md",
+            "file": "Filosofia/Platone/L'ontologia.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Filosofia/Platone/La conoscenza.md"
+            "file": "Filosofia/Platone/L'ontologia.md"
           }
         }
       }
@@ -133,6 +133,7 @@
   },
   "active": "bd8dcfb1081d4127",
   "lastOpenFiles": [
+    "Filosofia/Platone/La conoscenza.md",
     "Filosofia/Platone/Platone.md",
     "Matematica/Logaritmi.md",
     "Matematica/Esponenziali.md",
@@ -170,7 +171,6 @@
     "Fisica/Termodinamica/L'efficenza di una macchina termica.md",
     "Fisica/Principi/macchina-termica.png",
     "Fisica/Principi/macchina termica.png",
-    "Matematica/Esponenziale.md",
     "Fisica/Untitled.canvas"
   ]
 }

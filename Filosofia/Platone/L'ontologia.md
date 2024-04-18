@@ -1,4 +1,4 @@
-L'ontologia è la parte della filosofia che studia la definizione del reale.
+==L'ontologia è lo studio dell'essere nelle sue manifestazioni genetiche==.
 Platone formula una teoria ontologica, chiamata Teoria delle [le idee](Le%20idee.md), essa consiste nel fatto che ci sono 2 mondi paralleli, uno sensibile (quello dove viviamo noi), e uno **intelligibile**.
 
 Il mondo sensibile è una copia sbiadita del mondo intelligibile soprattutto perché crede che le cose concrete sono soggettive, in quanto percepite dai sensi che sono soggettivi, e soprattutto, i sensi sbagliano.
