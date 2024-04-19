@@ -25,5 +25,6 @@
     "editor:redo",
     "editor:insert-table",
     "editor:configure-toolbar"
-  ]
+  ],
+  "showUnsupportedFiles": true
 }

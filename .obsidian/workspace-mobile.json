@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9d47f808fe4239ae",
+        "id": "916d6a3102d6e392",
         "type": "tabs",
         "children": [
           {
-            "id": "bd8dcfb1081d4127",
+            "id": "4dc7ad494a7a09e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Platone/L'ontologia.md",
+                "file": "Fisica/Termodinamica/L'efficenza di una macchina termica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f74dc8d173c5576b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fisica/Termodinamica/Frigorifero.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +86,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "9357d0b8bf3be0ac",
@@ -85,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Filosofia/Platone/L'ontologia.md",
+            "file": "Fisica/Termodinamica/Frigorifero.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Filosofia/Platone/L'ontologia.md",
+            "file": "Fisica/Termodinamica/Frigorifero.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +128,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Filosofia/Platone/L'ontologia.md"
+            "file": "Fisica/Termodinamica/Frigorifero.md"
           }
         }
       }
@@ -131,10 +145,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd8dcfb1081d4127",
+  "active": "2dac1ff3a8a2ec90",
   "lastOpenFiles": [
+    "Fisica/Termodinamica/L'efficenza di una macchina termica.md",
+    "Fisica/Termodinamica/Frigorifero.md",
+    "Fisica/Termodinamica/Frigorifero.md",
+    "Fisica/Termodinamica/Principi/2° Principio della Termodinamica.md",
+    "Fisica/Termodinamica/Calore Specifico.md",
+    "Fisica/Termodinamica/Termodinamica.md",
+    "Filosofia/Platone/Il Simposio.md",
+    "Filosofia/Platone/Anima.md",
+    "Filosofia/Platone/L'essere umano.md",
+    "Filosofia/Platone/L'ontologia.md",
     "Filosofia/Platone/La conoscenza.md",
+    "Filosofia/Platone/Le idee.md",
+    "Filosofia/Platone/Lettera VII.md",
     "Filosofia/Platone/Platone.md",
+    "Filosofia/Platone/Le Opere.md",
     "Matematica/Logaritmi.md",
     "Matematica/Esponenziali.md",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
@@ -151,24 +178,11 @@
     "Italiano/Giovanni Boccaccio/Decameron/IV giorno",
     "Italiano/Giovanni Boccaccio/Decameron",
     "Italiano",
-    "Filosofia/Platone/Anima.md",
-    "Filosofia/Platone/L'essere umano.md",
-    "Filosofia/Platone/La realtà.md",
-    "Fisica/Termodinamica/Termodinamica.md",
-    "Fisica/Fisica.md",
-    "Matematica/Matematica.md",
-    "Fisica/Il Lavoro.md",
-    "Filosofia/Filosofia.md",
-    "Filosofia/Platone/Lettera VII.md",
-    "Filosofia/Socrate/La morte.md",
     "Filosofia/Platone/La Vita.md.2024-04-15_18.00.12.foldersync.old",
-    "Filosofia/Platone/Le Opere.md",
-    "Filosofia/Platone/Idee.md",
     "Matematica/Logaritmi.md.2024-04-16_10.24.09.foldersync.old",
     "Filosofia/Socrate",
     "Filosofia/Platone",
     "Filosofia",
-    "Fisica/Termodinamica/L'efficenza di una macchina termica.md",
     "Fisica/Principi/macchina-termica.png",
     "Fisica/Principi/macchina termica.png",
     "Fisica/Untitled.canvas"
