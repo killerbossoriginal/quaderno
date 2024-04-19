@@ -10,7 +10,7 @@ Come accennato in precedenza le idee hanno delle specifiche caratteristiche.
 - ==partecipazione==: ogni cosa partecipa all'esistenza delle sue idee
 - ==presenza==: una cosa rende presente le sue idee d'origine nel mondo sensibile, *creando un aggancio a cui i filosofi possono attaccarsi*
 
-# Il mito della caverna
+# Il mito della caverna - Repubblica
 Per spiegare questa cosa in maniera più utile a tutti, Platone crea un mito, chiamato mito della caverna.
 > Incatenati gambe e collo, sì da dover restare fermi e da poter vedere soltanto avanti, incapaci, a causa della catena, di volgere attorno il capo (Repubblica, VII, 514 a-b)
 

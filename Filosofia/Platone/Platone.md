@@ -24,3 +24,29 @@ Durante la sua vita creò una teoria [ontologica](L'ontologia.md), dicendo che l
 | 427 a.C. | Nascita          |
 | 399 a.C. | Morte di Socrate |
 | 347 a.C. | Morte di Platone |
+
+# Politica
+## La tripartizione della società
+La società si divide in:
+- **produttori** - compresi commercianti, medici,... (cavallo nero)
+- **guerrieri** - (cavallo bianco)
+- **governanti** - (auriga)
+La giustizia è quando queste 3 parti sono equilibrate.
+
+Ogni persona deve essere assegnata a una classe sociale a seconda delle proprie caratteristiche.
+- Produttori: mansioni pratiche: aumentare la propria ricchezza
+- Guerrieri: forza: proteggere
+- Governante: saggezza: deve essere come un filosofo
+
+I guerrieri devono imporre la volontà dei governanti sull'egoismo dei produttori, anche se possono imporre solo nell'interesse comune. Perciò non possono avere proprietà private o famiglia.
+
+Per non lasciarli senza niente, tutti i "custodi" devono mettere in comune tutto, cose e persone.
+
+Il potere potrebbe degenerare, nel caso dell'egoismo dei custodi, in:
+- **timocrazia**: potere degli impetuosi
+- **oligarchia**: pochi che vogliono accumulare ricchezze
+- **tirannide**: il potere in mano a uno, influenzato dal suo egoismo
+- **democrazia**: tutti fanno i propri interessi
+
+## L'educazione
+L'educazione (`paidéia`) è l'insegnare ai bambini, futuri custodi (guerrieri + governanti) una rigida disciplina che li induce ad apprezzare l'importanza dell'**ordine**, dell'**equilibrio** e della **bellezza**. Tra le discipline fondamentali sono ginnastica, arte e matematica.
