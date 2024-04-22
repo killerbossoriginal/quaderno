@@ -1,4 +1,4 @@
-$$c=\frac{Q}{n \Delta T m_{mol}}$$
+$$c=\frac{Q}{n \Delta T m_{mol}} = \frac{Q}{m\Delta T}$$
 Che diventa
 ### Trasformazione isocora
 $$c_v=\frac{lR}{2m_{mol}}$$

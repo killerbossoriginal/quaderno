@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arte/1500/Riqualificazione di Roma.md",
+                "file": "Fisica/Termodinamica/Principi/3° Principio.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Arte/1500/Riqualificazione di Roma.md",
+            "file": "Fisica/Termodinamica/Principi/3° Principio.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Arte/1500/Riqualificazione di Roma.md",
+            "file": "Fisica/Termodinamica/Principi/3° Principio.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Arte/1500/Riqualificazione di Roma.md"
+            "file": "Fisica/Termodinamica/Principi/3° Principio.md"
           }
         }
       }
@@ -134,15 +134,18 @@
   },
   "active": "f74dc8d173c5576b",
   "lastOpenFiles": [
+    "Fisica/Termodinamica/Termodinamica.md",
+    "Fisica/Termodinamica/Calore.md",
+    "Fisica/Termodinamica/Principi/3° Principio.md",
+    "Fisica/Termodinamica/Principi/2° Principio.md",
+    "Fisica/Termodinamica/Calore Specifico.md",
+    "Fisica/Fisica.md",
     "Arte/1500/Riqualificazione di Roma.md",
     "Fisica/Termodinamica/L'efficenza di una macchina termica.md",
     "Arte/1500",
     "Arte",
     "Fisica/Termodinamica/Frigorifero.md",
     "Fisica/Termodinamica/Frigorifero.md",
-    "Fisica/Termodinamica/Principi/2° Principio della Termodinamica.md",
-    "Fisica/Termodinamica/Calore Specifico.md",
-    "Fisica/Termodinamica/Termodinamica.md",
     "Filosofia/Platone/Il Simposio.md",
     "Filosofia/Platone/Anima.md",
     "Filosofia/Platone/L'essere umano.md",
@@ -159,8 +162,6 @@
     "Italiano/Giovanni Boccaccio/Decameron/V giorno/VIII novella - Nastagio degli Onesti.md",
     "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md",
     "Italiano/Giovanni Boccaccio/Decameron/IV giorno/IV Giorno.md",
-    "Italiano/Giovanni Boccaccio/Decameron/Decameron.md",
-    "Italiano/Giovanni Boccaccio/Giovanni Boccaccio.md",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno",
     "Italiano/Giovanni Boccaccio",
     "Italiano/Giovanni Boccaccio/Decameron/IV giorno",
