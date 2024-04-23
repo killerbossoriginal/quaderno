@@ -2,3 +2,4 @@
 - [Filosofia](./Filosofia/Filosofia.md)
 - [Fisica](./Fisica/Fisica.md)
 - [Italiano](./Italiano/Italiano.md)
+- [English](./Inglese/English.md)

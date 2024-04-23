@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "916d6a3102d6e392",
+        "id": "b0eb52784f8834af",
         "type": "tabs",
         "children": [
           {
-            "id": "f74dc8d173c5576b",
+            "id": "011a5207a357ae7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisica/Termodinamica/Principi/3° Principio.md",
+                "file": "Inglese/Tudor.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Fisica/Termodinamica/Principi/3° Principio.md",
+            "file": "Inglese/Tudor.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Fisica/Termodinamica/Principi/3° Principio.md",
+            "file": "Inglese/Tudor.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Fisica/Termodinamica/Principi/3° Principio.md"
+            "file": "Inglese/Tudor.md"
           }
         }
       }
@@ -132,11 +132,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f74dc8d173c5576b",
+  "active": "011a5207a357ae7d",
   "lastOpenFiles": [
+    "Inglese/English.md",
+    "Inglese/Tudor.md",
+    "README.md",
+    "Fisica/Termodinamica/Principi/3° Principio.md",
+    "Inglese",
     "Fisica/Termodinamica/Termodinamica.md",
     "Fisica/Termodinamica/Calore.md",
-    "Fisica/Termodinamica/Principi/3° Principio.md",
     "Fisica/Termodinamica/Principi/2° Principio.md",
     "Fisica/Termodinamica/Calore Specifico.md",
     "Fisica/Fisica.md",
@@ -159,9 +163,6 @@
     "Matematica/Esponenziali.md",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno/V Giorno.md",
-    "Italiano/Giovanni Boccaccio/Decameron/V giorno/VIII novella - Nastagio degli Onesti.md",
-    "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md",
-    "Italiano/Giovanni Boccaccio/Decameron/IV giorno/IV Giorno.md",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno",
     "Italiano/Giovanni Boccaccio",
     "Italiano/Giovanni Boccaccio/Decameron/IV giorno",
@@ -169,7 +170,6 @@
     "Italiano",
     "Filosofia/Platone/La Vita.md.2024-04-15_18.00.12.foldersync.old",
     "Matematica/Logaritmi.md.2024-04-16_10.24.09.foldersync.old",
-    "Filosofia/Socrate",
     "Fisica/Principi/macchina-termica.png",
     "Fisica/Principi/macchina termica.png",
     "Fisica/Untitled.canvas"
