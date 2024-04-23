@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/Tudor.md",
+                "file": "Matematica/Logaritmi.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inglese/Tudor.md",
+            "file": "Matematica/Logaritmi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Inglese/Tudor.md",
+            "file": "Matematica/Logaritmi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inglese/Tudor.md"
+            "file": "Matematica/Logaritmi.md"
           }
         }
       }
@@ -134,8 +134,10 @@
   },
   "active": "011a5207a357ae7d",
   "lastOpenFiles": [
-    "Inglese/English.md",
+    "Matematica/Esponenziali.md",
+    "Matematica/Equazioni di secondo grado.md",
     "Inglese/Tudor.md",
+    "Inglese/English.md",
     "README.md",
     "Fisica/Termodinamica/Principi/3° Principio.md",
     "Inglese",
@@ -160,9 +162,7 @@
     "Filosofia/Platone/Platone.md",
     "Filosofia/Platone/Le Opere.md",
     "Matematica/Logaritmi.md",
-    "Matematica/Esponenziali.md",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
-    "Italiano/Giovanni Boccaccio/Decameron/V giorno/V Giorno.md",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno",
     "Italiano/Giovanni Boccaccio",
     "Italiano/Giovanni Boccaccio/Decameron/IV giorno",
