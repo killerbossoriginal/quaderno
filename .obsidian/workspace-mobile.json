@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56ee40ba2e40a5f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatica/IA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Matematica/Logaritmi.md",
+            "file": "Informatica/IA.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Matematica/Logaritmi.md",
+            "file": "Informatica/IA.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +128,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Matematica/Logaritmi.md"
+            "file": "Informatica/IA.md"
           }
         }
       }
@@ -132,8 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "011a5207a357ae7d",
+  "active": "2dac1ff3a8a2ec90",
   "lastOpenFiles": [
+    "Matematica/Logaritmi.md",
+    "Informatica/IA.md",
+    "Informatica",
     "Matematica/Esponenziali.md",
     "Matematica/Equazioni di secondo grado.md",
     "Inglese/Tudor.md",
@@ -161,15 +177,12 @@
     "Filosofia/Platone/Lettera VII.md",
     "Filosofia/Platone/Platone.md",
     "Filosofia/Platone/Le Opere.md",
-    "Matematica/Logaritmi.md",
-    "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno",
     "Italiano/Giovanni Boccaccio",
     "Italiano/Giovanni Boccaccio/Decameron/IV giorno",
     "Italiano/Giovanni Boccaccio/Decameron",
     "Italiano",
     "Filosofia/Platone/La Vita.md.2024-04-15_18.00.12.foldersync.old",
-    "Matematica/Logaritmi.md.2024-04-16_10.24.09.foldersync.old",
     "Fisica/Principi/macchina-termica.png",
     "Fisica/Principi/macchina termica.png",
     "Fisica/Untitled.canvas"
