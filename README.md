@@ -1,5 +1,8 @@
 - [Matematica](./Matematica/Matematica.md)
 - [Filosofia](./Filosofia/Filosofia.md)
+- [Informatica](./Informatica/Informatica.md)
 - [Fisica](./Fisica/Fisica.md)
 - [Italiano](./Italiano/Italiano.md)
+- [Storia](./Storia/Storia.md)
+- [Arte](./Arte/Arte.md)
 - [English](./Inglese/English.md)
