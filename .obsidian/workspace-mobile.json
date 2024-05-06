@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arte/1500/Raffaello.md",
+                "file": "Inglese/Shakespeare/Shall i compare thee.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Arte/1500/Raffaello.md",
+            "file": "Inglese/Shakespeare/Shall i compare thee.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Arte/1500/Raffaello.md",
+            "file": "Inglese/Shakespeare/Shall i compare thee.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Arte/1500/Raffaello.md"
+            "file": "Inglese/Shakespeare/Shall i compare thee.md"
           }
         }
       }
@@ -142,8 +142,13 @@
   },
   "active": "d7117548cde8a5ed",
   "lastOpenFiles": [
-    "Arte/1500/Leonardo da Vinci.md",
+    "Inglese/English.md",
+    "Inglese/Shakespeare/Shakespeare.md",
+    "Inglese/Shakespeare/Shall i compare thee.md",
+    "Inglese/Tudor.md",
+    "Inglese/Shakespeare",
     "Arte/1500/Raffaello.md",
+    "Arte/1500/Leonardo da Vinci.md",
     "Arte/1500/Riqualificazione di Roma.md",
     "Arte/1500/1500.md",
     "Arte/1500/Botticelli.md",
@@ -169,16 +174,11 @@
     "Fisica/Termodinamica/Principi/3° Principio.md",
     "Informatica",
     "Matematica/Esponenziali.md",
-    "Matematica/Equazioni di secondo grado.md",
-    "Inglese/Tudor.md",
-    "Inglese/English.md",
     "Inglese",
-    "Fisica/Termodinamica/Termodinamica.md",
     "Arte/1500",
     "Arte",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno",
     "Italiano/Giovanni Boccaccio",
-    "Italiano/Giovanni Boccaccio/Decameron/IV giorno",
     "Fisica/Principi/macchina-termica.png",
     "Fisica/Principi/macchina termica.png",
     "Fisica/Untitled.canvas"
