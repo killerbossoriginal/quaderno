@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/1500/La riforma protestante.md",
+                "file": "Arte/1500/Raffaello.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "d7dbd46e00bd28c0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Storia/1500/La riforma protestante.md",
+            "file": "Arte/1500/Raffaello.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Storia/1500/La riforma protestante.md",
+            "file": "Arte/1500/Raffaello.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Storia/1500/La riforma protestante.md"
+            "file": "Arte/1500/Raffaello.md"
           }
         }
       }
@@ -134,17 +142,22 @@
   },
   "active": "d7117548cde8a5ed",
   "lastOpenFiles": [
+    "Arte/1500/Leonardo da Vinci.md",
+    "Arte/1500/Raffaello.md",
+    "Arte/1500/Riqualificazione di Roma.md",
+    "Arte/1500/1500.md",
+    "Arte/1500/Botticelli.md",
+    "Arte/1500/Bramante.md",
+    "Storia/1500/La riforma protestante.md",
     "Filosofia/Aristotele/La metafisica.md",
     "Filosofia/Aristotele/Aristotele.md",
     "Filosofia/Filosofia.md",
-    "Storia/1500/La riforma protestante.md",
     "Filosofia/Aristotele",
     "README.md",
     "Informatica/Informatica.md",
     "Informatica/Intelligenza Artificiale.md",
     "Storia/1500/1500.md",
     "Arte/Arte.md",
-    "Arte/1500/1500.md",
     "Storia/Storia.md",
     "Fisica/Termodinamica/Ciclo di Carnot.md",
     "Storia/1500",
@@ -161,13 +174,8 @@
     "Inglese/English.md",
     "Inglese",
     "Fisica/Termodinamica/Termodinamica.md",
-    "Fisica/Termodinamica/Calore.md",
-    "Fisica/Fisica.md",
-    "Arte/1500/Riqualificazione di Roma.md",
-    "Fisica/Termodinamica/L'efficenza di una macchina termica.md",
     "Arte/1500",
     "Arte",
-    "Fisica/Termodinamica/Frigorifero.md",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno",
     "Italiano/Giovanni Boccaccio",
     "Italiano/Giovanni Boccaccio/Decameron/IV giorno",
