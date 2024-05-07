@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7117548cde8a5ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inglese/Shakespeare/Shall i compare thee.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d7dbd46e00bd28c0",
             "type": "leaf",
             "state": {
@@ -94,7 +82,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inglese/Shakespeare/Shall i compare thee.md",
+            "file": "Fisica/Termodinamica/Termodinamica.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +99,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Inglese/Shakespeare/Shall i compare thee.md",
+            "file": "Fisica/Termodinamica/Termodinamica.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +111,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inglese/Shakespeare/Shall i compare thee.md"
+            "file": "Fisica/Termodinamica/Termodinamica.md"
           }
         }
       }
@@ -140,11 +128,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7117548cde8a5ed",
+  "active": "2dac1ff3a8a2ec90",
   "lastOpenFiles": [
-    "Inglese/English.md",
+    "Inglese/Shakespeare/The theatres.md",
     "Inglese/Shakespeare/Shakespeare.md",
+    "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
     "Inglese/Shakespeare/Shall i compare thee.md",
+    "Inglese/English.md",
     "Inglese/Tudor.md",
     "Inglese/Shakespeare",
     "Arte/1500/Raffaello.md",
@@ -171,9 +161,7 @@
     "Matematica/Logaritmi.md",
     "Fisica/Termodinamica/Dimostrazione-Carnot.png",
     "Fisica/Termodinamica/Principi/2° Principio.md",
-    "Fisica/Termodinamica/Principi/3° Principio.md",
     "Informatica",
-    "Matematica/Esponenziali.md",
     "Inglese",
     "Arte/1500",
     "Arte",
