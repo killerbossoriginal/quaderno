@@ -3,8 +3,16 @@
 Meta: oltre
 Fisica: fisica
 
-Il termine è stato coniato da Andronico di Rodi, mise i testi della metafisica dopo quelli della fisica.
+Il termine è stato coniato da ==Andronico di Rodi==, importante perchè mise i testi della metafisica dopo quelli della fisica.
 
-Parte dalla fisica ma vuole capire ciò che va oltre, il significato più profondo, l'origine e lo scopo.
+Parte dalla fisica ma vuole capire ciò che va oltre, il significato più profondo e il suo ==principio== (scopo, origine).
 
 Nei  giorni attuali si occuperà di anima, di Dio.
+
+L'essere è uno, ma la realtà è molteplice. 
+
+La metafisica si divide in:
+- *Aitiologia* - le cause della natura
+- [Ontologia](../Platone/L'ontologia.md) - studio dell'essere nelle sue manifestazioni generiche
+- Usiologia - si occupa della sostanza
+- Teologia - si occupa l'essere in senso divino

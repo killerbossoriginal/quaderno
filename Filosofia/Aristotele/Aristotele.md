@@ -16,8 +16,8 @@ Al contrario di Platone, che collocava nell'iperuranio la verità, Aristotele ce
 La conoscenza di Aristotele viene definita enciclopedica, ciè riguarda a tutti gli aspetti della conoscenza umana.
 # Le opere
 Le opere Aristoteliche vengono divise in:
-- opere **esoteriche**, scritte per gli studenti
-- opere **essoteriche**, scritte e poi divulgate
+- opere **==esoteriche==**, scritte per gli studenti
+- opere **==essoteriche==**, scritte e poi divulgate
 
 Egli scrive:
 - Trattati, nelle opere esoteriche
@@ -26,7 +26,7 @@ Egli scrive:
 Il sapere aristotelico viene diviso in 3 parti:
 - scienze teoretiche, riguardano la teoria
 	- fisica
-	- metafisica, studio della finalità dell'essere
+	- [metafisica](La%20metafisica.md), studio della finalità dell'essere
 	- matematica
 - scienze pratiche
 	- politica
@@ -35,3 +35,21 @@ Il sapere aristotelico viene diviso in 3 parti:
 - scienze poietiche, riguardano la tecnica
 	- arte
 	- artigianato
+
+Viene posizionata come introduzione al pensiero aristotelico un'opera chiamata ==**Organon**==, in cui si occupa della logica. Esso è suddiviso in:
+- analitici I
+- analitici II
+- topici
+- de interpretazione
+- categorie
+La logica trattata è "lo strumento" (organon), attraverso cui noi capiamo le cose.
+
+Altre opere sono:
+- fisica
+- metafisica
+- politica
+- retorica
+- etica
+	- grande etica
+	- etica nicomachea
+	- etica eudamìa

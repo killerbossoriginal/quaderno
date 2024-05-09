@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematica/Statistica.md",
+                "file": "Filosofia/Aristotele/L'essere.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c257ef7a461e7d7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Matematica/Statistica.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Matematica/Statistica.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,9 +121,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Matematica/Statistica.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -132,10 +137,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7dbd46e00bd28c0",
+  "active": "2c257ef7a461e7d7",
   "lastOpenFiles": [
-    "Fisica/Termodinamica/Principi/3° Principio.md",
+    "Filosofia/Aristotele/Aristotele.md",
+    "Filosofia/Aristotele/L'essere.md",
+    "Filosofia/Aristotele/La metafisica.md",
+    "Filosofia/Platone/L'ontologia.md",
+    "Filosofia/Filosofia.md",
+    "Matematica/Matematica.md",
     "Matematica/Statistica.md",
+    "Fisica/Termodinamica/Principi/3° Principio.md",
     "Fisica/Termodinamica/Principi/2° Principio.md",
     "Inglese/Shakespeare/The theatres.md",
     "Inglese/Shakespeare/Shakespeare.md",
@@ -151,17 +162,11 @@
     "Arte/1500/Botticelli.md",
     "Arte/1500/Bramante.md",
     "Storia/1500/La riforma protestante.md",
-    "Filosofia/Aristotele/La metafisica.md",
-    "Filosofia/Aristotele/Aristotele.md",
-    "Filosofia/Filosofia.md",
     "Filosofia/Aristotele",
     "README.md",
     "Informatica/Informatica.md",
     "Informatica/Intelligenza Artificiale.md",
     "Storia/1500/1500.md",
-    "Arte/Arte.md",
-    "Storia/Storia.md",
-    "Fisica/Termodinamica/Ciclo di Carnot.md",
     "Storia/1500",
     "Storia",
     "Fisica/Termodinamica/Dimostrazione-Carnot.png",
