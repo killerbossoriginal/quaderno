@@ -11,8 +11,12 @@
             "id": "d7dbd46e00bd28c0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Matematica/Statistica.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Fisica/Termodinamica/Termodinamica.md",
+            "file": "Matematica/Statistica.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Fisica/Termodinamica/Termodinamica.md",
+            "file": "Matematica/Statistica.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Fisica/Termodinamica/Termodinamica.md"
+            "file": "Matematica/Statistica.md"
           }
         }
       }
@@ -128,8 +132,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dac1ff3a8a2ec90",
+  "active": "d7dbd46e00bd28c0",
   "lastOpenFiles": [
+    "Fisica/Termodinamica/Principi/3° Principio.md",
+    "Matematica/Statistica.md",
+    "Fisica/Termodinamica/Principi/2° Principio.md",
     "Inglese/Shakespeare/The theatres.md",
     "Inglese/Shakespeare/Shakespeare.md",
     "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
@@ -157,10 +164,7 @@
     "Fisica/Termodinamica/Ciclo di Carnot.md",
     "Storia/1500",
     "Storia",
-    "Fisica/Termodinamica/Calore Specifico.md",
-    "Matematica/Logaritmi.md",
     "Fisica/Termodinamica/Dimostrazione-Carnot.png",
-    "Fisica/Termodinamica/Principi/2° Principio.md",
     "Informatica",
     "Inglese",
     "Arte/1500",

@@ -1,0 +1,1 @@
+$$\sigma = \sqrt{\frac{\sum^n_{i<n}(x_i-m)^2}{n}}$$
