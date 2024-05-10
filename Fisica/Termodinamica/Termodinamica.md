@@ -6,3 +6,4 @@
 # Altro
 [Calore Specifico](Calore%20Specifico.md)
 [Calore](Calore.md)
+[Frigorifero](Frigorifero.md)

@@ -5,4 +5,4 @@
 - [Italiano](./Italiano/Italiano.md)
 - [Storia](./Storia/Storia.md)
 - [Arte](./Arte/Arte.md)
-- [English](./Inglese/English.md)
+- [Inglese](./Inglese/English.md)

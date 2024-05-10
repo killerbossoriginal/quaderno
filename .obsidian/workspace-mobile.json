@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "da3e980f0a369c26",
+        "id": "a1f5fdc6b8175147",
         "type": "tabs",
         "children": [
           {
-            "id": "d7dbd46e00bd28c0",
+            "id": "8caa840816bcf40d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Aristotele/L'essere.md",
+                "file": "Filosofia/Aristotele/L-Metafisica.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "2c257ef7a461e7d7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Filosofia/Aristotele/L-Metafisica.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Filosofia/Aristotele/L-Metafisica.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Filosofia/Aristotele/L-Metafisica.md"
+          }
         }
       }
     ],
@@ -137,11 +132,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c257ef7a461e7d7",
+  "active": "1db4e93d8a8ea878",
   "lastOpenFiles": [
-    "Filosofia/Aristotele/Aristotele.md",
-    "Filosofia/Aristotele/L'essere.md",
     "Filosofia/Aristotele/La metafisica.md",
+    "Filosofia/Aristotele/Aristotele.md",
+    "Filosofia/Aristotele/L-Metafisica.md",
+    "Filosofia/Aristotele/L'essere.md",
+    "Filosofia/Aristotele/L'Analisi.md",
+    "README.md",
+    "Filosofia/Aristotele/L'usiologia.md",
+    "Untitled 2.canvas",
+    "2024-05-10.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Fisica/Termodinamica/Termodinamica.md",
+    "Fisica/Termodinamica/Frigorifero.md",
+    "Informatica/Informatica.md",
     "Filosofia/Platone/L'ontologia.md",
     "Filosofia/Filosofia.md",
     "Matematica/Matematica.md",
@@ -158,15 +164,7 @@
     "Arte/1500/Raffaello.md",
     "Arte/1500/Leonardo da Vinci.md",
     "Arte/1500/Riqualificazione di Roma.md",
-    "Arte/1500/1500.md",
-    "Arte/1500/Botticelli.md",
-    "Arte/1500/Bramante.md",
-    "Storia/1500/La riforma protestante.md",
     "Filosofia/Aristotele",
-    "README.md",
-    "Informatica/Informatica.md",
-    "Informatica/Intelligenza Artificiale.md",
-    "Storia/1500/1500.md",
     "Storia/1500",
     "Storia",
     "Fisica/Termodinamica/Dimostrazione-Carnot.png",
