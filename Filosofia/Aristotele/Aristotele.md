@@ -3,7 +3,7 @@ Egli arriva ad Atene, e non essendo Ateniese viene classificato come immigrato.
 
 Aristotele prende la filosofia platonica e la rielabora, se Platone può avere ideali verticali, lui li ha orizzontali. Egli viene definito come **cosmopolita** (*cittadino del mondo*).
 
-Nel 322 muore, dopo l'essere stato maestro di Alessando Magno, morto qualche anno prima.
+Nel 322 muore, dopo l'essere stato maestro di Alessandro Magno, morto qualche anno prima.
 
 Aristotele ha un figlio che si chiama **Nicomaco**.
 Aristotele fonda il liceo, la stessa scuola odierna, e quindi fa nascere il professore.
@@ -13,7 +13,8 @@ Sono posizionati in un luogo classico, richiamante il progetto di Bramante per l
 Lo spazio viene bilanciato in due fasce, una piena e una vuota.
 # Il pensiero
 Al contrario di Platone, che collocava nell'iperuranio la verità, Aristotele centralizza la conoscenza di natura pragmatica, scientifica ma sensibile.
-La conoscenza di Aristotele viene definita enciclopedica, ciè riguarda a tutti gli aspetti della conoscenza umana.
+La conoscenza di Aristotele viene definita enciclopedica, cioè riguarda a tutti gli aspetti della conoscenza umana.
+Utilizzava anche [l'Analisi](L'Analisi.md)
 # Le opere
 Le opere Aristoteliche vengono divise in:
 - opere **==esoteriche==**, scritte per gli studenti

@@ -1,22 +1,37 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Arte  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Storia  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.0998249588138385,
-  "repelStrength": 9.98970345963756,
+  "collapse-forces": true,
+  "centerStrength": 0.109375,
+  "repelStrength": 12.2916666666667,
   "linkStrength": 1,
-  "linkDistance": 152,
-  "scale": 0.5234502922431975,
-  "close": true
+  "linkDistance": 86,
+  "scale": 0.2663115576886661,
+  "close": false
 }

@@ -4,34 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "fa4d349f399b0616",
+        "id": "ed73a6c32caf0d43",
         "type": "tabs",
         "children": [
           {
-            "id": "2b995efbab64b086",
+            "id": "31f2e102125818a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Platone/Platone.md",
+                "file": "Arte/La riqualificazione di Roma.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "8a599d340bff2c31",
+            "id": "8d33d474e2412d03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Filosofia/Filosofia.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Platone/Platone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Platone/Platone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Filosofia/Platone/Platone.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,37 +153,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b995efbab64b086",
+  "active": "8d33d474e2412d03",
   "lastOpenFiles": [
-    "Arte/1500/Botticelli.md",
-    "Arte/1500/Bramante.md",
-    "Arte/1500/Leonardo da Vinci.md",
-    "Arte/1500/Raffaello.md",
-    "Matematica/Statistica.md",
-    "status.sh",
-    "Inglese/Shakespeare/Shall i compare thee.md",
-    "Inglese/Shakespeare/Shakespeare.md",
-    "Inglese/Shakespeare/The theatres.md",
-    "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
-    "Inglese/Shakespeare",
-    "Filosofia/Aristotele/La metafisica.md",
-    "Filosofia/Aristotele/L-Metafisica.md",
-    "Filosofia/Aristotele/L'usiologia.md",
-    "Filosofia/Aristotele/L'essere.md",
-    "Filosofia/Aristotele/L'Analisi.md",
+    "Arte/La riqualificazione di Roma.md",
+    "Inglese/The theatres.md",
+    "Inglese/Tudor.md",
     "Filosofia/Aristotele/Aristotele.md",
-    "Filosofia/Aristotele",
-    "Filosofia/Platone/Anima.md",
-    "Filosofia/Filosofia.md",
+    "Filosofia/Aristotele/L'Analisi.md",
+    "Fisica/Termodinamica/Termodinamica.md",
+    "Arte/Contesto del 1500.md",
+    "Arte/Leonardo da Vinci.md",
+    "Storia/1500/Carlo V d'Asburgo.md",
+    "Arte/Arte.md",
+    "Storia/1500/1500.md",
+    "Storia/1500/La riforma protestante.md",
+    "Storia/1300/La cattività Avignonese.md",
+    "Storia/Storia.md",
+    "Storia/1300/1300.md",
+    "Storia/1300",
+    "Arte/Bramante.md",
+    "Arte/Botticelli.md",
+    "Fisica/Termodinamica/Trasformazioni Adiabatiche.md",
+    "Fisica/Termodinamica/L'efficenza di una macchina termica.md",
+    "Fisica/Termodinamica/Frigorifero.md",
+    "Fisica/Termodinamica/Ciclo di Carnot.md",
+    "Fisica/Termodinamica/Dimostrazione-Carnot.png",
+    "Fisica/Termodinamica/Carnot.png",
+    "Fisica/Termodinamica/Calore Specifico.md",
+    "Fisica/Termodinamica/Calore.md",
+    "Arte/Botticelli-La_nascita_di_Venere.jpg",
+    "Arte/Botticelli-La_nascita_di_Venere.jpg.fdmdownload",
+    "Arte/1500/1500.md",
     "Filosofia/Platone/Platone.md",
-    "Filosofia/Platone/L'ontologia.md",
-    "Filosofia/Platone/L'essere umano.md",
-    "Filosofia/Platone/Il Simposio.md",
-    "Filosofia/Platone/Lettera VII.md",
-    "Filosofia/Platone/Le Opere.md",
-    "Filosofia/Platone/Le idee.md",
-    "Filosofia/Platone/La conoscenza.md",
-    "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
+    "Arte/Raffaello.md",
+    "status.sh",
+    "Inglese/Shakespeare",
+    "Filosofia/Aristotele",
     "Filosofia/Platone/Miti",
     "Filosofia/Platone/La Vita.md.2024-04-15_18.00.12.foldersync.old",
     "Untitled 1.canvas",

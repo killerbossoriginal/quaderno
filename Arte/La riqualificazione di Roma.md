@@ -1,26 +1,27 @@
-I papi che riqualificheranno sono:
+Ci fu un grande susseguirsi di papi. I più importanti furono:
 - Sisto IV
-	- Creazione Cappella Sistina
+	- Creò la [Cappella Sistina](#Cappella%20Sistina)
 - Giulio II
-	- Grande Mecenate
-	- Inizio ristrutturazione della basilica di San Pietro (che era ancora quella Costantiniana)
-	- Ristrutturazione Cappella Sistina (fa togliere a Michelangelo la volta stellata)
-	- Ritratto da Raffaello
+	- Fu un grande mecenate
+	- Inizio la ristrutturazione della [Basilica di San Pietro](#Basilica%20di%20San%20Pietro) (che era ancora quella Costantiniana)
+	- Ristrutturò la [Cappella Sistina](#Cappella%20Sistina) (fa togliere a Michelangelo la volta stellata)
+	- Intraprese una politica di **consolidamento**
+	- E' considerato un papa **guerriero**
+	- Si fece costruire una [tomba](#La%20tomba%20di%20Giulio%20II)
 - Leone X
-	- Membro dei Medici
+	- Era un membro della famiglia **Medici**
 	- Palazzo Madama (di Roma, attuale sede del Senato)
 	- Continuo ristrutturazione avanti la basilica di San Pietro
-	- Riprende il controllo di Firenza, da cui fa andare e venire artisti
+	- Riprende il controllo di Firenze, da cui fa andare e venire artisti
 		- Tombe Medicee (sacrestia nuova di San Lorenzo, Michelangelo)
-	- Ritratto da Raffaello
+	- Per alleviare i costi iniziò a vendere ==**indulgenze** e **cariche ecclesiastiche**==, ciò portò alla [la riforma protestante](../Storia/1500/La%20riforma%20protestante.md).
 - Clemente VII
-	- 1527 - Ricaduta di Roma dopo il sacco dei Lanzichenecchi
-	- Ritratto da Tiziano
+	- 1527 - Sacco di Roma dei Lanzichenecchi (inviati da [Carlo V d'Asburgo](../Storia/1500/Carlo%20V%20d'Asburgo.md))
 - Paolo III
-	- Ritratto da Tiziano
-	- Costruzione della cupola di San Pietro (Michelangelo)
+	- Costruzione della cupola della [Basilica di San Pietro](#Basilica%20di%20San%20Pietro) (Michelangelo)
 	- Costruzione Cappella Paolina (Michelangelo)
-	- Dipinto nella cappella sistina del Giudizio Universale (Michelangelo)
+	- Dipinto nella [Cappella Sistina](#Cappella%20Sistina) del Giudizio Universale (Michelangelo)
+	- Avviò la Controriforma (contro la [la riforma protestante](../Storia/1500/La%20riforma%20protestante.md))
 
 > I ritratti del papa sono considerati pittura laica, almeno che il papa non diventi un santo
 

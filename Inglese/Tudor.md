@@ -47,3 +47,5 @@ Some people said that in the scottish branch (started by Henry VII) Mary Stuart 
 For the death of Mary Stuart the spanish sent an armada, but the english won.
 
 Elizabeth startedsome geograbhical explorations, and started the establishment of colonies.
+
+Elizabeth started the building of [theatres](The%20theatres.md).
