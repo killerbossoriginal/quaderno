@@ -1,0 +1,80 @@
+Pagine:
+- 142-146 (non versione 2 vergine roccie)
+- 147-150 (primo paragrafo)
+- 151-152
+
+Lettura:
+- 154-155
+
+Opere
+- L'annunciazione
+- La vergine delle roccie I
+- La dama con l'ermellino
+- Il cenacolo
+- La gioconda
+
+# Biografia
+Leonardo da Vinci è uno scienziato nato a Vinci come figlio illegittimo di un ricco notaio. Anche essendo illegittimo il padre si occuperà di lui.
+Fin da piccolo osserva la realtà, analizzandola scientificamente e rappresentandola graficamente.
+Il padre lo manderà da **Andrea del Verrocchio**, che apprende la tecnica della pittura, che secondo lui è l'unica che riesce a comunicare un sapere (declassando tutte le opere di altro tipo, compresi gli scritti).
+Vedendo la grandissima capacità di Leonardo, il Verrocchio gli chiese di finire alcune sue opere come nel Battesimo di Cristo.
+
+Le raccolte di tutti gli appunti e gli studi, con moltissimi disegni, sono chiamati **codici**.
+
+Lui sperimentava anche, e prendeva appunti su ciò.
+
+Leonardo, quando riceva una commissione, analizzava qualsiasi cosa che disegnava. Le  opere così diventavano lunghissime da realizzare.
+
+Leonardo introdusse ==la prospettiva aerea==, ovvero una prospettiva lineare con l'aggiunta **dell'atmosfera**, per cui deve utilizzare la tecnica dello sfumato, e quindi non può avere contorni netti.
+
+Non essendo neoplatonico non vuole entrare nella cerchia di Lorenzo de'Medici e riuscì ad andare da **Ludovico Sforza** (Milano). Quest'ultimo però non è un mecenate, e nella lettera di presentazione Leonardo non cita proprio il fatto di essere pittore, ma dice di occuparsi di urbanistica e di costruire strumenti musicali. Dice ovviamente anche di essere uno scienziato.
+In questo contesto sono stati ritrovati appunti di strade su più livelli, come metropolitane, ponti, sottopassaggi...
+## La fuggita da Milano
+Con l'invasione francese di Milano, lui tornò a Firenze (dopo la caduta dei Medici e dove salita la repubblica) dove gli venne chiesto di iniziare a fare una opera a Palazzo Vecchio. Gli venne  chiesto di fare un muro, e hanno dato a Raffaello un'altro. Leonardo non terminò e Raffaello non iniziò nanche.
+Andò poi a Roma ma non trovò una buona area perchè a Roma erano in corso lavori di restauro che dovevano essere finiti.
+
+Venne poi chiamato dal re di Francia, che lo stimava molto, visse in un castello donatogli dal re e dove nel 1519 morì.
+# Opere
+## L'annunciazione
+Questa è una delle prime opere che Leonardo fà da solo, rappresenta l'annunciazione dall'arcangelo Gabriele a Maria.
+Questo è situato in un ambiente contemporaneo, con molti elementi classici.
+
+Gabriele è di profilo, mentre Maria è a 3/4.
+
+Maria sembra spaventata.
+
+C'è la simbologia nei colori dei vestiti di Maria, che riportano alla tradizione (blu = madonna).
+
+Le ali dell'angelo sono realistiche, come tutti gli alberi. Però c'è il cipresso tra ciò, che è un albero molto comune in Toscana, ed ha un valore simbolico perchè solitamente sono messi nei viali cimiteriali, come a ricordare cosa succederà a Gesù.
+
+Viene usata la prospettiva aerea.
+## La vergine delle roccie
+E' descritta così perchè è disegnato vicino a una grotta, senza elementi architettonici.
+C'è ovviamente Maria, e un altra figura angelica.
+
+Il bambino abbracciato dalla figura angelica è Gesù, riconosciuto dalla posa delle mani in simbolo della benedizione. L'altro bambino è San Giovanni, che è il cugino, e che battezzerà Gesù.
+Usa lo sfumato pittorico e la prospettiva aerea.
+
+Rappresenta anche l'espressività, (i moti dell'animo).
+## La dama con l'ermellino
+Questa è un opera tenuta a Cracovia.
+Quest'opera è di una veridicità. La figura è posta a 3/4, ma con la testa gira dall'altra parte come a fare gli affati suoi.
+
+L'ermellino è un simbolo di scaltrezza e purezza.
+
+E' un opera di ritrattistica, i dettagli, lo sfondo scuro e l'olio su tela sono rifermenti all'arte fiamminga.
+
+Questa potrebbe rappresentare Cecilia Gallerani \[...], una delle amanti di Ludovico Sforza. Quest'ultimo era diventato cavaliere dell'ordine dell'ermellino.
+## Il Cenacolo
+Nella chiesa di Santa Maria delle Grazie Ludovico Sforza chiese di inserire sul muro tra il refettorio e la cucina il dipinto dell'ultima cena.
+Qui vengono posizionati tutti su una tavolata, si sentono le discussioni tra le persone, probabilmente causate da un annuncio di Gesù ("uno di voi mi tradirà").
+
+I simboli inalto sono simboli araldici di diversi ducati tra cui gli sforza.
+
+Sulla taveola c'è tutto quello che serve, e la tovaglia rimanda direttamente al lino utilizzato al tempo.
+
+Le parti nere sono arazzi, persi nel tempo, a causa di esperimenti di Leonardo e a causa delle ristrutturazioni.
+
+Vuole sperimentare una nuova tecnica, colorando a secco e poi fissando il colore con la fiamma.
+## La Gioconda
+Come in tutti i precedenti utilizzò i suoi studi, soprattutto dinuovo la prospettiva aerea e lo sfumato.

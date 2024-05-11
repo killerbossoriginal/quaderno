@@ -1,4 +1,5 @@
 - [Platone](./Platone/Platone.md)
+- [Aristotele](./Aristotele/Aristotele.md)
 
 # Termini
 
