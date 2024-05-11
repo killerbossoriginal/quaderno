@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "30d632eb46864a9a",
+        "id": "da3e980f0a369c26",
         "type": "tabs",
         "children": [
           {
-            "id": "feede96870f16c8d",
+            "id": "d7117548cde8a5ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisica/Termodinamica/Ciclo di Carnot.md",
+                "file": "Storia/1500/La riforma protestante.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Fisica/Termodinamica/Ciclo di Carnot.md",
+            "file": "Storia/1500/La riforma protestante.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Fisica/Termodinamica/Ciclo di Carnot.md",
+            "file": "Storia/1500/La riforma protestante.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Fisica/Termodinamica/Ciclo di Carnot.md"
+            "file": "Storia/1500/La riforma protestante.md"
           }
         }
       }
@@ -132,21 +132,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "feede96870f16c8d",
+  "active": "d7117548cde8a5ed",
   "lastOpenFiles": [
+    "README.md",
+    "Informatica/Informatica.md",
+    "Informatica/Intelligenza Artificiale.md",
+    "Storia/1500/1500.md",
+    "Storia/1500/La riforma protestante.md",
+    "Arte/Arte.md",
+    "Arte/1500/1500.md",
+    "Storia/Storia.md",
+    "Fisica/Termodinamica/Ciclo di Carnot.md",
+    "Storia/1500",
+    "Storia",
     "Fisica/Termodinamica/Calore Specifico.md",
     "Matematica/Logaritmi.md",
     "Fisica/Termodinamica/Dimostrazione-Carnot.png",
-    "Fisica/Termodinamica/Ciclo di Carnot.md",
     "Fisica/Termodinamica/Principi/2° Principio.md",
     "Fisica/Termodinamica/Principi/3° Principio.md",
-    "Informatica/IA.md",
     "Informatica",
     "Matematica/Esponenziali.md",
     "Matematica/Equazioni di secondo grado.md",
     "Inglese/Tudor.md",
     "Inglese/English.md",
-    "README.md",
     "Inglese",
     "Fisica/Termodinamica/Termodinamica.md",
     "Fisica/Termodinamica/Calore.md",
@@ -159,17 +167,10 @@
     "Fisica/Termodinamica/Frigorifero.md",
     "Filosofia/Platone/Il Simposio.md",
     "Filosofia/Platone/Anima.md",
-    "Filosofia/Platone/L'essere umano.md",
-    "Filosofia/Platone/L'ontologia.md",
-    "Filosofia/Platone/La conoscenza.md",
-    "Filosofia/Platone/Le idee.md",
-    "Filosofia/Platone/Lettera VII.md",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno",
     "Italiano/Giovanni Boccaccio",
     "Italiano/Giovanni Boccaccio/Decameron/IV giorno",
     "Italiano/Giovanni Boccaccio/Decameron",
-    "Italiano",
-    "Filosofia/Platone/La Vita.md.2024-04-15_18.00.12.foldersync.old",
     "Fisica/Principi/macchina-termica.png",
     "Fisica/Principi/macchina termica.png",
     "Fisica/Untitled.canvas"
