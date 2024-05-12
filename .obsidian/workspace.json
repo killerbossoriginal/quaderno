@@ -24,8 +24,13 @@
             "id": "8d33d474e2412d03",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Arte/Leonardo da Vinci.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -95,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arte/Leonardo da Vinci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arte/Leonardo da Vinci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Arte/Leonardo da Vinci.md"
+              }
             }
           }
         ],
@@ -155,6 +164,7 @@
   },
   "active": "8d33d474e2412d03",
   "lastOpenFiles": [
+    "Arte/Arte.md",
     "Arte/La riqualificazione di Roma.md",
     "Inglese/The theatres.md",
     "Inglese/Tudor.md",
@@ -164,7 +174,6 @@
     "Arte/Contesto del 1500.md",
     "Arte/Leonardo da Vinci.md",
     "Storia/1500/Carlo V d'Asburgo.md",
-    "Arte/Arte.md",
     "Storia/1500/1500.md",
     "Storia/1500/La riforma protestante.md",
     "Storia/1300/La cattività Avignonese.md",
