@@ -18,7 +18,7 @@ Dopo la morte di Lorenzo, il figlio si indebolisce e venne espulso, instaurando 
 Michelangelo si schiera con i repubblicani, ma doveva mangiare e quindi iniziò a fare arte.
 
 A Michelangelo non piace la pittura, ma le venne commissionato il [Il tondodoni](#Il%20tondodoni)
-### Con Giulio II
+## Con Giulio II
 Tra una cosa e l'altra che stava facendo per la repubblica di Firenze (vedi [Il David](#Il%20David)) venne chiamato a Roma da **Giulio II**. Michelangelo andò ma iniziarono a litigare.
 ## Con Leone X
 Dopo le opere date da Giulio II, salì Leone X, che gli chiese di produrre opere sia a Roma che a Firenze. Infatti Leone X è un membro della famiglia De' Medici. Leone X volle far progettare a Michelangelo [La Sagrestia Nuova di San Lorenzo](#Sagrestia%20Nuova%20di%20San%20Lorenzo)

@@ -8,7 +8,7 @@ Lettura:
 
 Opere
 - L'annunciazione
-- La vergine delle roccie I
+- La vergine delle rocce I
 - La dama con l'ermellino
 - Il cenacolo
 - La gioconda
@@ -86,3 +86,7 @@ In questo quadro, viene posizionata Maria che gioca con il bambino, seduta sulle
 In questo quadro utilizza i moti dell'animo, lo sfumato e la prospettiva aerea
 ## La Gioconda
 Come in tutti i precedenti utilizzò i suoi studi, soprattutto dinuovo la prospettiva aerea e lo sfumato.
+Leonardo fu molto ossessionato da quest'opera in quanto la inizio nel secondo periodo a Firenze, terminandola molto tempo dopo nel suo castello.
+Venne poi acquisita dalla collezione reale francese per un ingente somma di denaro.
+
+Il quadro non è completamente simmetrico, sia nello sfondo sia nel volto. Ma comunque il volto rispetta la sezione aurea.
