@@ -13,13 +13,31 @@ Opere:
 - le stanze vaticane
 # Biografia
 Raffaello è originario di Urbino (città governata da Federico da Montefeltro).
-Il padre era un pittore, ma fa istruire il figlio da qualcun'altro, verosimilmente dal perugino.
+Il padre era un pittore, ma fa istruire il figlio da qualcun'altro, verosimilmente dal ==perugino==.
 
 Raffaello andrà a Roma, e avrà molte committenze, soprattutto dal papa. Lui avrà anche comiti architettonici.
 
-Il papa gli commise le stanze vaticane, che vennero iniziate e poi assegnate ai suoi alievi.
+Il papa gli commise le stanze vaticane (i suoi appartamenti), che vennero iniziate e poi assegnate ai suoi alievi.
 
 Lui vive prendendo le tecniche degli altri. Partendo da Brunelleschi, Leonardo e altri.
 # Opere
 ## La madonna del cardellino
 Qui è rappresentata la madonna assieme a Gesù e a San Giovanni, qui i moti dell'animo sono meno evidenti, perchè è un episodio molto simbolico.
+## Liberazione di San Pietro
+1. in centro: Pietro venne liberato dall'angelo
+2. a destra: pietro fuori dalla cella
+3. a sinistra: i soldati si svegliano, la cella è vuota, uno sgrida le guardie
+Il vero soggetto però è la luce (la luce divina dell'angelo e l'alba a sinistra).
+Vengono inseriti elementi architettonici classici.
+## Incendio di Borgo
+Sono presenti elementi classici (colonne, capitelli, archi) e elementi rinascimentali (bugnato)
+
+E' un incendio che viene fermato dal papa
+Non è presentissima la mano di Raffaello perchè vengono assegnate agli alievi, infatti non si vede la solita armonia ed è tutto più caotico.
+## La scuola di Atene
+L'opera è inserita negli alloggi del papa.
+
+Rappresenta gli uomini classici che hanno fatto la storia.
+E' situato in un ambiente classico greco+romano.
+E' la descrizione dello stile di Raffaello.
+E' presente una grande armonia tra le persone, ogniuno sta facendo qualcosa di diverso ma riesce ad esserci armonia.

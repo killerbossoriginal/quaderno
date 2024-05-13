@@ -8,13 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8caa840816bcf40d",
+            "id": "7c9c3e53e0c3a6a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Aristotele/L-Metafisica.md",
+                "file": "Arte/Michelangelo Buonarroti.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -86,7 +87,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Filosofia/Aristotele/L-Metafisica.md",
+            "file": "Arte/Michelangelo Buonarroti.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Filosofia/Aristotele/L-Metafisica.md",
+            "file": "Arte/Michelangelo Buonarroti.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +116,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Filosofia/Aristotele/L-Metafisica.md"
+            "file": "Arte/Michelangelo Buonarroti.md"
           }
         }
       }
@@ -132,11 +133,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1db4e93d8a8ea878",
+  "active": "7c9c3e53e0c3a6a3",
   "lastOpenFiles": [
+    "Arte/Raffaello.md",
+    "Arte/Leonardo da Vinci.md",
+    "Arte/Michelangelo Buonarroti.md",
+    "Arte/Bramante.md",
+    "Arte/Untitled.md",
+    "Arte/Per la verifica.md",
+    "Arte/Arte.md",
+    "Filosofia/Aristotele/L-Metafisica.md",
     "Filosofia/Aristotele/La metafisica.md",
     "Filosofia/Aristotele/Aristotele.md",
-    "Filosofia/Aristotele/L-Metafisica.md",
     "Filosofia/Aristotele/L'essere.md",
     "Filosofia/Aristotele/L'Analisi.md",
     "README.md",
@@ -156,14 +164,7 @@
     "Fisica/Termodinamica/Principi/2° Principio.md",
     "Inglese/Shakespeare/The theatres.md",
     "Inglese/Shakespeare/Shakespeare.md",
-    "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
-    "Inglese/Shakespeare/Shall i compare thee.md",
-    "Inglese/English.md",
-    "Inglese/Tudor.md",
     "Inglese/Shakespeare",
-    "Arte/1500/Raffaello.md",
-    "Arte/1500/Leonardo da Vinci.md",
-    "Arte/1500/Riqualificazione di Roma.md",
     "Filosofia/Aristotele",
     "Storia/1500",
     "Storia",

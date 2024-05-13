@@ -16,7 +16,7 @@ Opere
 # Biografia
 Leonardo da Vinci è uno scienziato nato a Vinci come figlio illegittimo di un ricco notaio. Anche essendo illegittimo il padre si occuperà di lui.
 Fin da piccolo osserva la realtà, analizzandola scientificamente e rappresentandola graficamente.
-Il padre lo manderà da **Andrea del Verrocchio**, che apprende la tecnica della pittura, che secondo lui è l'unica che riesce a comunicare un sapere (declassando tutte le opere di altro tipo, compresi gli scritti).
+Il padre lo manderà da **Andrea del ==Verrocchio==**, che apprende la tecnica della pittura, che secondo lui è l'unica che riesce a comunicare un sapere (declassando tutte le opere di altro tipo, compresi gli scritti).
 Vedendo la grandissima capacità di Leonardo, il Verrocchio gli chiese di finire alcune sue opere come nel Battesimo di Cristo.
 
 Le raccolte di tutti gli appunti e gli studi, con moltissimi disegni, sono chiamati **codici**.
