@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arte/Michelangelo Buonarroti.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Arte/Michelangelo Buonarroti.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Arte/Michelangelo Buonarroti.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +116,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Arte/Michelangelo Buonarroti.md"
+            "file": "README.md"
           }
         }
       }
@@ -133,11 +133,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c9c3e53e0c3a6a3",
+  "active": "2dac1ff3a8a2ec90",
   "lastOpenFiles": [
+    "Inglese/Shakespeare/Shakespeare.md",
+    "Inglese/Shakespeare/Shall i compare thee.md",
+    "Inglese/Shakespeare/The First Folio.canvas",
+    "Inglese/The theatres.md",
+    "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
+    "Arte/Michelangelo Buonarroti.md",
     "Arte/Raffaello.md",
     "Arte/Leonardo da Vinci.md",
-    "Arte/Michelangelo Buonarroti.md",
     "Arte/Bramante.md",
     "Arte/Untitled.md",
     "Arte/Per la verifica.md",
@@ -160,10 +165,6 @@
     "Filosofia/Filosofia.md",
     "Matematica/Matematica.md",
     "Matematica/Statistica.md",
-    "Fisica/Termodinamica/Principi/3° Principio.md",
-    "Fisica/Termodinamica/Principi/2° Principio.md",
-    "Inglese/Shakespeare/The theatres.md",
-    "Inglese/Shakespeare/Shakespeare.md",
     "Inglese/Shakespeare",
     "Filosofia/Aristotele",
     "Storia/1500",

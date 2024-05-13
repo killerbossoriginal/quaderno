@@ -1,3 +1,9 @@
+The first theatre in London has been built in 
+
+Most important theatres:
+- The Globe
+- The Swan
+
 The theathres developed expecially in Southwark (like today's Las Vegas).
 In Soutwark (a place out of London walls) there was:
 - Theatres
@@ -13,16 +19,22 @@ A theatre was a:
 and actors were considered immoral people.
 They went to the theatre in the afternoon because there was no electricity and there was a structure in the open air. It was in an amphitheatre shape made in wood and roof of thatch (tetto di paglia).
 It was a simple scene, with a small canvas and some props to make the setting.
-You can buy a ticket for the galleries (expansive, with a roof, you could sit) or for the pit (the front of the stage, but you were with no roof and standing, you were called groundlings). They talked and commented, so it was veriy noisy. All the english society can enter, from the king to the paesants.
-The  stage:
-- roof
-- trapdoor
+You can buy a ticket for the galleries (expansive, with a roof, you could sit) or for the pit (the front of the stage, but you were with no roof and standing, you were called ==groundlings==). They talked and commented, so it was veriy noisy. All the english society can enter, from the king to the paesants.
+
+The stage:
+- roof (==the heavens==)
+- ==trapdoors==
 - 2 levels
 	- balcony
 	- musicians
 - actors
 	- males only
 	- cross dressing
+There was ==tiring houses== (camerini) where the actors dressed up.
+There was ==props== (oggetti di scena).
+## The life of the actors
+Their profession was considered borderline and illegal.
+The theatre was considered a place of sin (peccato, perchè erano sporchi e affollati, quindi c'erano molte epidemie).
 ## Tragedy
 In a Greek Tragedy, there was unordinary people: kings, princes and warriors.
 There is a flow related to madness or suffering (crisis), then there is a downfall, where there is a catharsis (where the people who watch the tragedy identify themselfs into the protagonist).
