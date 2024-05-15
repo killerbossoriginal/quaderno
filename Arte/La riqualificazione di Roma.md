@@ -7,7 +7,7 @@ Ci fu un grande susseguirsi di papi. I più importanti furono:
 	- Ristrutturò la [Cappella Sistina](#Cappella%20Sistina) (fa togliere a Michelangelo la volta stellata)
 	- Intraprese una politica di **consolidamento**
 	- E' considerato un papa **guerriero**
-	- Si fece costruire una [tomba](#La%20tomba%20di%20Giulio%20II)
+	- Si fece costruire una [tomba](Michelangelo%20Buonarroti.md#La%20Tomba%20di%20Giulio%20II)
 - Leone X
 	- Era un membro della famiglia **Medici**
 	- Palazzo Madama (di Roma, attuale sede del Senato)
@@ -47,20 +47,9 @@ Questa cappella fu poi utilizzata per l'elezione dei papi (conclave).
 
 **Michelangelo** poi ristrutturerà sotto commissione di **Giulio II**, modificando la volta stellata con la storia della genesi (creazione del mondo), ogni riquadro rappresenta un episodio.
 # Basilica di San Pietro
-**Giulio II** commissionò a **Donato Bramante** di ristrutturare la basilica di San Pietro, egli non la vedrà mai finita.
+**Giulio II** commissionò a [Donato Bramante](Donato%20Bramante.md) di ristrutturare la basilica di San Pietro, egli non la vedrà mai finita. La iniziò a costruire come croce greca.
 Dopo la morte di Bramante il progetto venne assegnato anche a
-- Raffaello
+- Raffaello - cambia il progetto in croce latina
 - Antonio da San Gallo
 - Peruzzi
-- Michelangelo
-
-Michelangelo chiude la cupola, seguendo a grandi linee Bramante.
-# La tomba di Giulio II
-Giulio II chiese anche a Michelangelo di creare la sua tomba, la sua idea era gigante, ma morì molto presto, e i successori chiesero a Michelangelo di "tagliar corto".
-# I Grandi Artisti
-- Leonardo
-- Michelangelo (definito dal Vasari come "Il Divino")
-- Raffaello
-- Tiziano
-- Bramante
-Leonardo voleva andare a Roma, però era uno scienziato, e qualsiasi cosa dipingeva la doveva studiare scientificamente.
+- Michelangelo - progetta la cupola, riprende anche in mano i progetti originali di Bramante

@@ -1,2 +1,0 @@
-- Illusionismo prospettico (santa maria presso san satiro) grazie a:
-	- volta cassettonata
