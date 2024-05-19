@@ -14,21 +14,25 @@ Opere
 - La gioconda
 
 # Biografia
-Leonardo da Vinci è uno scienziato nato a Vinci come figlio illegittimo di un ricco notaio. Anche essendo illegittimo il padre si occuperà di lui.
-Fin da piccolo osserva la realtà, analizzandola scientificamente e rappresentandola graficamente.
-Il padre lo manderà da **Andrea del Verrocchio**, che apprende la tecnica della pittura, che secondo lui è l'unica che riesce a comunicare un sapere (declassando tutte le opere di altro tipo, compresi gli scritti).
+## Nascita e Adolescenza
+Leonardo da Vinci è uno scienziato nato a Vinci come figlio illegittimo di un ricco notaio che lo accudì e lo crebbe a Vinci.
+
+Fin da piccolo osserva la realtà, analizzandola scientificamente e rappresentandola graficamente. Egli infatti pensava alla pittura come l'arte più nobile e che poteva far capire più cose (infatti per lui le altre arti erano meno suggestive per chi le vedeva)
+## A Firenze
+### Il verrocchio
+Il padre lo manderà da **Andrea del Verrocchio** a Firenze, dove apprende la sua tecnica.
 Vedendo la grandissima capacità di Leonardo, il Verrocchio gli chiese di finire alcune sue opere come nel Battesimo di Cristo.
+### Il neoplatonismo
+Leonardo non ha mai avuto ideali neoplatonici e quindi non volle entrare nella cerchia di Lorenzo de'Medici. Riuscì a farsi invitare da **Ludovico Sforza** (Milano).
+# A Milano
+Leonardo volle farsi invitare da **Ludovico Sforza**. Egli però non è un grande fan dell'arte. Quindi nella lettera di presentazione Leonardo non cita il fatto di essere pittore, ma dice di occuparsi di **urbanistica**, di essere un ingegnere, un inventore, di **costruire strumenti musicali** e dice ovviamente di essere uno **scienziato**.
+In questo contesto sono stati ritrovati appunti di strade su più livelli, come metropolitane, ponti, sottopassaggi. Essi però non erano realizzabili nel contesto storico.
+## Le sue opere
+Leonardo già durante la permanenza alla bottega del Verrocchio aveva già sviluppato il suo stile. Pensava che lo scopo dell'arte fosse **rappresentare la natura**. Prese e accettò i principi della **prospettiva brunelleschiana**, ma ci aggiunge delle sfumature, simulando **l'atmosfera**. Questa tecnica prende il nome di **==Prospettiva Aerea==**.
 
-Le raccolte di tutti gli appunti e gli studi, con moltissimi disegni, sono chiamati **codici**.
+Le raccolte di tutti gli appunti sugli studi e sugli sperimenti, presi e accompagnati con moltissimi disegni, sono chiamati **codici**.
 
-Lui sperimentava anche, e prendeva appunti su ciò.
-
-Leonardo, quando riceva una commissione, analizzava qualsiasi cosa che disegnava. Le  opere così diventavano lunghissime da realizzare.
-
-Leonardo introdusse ==la prospettiva aerea==, ovvero una prospettiva lineare con l'aggiunta **dell'atmosfera**, per cui deve utilizzare la tecnica dello sfumato, e quindi non può avere contorni netti.
-
-Non essendo neoplatonico non vuole entrare nella cerchia di Lorenzo de'Medici e riuscì ad andare da **Ludovico Sforza** (Milano). Quest'ultimo però non è un mecenate, e nella lettera di presentazione Leonardo non cita proprio il fatto di essere pittore, ma dice di occuparsi di urbanistica e di costruire strumenti musicali. Dice ovviamente anche di essere uno scienziato.
-In questo contesto sono stati ritrovati appunti di strade su più livelli, come metropolitane, ponti, sottopassaggi...
+Leonardo, quando disegnava, analizzava scientificamente qualsiasi cosa. Le  opere così diventavano lunghissime da realizzare, e spesso non venivano concluse.
 ## La fuggita da Milano
 Con l'invasione francese di Milano, lui tornò a Firenze (dopo la caduta dei Medici e dove salita la repubblica) dove gli venne chiesto di iniziare a fare una opera a Palazzo Vecchio. Gli venne  chiesto di fare un muro, e hanno dato a Raffaello un'altro. Leonardo non terminò e Raffaello non iniziò nanche.
 Andò poi a Roma ma non trovò una buona area perchè a Roma erano in corso lavori di restauro che dovevano essere finiti.
@@ -36,35 +40,40 @@ Andò poi a Roma ma non trovò una buona area perchè a Roma erano in corso lavo
 Venne poi chiamato dal re di Francia, che lo stimava molto, visse in un castello donatogli dal re e dove nel 1519 morì.
 # Opere
 ## L'annunciazione
-Questa è una delle prime opere che Leonardo fà da solo, rappresenta l'annunciazione dall'arcangelo Gabriele a Maria.
+Questa è una delle prime opere che Leonardo produce in solitaria, rappresenta l'annunciazione dall'arcangelo Gabriele a Maria.
 Questo è situato in un ambiente contemporaneo, con molti elementi classici.
 
 Gabriele è di profilo, mentre Maria è a 3/4.
 
 Maria sembra spaventata.
 
-C'è la simbologia nei colori dei vestiti di Maria, che riportano alla tradizione (blu = madonna).
+Maria è vestita di blu, suo colore tradizionale.
 
-Le ali dell'angelo sono realistiche, come tutti gli alberi. Però c'è il cipresso tra ciò, che è un albero molto comune in Toscana, ed ha un valore simbolico perchè solitamente sono messi nei viali cimiteriali, come a ricordare cosa succederà a Gesù.
-
-Viene usata la prospettiva aerea.
-## La vergine delle roccie
-E' descritta così perchè è disegnato vicino a una grotta, senza elementi architettonici.
+Le ali dell'angelo e l'ambiente sono realistici.
+Tra gli alberi ci sono dei cipresso: essi hanno un valore simbolico perché solitamente sono posizionati nei viali cimiteriali, come a ricordare cosa succederà a Gesù.
+Viene usata la **prospettiva aerea**.
+## La vergine delle rocce
+E' descritta così perché è disegnata vicino a una grotta.
+Non sono presenti elementi architettonici.
 C'è ovviamente Maria, e un altra figura angelica.
 
 Il bambino abbracciato dalla figura angelica è Gesù, riconosciuto dalla posa delle mani in simbolo della benedizione. L'altro bambino è San Giovanni, che è il cugino, e che battezzerà Gesù.
+Rappresenta anche l'espressività delle persone, chiamati **i moti dell'animo**.
+
 Usa lo sfumato pittorico e la prospettiva aerea.
 
-Rappresenta anche l'espressività, (i moti dell'animo).
+Questo quadro doveva rappresentare l'immacolata concezione, ovvero il fatto che Gesù è nato senza peccato originale. Non esistendo un iconografia per ciò, Leonardo propose Gesù, Maria, Giovanni Battista e un angelo come iconografia di ciò.
 ## La dama con l'ermellino
 Questa è un opera tenuta a Cracovia.
-Quest'opera è di una veridicità. La figura è posta a 3/4, ma con la testa gira dall'altra parte come a fare gli affati suoi.
+Quest'opera è molto realistica.
 
-L'ermellino è un simbolo di scaltrezza e purezza.
+Posizione: La figura è posta a 3/4, ma con la testa gira dall'altra parte come a fare gli affari suoi.
+
+L'ermellino è un simbolo di **scaltrezza** e **purezza**.
 
 E' un opera di ritrattistica, i dettagli, lo sfondo scuro e l'olio su tela sono rifermenti all'arte fiamminga.
 
-Questa potrebbe rappresentare Cecilia Gallerani \[...], una delle amanti di Ludovico Sforza. Quest'ultimo era diventato cavaliere dell'ordine dell'ermellino.
+Questa potrebbe rappresentare Cecilia Gallerani \[...], **una delle amanti di Ludovico Sforza**. Difatti potrebbe essere proprio lui il committente visto che quest'ultimo era diventato cavaliere dell'ordine dell'ermellino.
 ## Il Cenacolo
 Nella chiesa di Santa Maria delle Grazie Ludovico Sforza chiese di inserire sul muro tra il refettorio e la cucina il dipinto dell'ultima cena.
 Qui vengono posizionati tutti su una tavolata, si sentono le discussioni tra le persone, probabilmente causate da un annuncio di Gesù ("uno di voi mi tradirà").

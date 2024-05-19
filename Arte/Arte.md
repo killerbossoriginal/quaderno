@@ -4,3 +4,6 @@
 	- [La riqualificazione di Roma](La%20riqualificazione%20di%20Roma.md)
 	- [Leonardo da Vinci](Leonardo%20da%20Vinci.md)
 	- [Raffaello](Raffaello.md)
+
+# Aiutino
+Per fare l'analisi delle opere segui il contenuto [di questa nota](Analisi%20delle%20opere.md)
