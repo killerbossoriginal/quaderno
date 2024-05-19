@@ -4,7 +4,7 @@
 - [La riqualificazione di Roma](La%20riqualificazione%20di%20Roma.md)
 - [Donato Bramante](Donato%20Bramante.md)
 - [Leonardo da Vinci](Leonardo%20da%20Vinci.md)
-- [Raffaello](Raffaello.md)
+- [Raffaello Sanzio](Raffaello%20Sanzio.md)
 - [Michelangelo Buonarroti](Michelangelo%20Buonarroti.md)
 
 # Aiutino

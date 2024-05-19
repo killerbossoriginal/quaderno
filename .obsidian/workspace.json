@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arte/Donato Bramante.md",
+                "file": "Arte/Michelangelo Buonarroti.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arte/Donato Bramante.md",
+                "file": "Arte/Michelangelo Buonarroti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arte/Donato Bramante.md",
+                "file": "Arte/Michelangelo Buonarroti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arte/Donato Bramante.md"
+                "file": "Arte/Michelangelo Buonarroti.md"
               }
             }
           }
@@ -150,41 +150,42 @@
   },
   "active": "a665f0e2b934f90a",
   "lastOpenFiles": [
-    "Arte/Bramante/Tempietto di San Pietro.jpg",
+    "Arte/Michelangelo Buonarroti/Il giudizio universale.jpg",
+    "Arte/Michelangelo Buonarroti/Il giudizio universale.jpg.fdmdownload",
+    "Arte/Michelangelo Buonarroti/La sagrestia Nuova di San Lorenzo.jpg",
+    "Arte/Michelangelo Buonarroti/La sagrestia Nuova di San Lorenzo.jpg.fdmdownload",
+    "Arte/Michelangelo Buonarroti/Prigioni dell'accademia.jpg",
+    "Arte/Michelangelo Buonarroti/Tomba di Giulio II.jpg",
+    "Arte/Michelangelo Buonarroti/Tondo doni.jpg",
+    "Arte/Michelangelo Buonarroti/Tondo doni.jpg.fdmdownload",
+    "Arte/Michelangelo Buonarroti/Pietà Vaticana.jpg",
+    "Arte/Michelangelo Buonarroti/Il David.jpg",
+    "Arte/Michelangelo Buonarroti/Il David.jpg.fdmdownload",
+    "Arte/Michelangelo Buonarroti",
+    "Arte/Raffaello Sanzio.md",
+    "Arte/Raffaello Sanzio/La scuola di Atene.jpg",
+    "Arte/Raffaello Sanzio/La scuola di Atene.jpg.fdmdownload",
+    "Arte/Raffaello Sanzio/Incendio di Borgo.jpg",
+    "Arte/Raffaello Sanzio/Liberazione di San Pietro.jpg",
+    "Arte/Raffaello Sanzio/Madonna del Cardellino.jpg",
+    "Arte/Raffaello Sanzio",
+    "Arte/Donato Bramante.md",
+    "Arte/La riqualificazione di Roma.md",
+    "Arte/Arte.md",
     "Arte/Contesto del 1500.md",
     "Arte/Botticelli.md",
-    "Arte/Bramante/Santa Maria delle Grazie.png",
-    "Arte/Donato Bramante.md",
-    "Arte/Bramante/Santa Maria presso San Satiro.jpg",
-    "Arte/Bramante",
-    "Arte/Arte.md",
-    "Arte/Leonardo da Vinci/La Gioconda.jpg",
+    "Arte/Donato Bramante",
     "Arte/Leonardo da Vinci/La Gioconda",
     "Arte/Leonardo da Vinci/La Gioconda.fdmdownload",
     "Arte/Leonardo da Vinci.md",
-    "Arte/Leonardo da Vinci/La Gioconda.jpg.fdmdownload",
-    "Arte/Leonardo da Vinci/Sant'Anna.jpg",
-    "Arte/Leonardo da Vinci/Sant'Anna.jpg.fdmdownload",
-    "Arte/Leonardo da Vinci/Il Cenacolo.jpg",
-    "Arte/Leonardo da Vinci/Il Cenacolo.jpg.fdmdownload",
-    "Arte/Leonardo da Vinci/Dama con l'ermellino.jpg",
-    "Arte/Leonardo da Vinci/Dama con l'ermellino.jpg.fdmdownload",
-    "Arte/Leonardo da Vinci/Vergine delle Roccie I.jpg",
-    "Arte/Leonardo da Vinci/Vergine delle Roccie I.jpg.fdmdownload",
-    "Arte/Leonardo da Vinci/Annunciazione.jpg",
-    "Arte/Leonardo da Vinci",
-    "Arte/Annunciation_(Leonardo).jpg.fdmdownload",
     "Arte/Michelangelo Buonarroti.md",
     "Arte/Leonardo da Vinci.canvas",
     "Inglese/The theatres.md",
     "Inglese/The First Folio.canvas",
     "Inglese/Tudor.md",
     "Inglese/English.md",
-    "Arte/Raffaello.md",
-    "Arte/La riqualificazione di Roma.md",
     "Arte/Per la verifica.md",
     "Arte/Bramante.md",
-    "Inglese/Shakespeare/Shakespeare's Plays Act.png",
     "Arte/Analisi delle opere.md",
     "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
     "Inglese/Shakespeare/Shakespeare.md",
@@ -198,7 +199,6 @@
     "Fisica/Termodinamica/Termodinamica.md",
     "Storia/1500/Carlo V d'Asburgo.md",
     "Storia/1500/1500.md",
-    "Fisica/Termodinamica/Dimostrazione-Carnot.png",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]

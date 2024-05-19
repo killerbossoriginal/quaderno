@@ -11,7 +11,7 @@ Venezia subì un declino a causa della scoperta dell'America. I veneziani allarg
 # I Grandi Artisti
 - [Leonardo da Vinci](Leonardo%20da%20Vinci.md)
 - [Michelangelo Buonarroti](Michelangelo%20Buonarroti.md) (definito dal Vasari come "Il Divino")
-- [Raffaello](Raffaello.md)
+- [Raffaello Sanzio](Raffaello%20Sanzio.md)
 - Tiziano
 - [Donato Bramante](Donato%20Bramante.md)
 Leonardo voleva andare a Roma, però era uno scienziato, e qualsiasi cosa dipingeva la doveva studiare scientificamente.
