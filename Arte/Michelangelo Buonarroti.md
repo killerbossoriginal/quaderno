@@ -37,7 +37,7 @@ Inoltre la madonna non piange, quasi che sapesse che ci sarà la risurrezione.
 La repubblica fiorentina chiede di realizzare un'opera che parli della repubblica.
 **==Il David è la personificazione del pensiero umanistico==**.
 
-Davide secondo la leggenda è il ragazziono che sconfigge Golia **usando la ragione**. Quest'opera rappresenta il momento in cui Davide ragiona su come sconfiggerlo. E' rappresentato ciò perchè la repubblica pensa che si possa vincere con la conoscenza sopra il denaro e le signorie.
+Davide secondo la leggenda è il ragazzino che sconfigge Golia **usando la ragione**. Quest'opera rappresenta il momento in cui Davide ragiona su come sconfiggerlo. E' rappresentato ciò perchè la repubblica pensa che si possa vincere con la conoscenza sopra il denaro e le signorie.
 
 Le mani e la testa sono causati dal fatto che sono la base del pensiero umanistico e perchè la statua è alta. (Mani: azione, Testa: ragione).
 
