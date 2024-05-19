@@ -36,7 +36,7 @@ Leonardo già durante la permanenza alla bottega del Verrocchio aveva già svilu
 Le raccolte di tutti gli appunti sugli studi e sugli sperimenti, presi e accompagnati con moltissimi disegni, sono chiamati **codici**.
 
 Leonardo, quando disegnava, analizzava scientificamente qualsiasi cosa. Le  opere così diventavano lunghissime da realizzare, e spesso non venivano concluse.
-## La fuggita da Milano
+## La fuga da Milano
 Con l'invasione francese di Milano, lui tornò a Firenze (dopo la caduta dei Medici e dove salita la repubblica) dove gli venne chiesto di iniziare a fare una opera a Palazzo Vecchio.
 Gli venne chiesto di realizzare un affresco. Leonardo non terminò mai l'affresco. Venne inoltre chiesto a Raffaello di realizzare un altro affresco adiacente, ma lui non iniziò neanche.
 

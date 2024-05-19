@@ -17,9 +17,10 @@ Dentro il convento oltre ai filosofi neoplatonici sono presenti anche i pezzi de
 Dopo la morte di Lorenzo, il figlio si indebolisce e venne espulso, instaurando la repubblica.
 Michelangelo si schiera con i repubblicani, ma doveva mangiare e quindi iniziò a fare arte.
 
-A Michelangelo non piace la pittura, ma le venne commissionato il [Il tondodoni](#Il%20tondodoni)
+A Michelangelo non piace la pittura, ma le venne commissionato il [Il tondo doni](#Il%20tondo%20doni)
 ## Con Giulio II
-Tra una cosa e l'altra che stava facendo per la repubblica di Firenze (vedi [Il David](#Il%20David)) venne chiamato a Roma da **Giulio II**. Michelangelo andò ma iniziarono a litigare.
+Tra una cosa e l'altra che stava facendo per la repubblica di Firenze (vedi [Il David](#Il%20David)) venne chiamato a Roma da **Giulio II**. Michelangelo andò ma i due non andarono molto d'accordo.
+Giulio II commissionò tra le altre cose la ristrutturazione della [volta della Cappella Sistina](#La%20Volta%20della%20Cappella%20Sistina) e [la sua Tomba](#La%20Tomba%20di%20Giulio%20II).
 ## Con Leone X
 Dopo le opere date da Giulio II, salì Leone X, che gli chiese di produrre opere sia a Roma che a Firenze. Infatti Leone X è un membro della famiglia De' Medici. Leone X volle far progettare a Michelangelo [la Sagrestia Nuova di San Lorenzo](#Sagrestia%20Nuova%20di%20San%20Lorenzo)
 ## Con Clemente VII

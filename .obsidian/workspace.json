@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arte/Michelangelo Buonarroti.md",
+                "file": "Arte/Raffaello Sanzio.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,35 +81,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1da6f2f05962cfb",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Arte/Michelangelo Buonarroti.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "5a05b40e9fd7e31f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Arte/Michelangelo Buonarroti.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "2fb903f8ea6d510b",
             "type": "leaf",
             "state": {
@@ -119,19 +90,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "cd70f500576232e3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Arte/Michelangelo Buonarroti.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,6 +110,14 @@
   },
   "active": "a665f0e2b934f90a",
   "lastOpenFiles": [
+    "Arte/Michelangelo Buonarroti.md",
+    "Arte/Raffaello Sanzio.md",
+    "Arte/Per la verifica.md",
+    "Arte/Leonardo da Vinci.md",
+    "Arte/Donato Bramante.md",
+    "Arte/Contesto del 1500.md",
+    "Arte/Botticelli.md",
+    "Arte/La riqualificazione di Roma.md",
     "Arte/Michelangelo Buonarroti/Il giudizio universale.jpg",
     "Arte/Michelangelo Buonarroti/Il giudizio universale.jpg.fdmdownload",
     "Arte/Michelangelo Buonarroti/La sagrestia Nuova di San Lorenzo.jpg",
@@ -162,29 +130,20 @@
     "Arte/Michelangelo Buonarroti/Il David.jpg",
     "Arte/Michelangelo Buonarroti/Il David.jpg.fdmdownload",
     "Arte/Michelangelo Buonarroti",
-    "Arte/Raffaello Sanzio.md",
     "Arte/Raffaello Sanzio/La scuola di Atene.jpg",
     "Arte/Raffaello Sanzio/La scuola di Atene.jpg.fdmdownload",
     "Arte/Raffaello Sanzio/Incendio di Borgo.jpg",
     "Arte/Raffaello Sanzio/Liberazione di San Pietro.jpg",
-    "Arte/Raffaello Sanzio/Madonna del Cardellino.jpg",
     "Arte/Raffaello Sanzio",
-    "Arte/Donato Bramante.md",
-    "Arte/La riqualificazione di Roma.md",
     "Arte/Arte.md",
-    "Arte/Contesto del 1500.md",
-    "Arte/Botticelli.md",
     "Arte/Donato Bramante",
     "Arte/Leonardo da Vinci/La Gioconda",
     "Arte/Leonardo da Vinci/La Gioconda.fdmdownload",
-    "Arte/Leonardo da Vinci.md",
-    "Arte/Michelangelo Buonarroti.md",
     "Arte/Leonardo da Vinci.canvas",
     "Inglese/The theatres.md",
     "Inglese/The First Folio.canvas",
     "Inglese/Tudor.md",
     "Inglese/English.md",
-    "Arte/Per la verifica.md",
     "Arte/Bramante.md",
     "Arte/Analisi delle opere.md",
     "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",

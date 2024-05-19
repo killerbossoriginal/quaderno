@@ -26,5 +26,12 @@
     "editor:insert-table",
     "editor:configure-toolbar"
   ],
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
