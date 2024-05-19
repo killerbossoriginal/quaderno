@@ -1,6 +1,6 @@
 Pagina:
 - 175-176 (solo primo paragrafo)
-- 177 confontare anche con la consegna delle chiavi a San Pietro (perugino, cappella sistina)
+- 177 confrontare anche con la consegna delle chiavi a San Pietro (perugino, cappella sistina)
 - 178-179
 - 181-183
 
@@ -9,15 +9,15 @@ Lettura:
 - 187
 
 Opere:
-- La madonna del cardllino
+- La madonna del cardellino
 - le stanze vaticane
 # Biografia
 Raffaello è originario di Urbino (città governata da Federico da Montefeltro).
-Il padre era un pittore, ma fa istruire il figlio da qualcun'altro, verosimilmente dal ==perugino==.
+Il padre era un pittore, ma fa istruire il figlio da qualcun altro, verosimilmente dal ==Perugino==.
 
 Raffaello andrà a Roma, e avrà molte committenze, soprattutto dal papa. Lui avrà anche comiti architettonici.
 
-Il papa gli commise le stanze vaticane (i suoi appartamenti), che vennero iniziate e poi assegnate ai suoi alievi.
+Il papa gli commise le stanze vaticane (i suoi appartamenti), che vennero iniziate e poi assegnate ai suoi allievi.
 
 Lui vive prendendo le tecniche degli altri. Partendo da Brunelleschi, Leonardo e altri.
 # Opere

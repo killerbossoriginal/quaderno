@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
+                "file": "Arte/Leonardo da Vinci.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-<<<<<<< HEAD
-          },
-          {
-            "id": "af68ac07a28e6865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arte/La riqualificazione di Roma.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-=======
->>>>>>> 1f251ce4afaa0e11629e910c29bd96efa74be97e
           }
         ]
       }
@@ -102,11 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Arte/La riqualificazione di Roma.md",
-=======
-                "file": "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
->>>>>>> 1f251ce4afaa0e11629e910c29bd96efa74be97e
+                "file": "Arte/Leonardo da Vinci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,11 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Arte/La riqualificazione di Roma.md",
-=======
-                "file": "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
->>>>>>> 1f251ce4afaa0e11629e910c29bd96efa74be97e
+                "file": "Arte/Leonardo da Vinci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,11 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Arte/La riqualificazione di Roma.md"
-=======
-                "file": "Inglese/Shakespeare/A woman's face with nature's own hand painted.md"
->>>>>>> 1f251ce4afaa0e11629e910c29bd96efa74be97e
+                "file": "Arte/Leonardo da Vinci.md"
               }
             }
           }
@@ -176,62 +148,58 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "31f2e102125818a7",
+  "active": "639dab070e5bb3fb",
   "lastOpenFiles": [
+    "Arte/Leonardo da Vinci/La Gioconda.jpg",
+    "Arte/Leonardo da Vinci/La Gioconda.jpg.fdmdownload",
+    "Arte/Leonardo da Vinci/Sant'Anna.jpg",
+    "Arte/Leonardo da Vinci/Sant'Anna.jpg.fdmdownload",
+    "Arte/Leonardo da Vinci/Il Cenacolo.jpg",
+    "Arte/Leonardo da Vinci/Il Cenacolo.jpg.fdmdownload",
+    "Arte/Leonardo da Vinci/Dama con l'ermellino.jpg",
+    "Arte/Leonardo da Vinci/Dama con l'ermellino.jpg.fdmdownload",
+    "Arte/Leonardo da Vinci/Vergine delle Roccie I.jpg",
+    "Arte/Leonardo da Vinci/Vergine delle Roccie I.jpg.fdmdownload",
+    "Arte/Leonardo da Vinci/Annunciazione.jpg",
+    "Arte/Leonardo da Vinci.md",
+    "Arte/Leonardo da Vinci",
+    "Arte/Annunciation_(Leonardo).jpg.fdmdownload",
+    "Arte/Michelangelo Buonarroti.md",
+    "Arte/Leonardo da Vinci.canvas",
+    "Inglese/The theatres.md",
+    "Inglese/The First Folio.canvas",
+    "Inglese/Tudor.md",
+    "Inglese/English.md",
     "Arte/Raffaello.md",
-    "Arte/Roma.canvas",
-    "Inglese/Shakespeare/The First Folio.canvas",
-=======
-  "active": "73a26744805a2ea3",
-  "lastOpenFiles": [
+    "Arte/La riqualificazione di Roma.md",
+    "Arte/Donato Bramante.md",
+    "Arte/Per la verifica.md",
+    "Arte/Contesto del 1500.md",
+    "Arte/Bramante.md",
+    "Inglese/Shakespeare/Shakespeare's Plays Act.png",
+    "Arte/Botticelli.md",
+    "Arte/Arte.md",
+    "Arte/Analisi delle opere.md",
+    "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
     "Inglese/Shakespeare/Shakespeare.md",
     "Inglese/Shakespeare/Shall i compare thee.md",
-    "Arte/Arte.md",
     "Matematica/Equazioni di secondo grado.md",
     "Matematica/Matematica.md",
     "README.md",
-    "Arte/Analisi delle opere.md",
-    "Arte/Leonardo da Vinci.md",
     "Untitled.canvas",
-    "Arte/Bramante.md",
->>>>>>> 1f251ce4afaa0e11629e910c29bd96efa74be97e
-    "Arte/La riqualificazione di Roma.md",
-    "Inglese/Shakespeare/Shakespeare's Plays Act.png",
-    "Arte/Michelangelo Buonarroti.md",
-    "Arte/Leonardo da Vinci.md",
-    "Arte/Arte.md",
-    "Inglese/The theatres.md",
-    "Inglese/Tudor.md",
     "Filosofia/Aristotele/Aristotele.md",
     "Filosofia/Aristotele/L'Analisi.md",
     "Fisica/Termodinamica/Termodinamica.md",
-    "Arte/Contesto del 1500.md",
     "Storia/1500/Carlo V d'Asburgo.md",
     "Storia/1500/1500.md",
-    "Storia/1500/La riforma protestante.md",
-    "Storia/1300/La cattività Avignonese.md",
-    "Storia/Storia.md",
-    "Storia/1300/1300.md",
     "Storia/1300",
-    "Arte/Botticelli.md",
-    "Fisica/Termodinamica/Trasformazioni Adiabatiche.md",
-    "Fisica/Termodinamica/L'efficenza di una macchina termica.md",
-    "Fisica/Termodinamica/Frigorifero.md",
     "Fisica/Termodinamica/Dimostrazione-Carnot.png",
     "Fisica/Termodinamica/Carnot.png",
     "Arte/Botticelli-La_nascita_di_Venere.jpg",
     "Arte/Botticelli-La_nascita_di_Venere.jpg.fdmdownload",
     "status.sh",
-    "Inglese/Shakespeare",
-    "Filosofia/Aristotele",
-    "Filosofia/Platone/Miti",
-    "Filosofia/Platone/La Vita.md.2024-04-15_18.00.12.foldersync.old",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Filosofia/Socrate",
-    "Filosofia/Platone",
-    "Filosofia",
     "Fisica/Termodinamica/Principi/macchina-termica.png"
   ]
 }

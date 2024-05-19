@@ -14,11 +14,9 @@ Opere
 - La gioconda
 
 # Biografia
-<<<<<<< HEAD
 Leonardo da Vinci è uno scienziato nato a Vinci come figlio illegittimo di un ricco notaio. Anche essendo illegittimo il padre si occuperà di lui.
 Fin da piccolo osserva la realtà, analizzandola scientificamente e rappresentandola graficamente.
 Il padre lo manderà da **Andrea del ==Verrocchio==**, che apprende la tecnica della pittura, che secondo lui è l'unica che riesce a comunicare un sapere (declassando tutte le opere di altro tipo, compresi gli scritti).
-=======
 ## Nascita e Adolescenza
 Leonardo da Vinci è uno scienziato nato a Vinci come figlio illegittimo di un ricco notaio che lo accudì e lo crebbe a Vinci.
 
@@ -26,7 +24,6 @@ Fin da piccolo osserva la realtà, analizzandola scientificamente e rappresentan
 ## A Firenze
 ### Il verrocchio
 Il padre lo manderà da **Andrea del Verrocchio** a Firenze, dove apprende la sua tecnica.
->>>>>>> 1f251ce4afaa0e11629e910c29bd96efa74be97e
 Vedendo la grandissima capacità di Leonardo, il Verrocchio gli chiese di finire alcune sue opere come nel Battesimo di Cristo.
 ### Il neoplatonismo
 Leonardo non ha mai avuto ideali neoplatonici e quindi non volle entrare nella cerchia di Lorenzo de'Medici. Riuscì a farsi invitare da **Ludovico Sforza** (Milano).
@@ -48,6 +45,7 @@ Andò a Roma, ma non venne chiamato perché non si fidavano di lui (i lavori a R
 Venne poi chiamato dal re di Francia, che lo stimava molto, e lo fece vivere in un castello, dove nel 1519 morì.
 # Opere
 ## L'annunciazione
+![](./Leonardo%20da%20Vinci/Annunciazione.jpg)
 Questa è una delle prime opere che Leonardo produce in solitaria, rappresenta l'annunciazione dall'arcangelo Gabriele a Maria.
 Questo è situato in un ambiente contemporaneo, con molti elementi classici.
 
@@ -57,20 +55,13 @@ Maria sembra spaventata.
 
 Maria è vestita di blu, suo colore tradizionale.
 
-<<<<<<< HEAD
 Le ali dell'angelo sono realistiche, come tutti gli alberi. Però c'è il cipresso tra ciò, che è un albero molto comune in Toscana, ed ha un valore simbolico perché solitamente sono messi nei viali cimiteriali, come a ricordare cosa succederà a Gesù.
 
 Viene usata la prospettiva aerea.
 ## La vergine delle rocce
-E' descritta così perché è disegnato vicino a una grotta, senza elementi architettonici.
-=======
-Le ali dell'angelo e l'ambiente sono realistici.
-Tra gli alberi ci sono dei cipresso: essi hanno un valore simbolico perché solitamente sono posizionati nei viali cimiteriali, come a ricordare cosa succederà a Gesù.
-Viene usata la **prospettiva aerea**.
-## La vergine delle rocce
+![](./Leonardo%20da%20Vinci/Vergine%20delle%20Roccie%20I.jpg)
 E' descritta così perché è disegnata vicino a una grotta.
 Non sono presenti elementi architettonici.
->>>>>>> 1f251ce4afaa0e11629e910c29bd96efa74be97e
 C'è ovviamente Maria, e un altra figura angelica.
 
 Il bambino abbracciato dalla figura angelica è Gesù, riconosciuto dalla posa delle mani in simbolo della benedizione. L'altro bambino è San Giovanni, che è il cugino, e che battezzerà Gesù.
@@ -80,12 +71,10 @@ Usa lo sfumato pittorico e la prospettiva aerea.
 
 Questo quadro doveva rappresentare l'immacolata concezione, ovvero il fatto che Gesù è nato senza peccato originale. Non esistendo un iconografia per ciò, Leonardo propose Gesù, Maria, Giovanni Battista e un angelo come iconografia di ciò.
 ## La dama con l'ermellino
+![](./Leonardo%20da%20Vinci/Dama%20con%20l'ermellino.jpg)
 Questa è un opera tenuta a Cracovia.
-<<<<<<< HEAD
 Quest'opera è di una veridicità. La figura è posta a 3/4, ma con la testa gira dall'altra parte come a fare gli affari suoi.
-=======
 Quest'opera è molto realistica.
->>>>>>> 1f251ce4afaa0e11629e910c29bd96efa74be97e
 
 Posizione: La figura è posta a 3/4, ma con la testa gira dall'altra parte come a fare gli affari suoi.
 
@@ -95,6 +84,7 @@ E' un opera di ritrattistica, i dettagli, lo sfondo scuro e l'olio su tela sono 
 
 Questa potrebbe rappresentare Cecilia Gallerani \[...], **una delle amanti di Ludovico Sforza**. Difatti potrebbe essere proprio lui il committente visto che quest'ultimo era diventato cavaliere dell'ordine dell'ermellino.
 ## Il Cenacolo
+![](./Leonardo%20da%20Vinci/Il%20Cenacolo.jpg)
 Nella chiesa di Santa Maria delle Grazie Ludovico Sforza commissionò un dipinto a parete sul muro di divisione tra il refettorio e la cucina. Questo dipinto doveva rappresentare l'ultima cena.
 
 Le persone rappresentate sono tutte posizionate attorno a un tavolo, si nota l'inquietudine data dall'annuncio del tradimento.
@@ -103,15 +93,17 @@ I simboli araldici situati nella parte superiore sono quelli di diversi ducati t
 
 Sulla tavola c'è tutto quello che serve, e la tovaglia rimanda direttamente al lino utilizzato al tempo.
 
-Le parti nere sono arazzi, persi nel tempo, a causa di esperimenti di Leonardo e a causa delle ristrutturazioni.
+Le parti nere sono ==arazzi==, persi nel tempo, a causa di esperimenti di Leonardo e a causa delle ristrutturazioni.
 
 Vuole sperimentare una nuova tecnica, colorando a secco e poi fissando il colore con la fiamma.
 
 L'opera non è ben conservata, infatti è stata utilizzata una tecnica nuova, diversa dall'affresco. Questa tecnica già dopo pochi anni, soprattutto grazie all'umidità dell'ambiente, ha iniziato a distruggersi.
 ## La sant'Anna
+![](./Leonardo%20da%20Vinci/Sant'Anna.jpg)
 In questo quadro, viene posizionata Maria che gioca con il bambino, seduta sulle gambe di Sant'Anna (la madre di Maria).
 In questo quadro utilizza i moti dell'animo, lo sfumato e la prospettiva aerea
 ## La Gioconda
+![](./Leonardo%20da%20Vinci/La%20Gioconda.jpg)
 Come in tutti i precedenti utilizzò i suoi studi, soprattutto dinuovo la prospettiva aerea e lo sfumato.
 Leonardo fu molto ossessionato da quest'opera in quanto la inizio nel secondo periodo a Firenze, terminandola molto tempo dopo nel suo castello.
 Venne poi acquisita dalla collezione reale francese per un ingente somma di denaro.
