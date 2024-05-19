@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arte/Arte.md",
+                "file": "Arte/Donato Bramante.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arte/Arte.md",
+                "file": "Arte/Donato Bramante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arte/Arte.md",
+                "file": "Arte/Donato Bramante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arte/Arte.md"
+                "file": "Arte/Donato Bramante.md"
               }
             }
           }
@@ -148,10 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73a26744805a2ea3",
+  "active": "a665f0e2b934f90a",
   "lastOpenFiles": [
-    "Arte/Leonardo da Vinci/La Gioconda.jpg",
+    "Arte/Bramante/Tempietto di San Pietro.jpg",
+    "Arte/Contesto del 1500.md",
+    "Arte/Botticelli.md",
+    "Arte/Bramante/Santa Maria delle Grazie.png",
+    "Arte/Donato Bramante.md",
+    "Arte/Bramante/Santa Maria presso San Satiro.jpg",
+    "Arte/Bramante",
     "Arte/Arte.md",
+    "Arte/Leonardo da Vinci/La Gioconda.jpg",
     "Arte/Leonardo da Vinci/La Gioconda",
     "Arte/Leonardo da Vinci/La Gioconda.fdmdownload",
     "Arte/Leonardo da Vinci.md",
@@ -175,12 +182,9 @@
     "Inglese/English.md",
     "Arte/Raffaello.md",
     "Arte/La riqualificazione di Roma.md",
-    "Arte/Donato Bramante.md",
     "Arte/Per la verifica.md",
-    "Arte/Contesto del 1500.md",
     "Arte/Bramante.md",
     "Inglese/Shakespeare/Shakespeare's Plays Act.png",
-    "Arte/Botticelli.md",
     "Arte/Analisi delle opere.md",
     "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
     "Inglese/Shakespeare/Shakespeare.md",
@@ -194,10 +198,7 @@
     "Fisica/Termodinamica/Termodinamica.md",
     "Storia/1500/Carlo V d'Asburgo.md",
     "Storia/1500/1500.md",
-    "Storia/1300",
     "Fisica/Termodinamica/Dimostrazione-Carnot.png",
-    "Fisica/Termodinamica/Carnot.png",
-    "Arte/Botticelli-La_nascita_di_Venere.jpg",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]
