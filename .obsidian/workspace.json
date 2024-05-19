@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arte/Leonardo da Vinci.md",
+                "file": "Arte/Arte.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arte/Leonardo da Vinci.md",
+                "file": "Arte/Arte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arte/Leonardo da Vinci.md",
+                "file": "Arte/Arte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arte/Leonardo da Vinci.md"
+                "file": "Arte/Arte.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "639dab070e5bb3fb",
   "lastOpenFiles": [
+    "Arte/Leonardo da Vinci.md",
     "Arte/Leonardo da Vinci/La Gioconda.jpg",
     "Arte/Leonardo da Vinci/La Gioconda.jpg.fdmdownload",
     "Arte/Leonardo da Vinci/Sant'Anna.jpg",
@@ -161,7 +162,6 @@
     "Arte/Leonardo da Vinci/Vergine delle Roccie I.jpg",
     "Arte/Leonardo da Vinci/Vergine delle Roccie I.jpg.fdmdownload",
     "Arte/Leonardo da Vinci/Annunciazione.jpg",
-    "Arte/Leonardo da Vinci.md",
     "Arte/Leonardo da Vinci",
     "Arte/Annunciation_(Leonardo).jpg.fdmdownload",
     "Arte/Michelangelo Buonarroti.md",
@@ -199,7 +199,6 @@
     "Arte/Botticelli-La_nascita_di_Venere.jpg.fdmdownload",
     "status.sh",
     "Untitled 1.canvas",
-    "Untitled 2.canvas",
-    "Fisica/Termodinamica/Principi/macchina-termica.png"
+    "Untitled 2.canvas"
   ]
 }
