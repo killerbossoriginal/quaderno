@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arte/Donato Bramante.md",
+                "file": "Inglese/Shakespeare/Romeo and Juliet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Arte/Donato Bramante.md",
+            "file": "Inglese/Shakespeare/Romeo and Juliet.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Arte/Donato Bramante.md",
+            "file": "Inglese/Shakespeare/Romeo and Juliet.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +116,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Arte/Donato Bramante.md"
+            "file": "Inglese/Shakespeare/Romeo and Juliet.md"
           }
         }
       }
@@ -135,9 +135,13 @@
   },
   "active": "546e62f688051202",
   "lastOpenFiles": [
+    "Inglese/Shakespeare/Shakespeare.md",
+    "Inglese/Shakespeare/Romeo and Juliet.md",
+    "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
+    "Inglese/The First Folio.canvas",
+    "Arte/Donato Bramante.md",
     "Arte/Per la verifica.md",
     "Arte/Michelangelo Buonarroti.md",
-    "Arte/Donato Bramante.md",
     "Arte/La riqualificazione di Roma.md",
     "Arte/Leonardo da Vinci.md",
     "Arte/Contesto del 1500.md",
@@ -146,9 +150,6 @@
     "Inglese/The theatres.md",
     "Inglese/Tudor.md",
     "Inglese/English.md",
-    "Inglese/The First Folio.canvas",
-    "Inglese/Shakespeare/Shakespeare.md",
-    "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
     "README.md",
     "Inglese/Shakespeare/Shall i compare thee.md",
     "Arte/Untitled.md",
@@ -164,8 +165,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Fisica/Termodinamica/Termodinamica.md",
-    "Fisica/Termodinamica/Frigorifero.md",
-    "Informatica/Informatica.md",
     "Inglese/Shakespeare",
     "Filosofia/Aristotele",
     "Storia/1500",
