@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/Shakespeare/Romeo and Juliet.md",
+                "file": "Inglese/Verifica.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inglese/Shakespeare/Romeo and Juliet.md",
+            "file": "Inglese/Verifica.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Inglese/Shakespeare/Romeo and Juliet.md",
+            "file": "Inglese/Verifica.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +116,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inglese/Shakespeare/Romeo and Juliet.md"
+            "file": "Inglese/Verifica.md"
           }
         }
       }
@@ -133,10 +133,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "546e62f688051202",
+  "active": "2dac1ff3a8a2ec90",
   "lastOpenFiles": [
-    "Inglese/Shakespeare/Shakespeare.md",
     "Inglese/Shakespeare/Romeo and Juliet.md",
+    "Inglese/Verifica.md",
+    "Inglese/Shakespeare/Shakespeare.md",
     "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
     "Inglese/The First Folio.canvas",
     "Arte/Donato Bramante.md",
