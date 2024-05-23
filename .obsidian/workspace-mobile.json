@@ -11,12 +11,14 @@
             "id": "546e62f688051202",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Inglese/Verifica.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Scienze/Nomenclatura.canvas",
+                "viewState": {
+                  "x": 500.7989959388758,
+                  "y": 321.1089262342738,
+                  "zoom": -1.030838804666605
+                }
               }
             }
           }
@@ -87,7 +89,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inglese/Verifica.md",
+            "file": "Scienze/Nomenclatura.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Inglese/Verifica.md",
+            "file": "Scienze/Nomenclatura.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +118,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inglese/Verifica.md"
+            "file": "Scienze/Nomenclatura.canvas"
           }
         }
       }
@@ -133,10 +135,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dac1ff3a8a2ec90",
+  "active": "546e62f688051202",
   "lastOpenFiles": [
-    "Inglese/Shakespeare/Romeo and Juliet.md",
     "Inglese/Verifica.md",
+    "Scienze/Nomenclatura.canvas",
+    "Scienze",
+    "Inglese/Shakespeare/Romeo and Juliet.md",
     "Inglese/Shakespeare/Shakespeare.md",
     "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
     "Inglese/The First Folio.canvas",
@@ -165,7 +169,6 @@
     "2024-05-10.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Fisica/Termodinamica/Termodinamica.md",
     "Inglese/Shakespeare",
     "Filosofia/Aristotele",
     "Storia/1500",
@@ -176,7 +179,6 @@
     "Arte/1500",
     "Arte",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno",
-    "Italiano/Giovanni Boccaccio",
     "Fisica/Principi/macchina-termica.png",
     "Fisica/Principi/macchina termica.png",
     "Fisica/Untitled.canvas"
