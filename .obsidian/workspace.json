@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a665f0e2b934f90a",
+            "id": "4e5843fdca303b2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arte/Raffaello Sanzio.md",
+                "file": "Inglese/Shakespeare/Shakespeare.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2be028a9833d08c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inglese/Verifica.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 201.5
   },
   "right": {
     "id": "509e2950f5eb9a69",
@@ -90,8 +104,48 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "3f66a14437a729cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inglese/Verifica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec6f81e9d7b227de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inglese/Verifica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f074cdb12accbf6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inglese/Verifica.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,10 +162,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a665f0e2b934f90a",
+  "active": "2be028a9833d08c2",
   "lastOpenFiles": [
-    "Arte/Michelangelo Buonarroti.md",
+    "Inglese/Shakespeare/Shakespeare.md",
+    "Inglese/Shakespeare/Shakespeare's Plays Act.png",
+    "Inglese/Shakespeare/Shall i compare thee.md",
+    "Inglese/The Theatres.md",
+    "Scienze/Nomenclatura.canvas",
+    "Inglese/The First Folio.canvas",
+    "Inglese/Verifica.md",
+    "Inglese/The Tudors.md",
+    "Inglese/Untitled.canvas",
+    "Inglese/The Tudors.canvas",
+    "Storia/Storia.md",
+    "Storia/1400/1400.md",
+    "Storia/1400/La guerra delle due rose.md",
+    "Inglese/English.md",
+    "Storia/1300/La guerra dei 100 anni.md",
+    "Storia/1300/1300.md",
+    "Storia/1400",
     "Arte/Raffaello Sanzio.md",
+    "Inglese/Shakespeare/Romeo and Juliet.md",
+    "Scienze",
+    "Arte/Michelangelo Buonarroti.md",
     "Arte/Per la verifica.md",
     "Arte/Leonardo da Vinci.md",
     "Arte/Donato Bramante.md",
@@ -133,31 +206,15 @@
     "Arte/Raffaello Sanzio/La scuola di Atene.jpg",
     "Arte/Raffaello Sanzio/La scuola di Atene.jpg.fdmdownload",
     "Arte/Raffaello Sanzio/Incendio di Borgo.jpg",
-    "Arte/Raffaello Sanzio/Liberazione di San Pietro.jpg",
     "Arte/Raffaello Sanzio",
     "Arte/Arte.md",
     "Arte/Donato Bramante",
-    "Arte/Leonardo da Vinci/La Gioconda",
-    "Arte/Leonardo da Vinci/La Gioconda.fdmdownload",
     "Arte/Leonardo da Vinci.canvas",
-    "Inglese/The theatres.md",
-    "Inglese/The First Folio.canvas",
-    "Inglese/Tudor.md",
-    "Inglese/English.md",
     "Arte/Bramante.md",
     "Arte/Analisi delle opere.md",
     "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
-    "Inglese/Shakespeare/Shakespeare.md",
-    "Inglese/Shakespeare/Shall i compare thee.md",
     "Matematica/Equazioni di secondo grado.md",
-    "Matematica/Matematica.md",
-    "README.md",
     "Untitled.canvas",
-    "Filosofia/Aristotele/Aristotele.md",
-    "Filosofia/Aristotele/L'Analisi.md",
-    "Fisica/Termodinamica/Termodinamica.md",
-    "Storia/1500/Carlo V d'Asburgo.md",
-    "Storia/1500/1500.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]
