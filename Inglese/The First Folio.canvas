@@ -10,7 +10,7 @@
 		{"id":"519ed3e37188c3cb","type":"text","text":"**aim**: Didactic","x":441,"y":500,"width":250,"height":60,"color":"3"},
 		{"id":"c604c66c0d2f3be1","type":"text","text":"**The Tragicommedy**","x":-313,"y":-346,"width":250,"height":60,"color":"1"},
 		{"id":"a7d586a28e23f9d7","type":"text","text":"**Dark Comemdy**","x":30,"y":-433,"width":250,"height":60,"color":"1"},
-		{"id":"53bcc1a67c726baa","type":"text","text":"# The First Folio\n(La prima pubblicazione delle opere di Shakespeare)","x":-70,"y":-100,"width":350,"height":131,"color":"4"},
+		{"id":"53bcc1a67c726baa","type":"text","text":"# The First Folio\n(The first public version of Shakespeare's works)","x":-70,"y":-100,"width":350,"height":131,"color":"4"},
 		{"id":"88aeb000c61e53f8","type":"text","text":"**Hamlet**","x":30,"y":-587,"width":250,"height":60},
 		{"id":"ca85e1b4c8294742","type":"text","text":"**theme**: workings of the mind of a troubled character who doubts","x":380,"y":-455,"width":240,"height":105,"color":"6"},
 		{"id":"ea137fb20edc8360","type":"text","text":"**theme**: love with an unhappy ending","x":-313,"y":-493,"width":250,"height":60,"color":"6"},

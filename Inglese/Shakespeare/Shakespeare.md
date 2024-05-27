@@ -3,8 +3,12 @@
 - [Romeo and Juliet](Romeo%20and%20Juliet.md)
 
 # Biography
-Shakespeare born in Stratford but he moved to London because it was one of the biggest city in the world, and Elizabeth encouraged the culture development.
+Shakespeare born in **Stratford upon Avon**.
+It moved to London because he was an Actor, but the plague made the theatres closed  and he started to write sonnets.
+London was one of the biggest city in the world, and Elizabeth encouraged the cultural development.
+He joined King's Men.
 Shakespeare died in 1616.
+
 7 years later has been published **The First Folio**, that's the first collection of 36 plays. Before of it, there were no plays published because they wanted to preserve the right to play it only in their own theatres.
 The First Folio contained:
 - **The Histories**: was about the idea of leadership, it contained:
@@ -12,6 +16,7 @@ The First Folio contained:
 	- english history (Richard III)
 - **Tragedy**
 # Works
+The main differences from italian's sonents is that the women were treated in a more realistic way.
 There are 2 adresee, in two parts of the poem;
 - The dark lady
 	- Passionate love
