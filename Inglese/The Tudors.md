@@ -52,12 +52,12 @@ Elizabeth encouraged cultural development. In this time started the **Renaissanc
 ### The Renaissance
 The Renaissance started because the classical (greek-roman) texts, after the fall of Costantinopoli and the Bizantine Empire, moved from the east to the west.
 
-The english's Renaissance started later because of the [schism](#Henry%20VIII).
+The English's Renaissance started later because of the [schism](#Henry%20VIII).
 
 This became the golden age of **poetry** and **drama**.
 ### The prince of Macchiavelli
 - The objective justifies the ways.
-- The religion and the politics **must** be separed.
+- The religion and the politics **must** be divided.
 ## The middle-way *political* approach
 She restored the Anglicanism and she wanted to leave the freedom of believe.
 ## The Colonialism
@@ -67,11 +67,14 @@ In this period it started the triangular route.
 European ships went to Africa to get **slaves**, they bring them to north-america, where they worked, in exchange they get the ship filled with **goods**.
 Those ships, full of goods, called the pirates. The queen paid some pirates to give English ships the liberty and to target only enemies' ships.
 ## Beliefs
-They thougt of the 4 elements in 2 grups
-- Heaviers
+They thought of the 4 elements in 2 groups
+- Heavier
 	- Water
 	- Earth
-- Ligther
+- Lighter
 	- Air
 	- Fire
-It moved from **geocentric** system to **eliocentric** system.
+It moved from **geocentric** system to **heliocentric** system.
+
+They thought that there was the chain of being.
+![The Chain of Being](The%20Chain%20of%20Being.canvas)

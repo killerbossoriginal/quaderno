@@ -28,7 +28,7 @@ The theatre was open to everyone.
 	- Expansive
 	- With a roof
 	- You can sit
-- **Pick**
+- **The Pick**
 	- You were on the ground (-> Groundlings)
 - **The stage**
 	- roof (the heavens)
@@ -46,15 +46,16 @@ Their profession was considered borderline and illegal.
 The theatre was considered a place of sin (*peccato*) because they were full of people that helped to spread pandemics.
 ## Tragedy
 In a Greek Tragedy, there was unordinary people: kings, princes and warriors.
-There is a flow related to madness or suffering (crisis), then there is a downfall, where there is a catharsis (where the people who watch the tragedy identify themselfs into the protagonist).
+There is a flow related to madness or suffering (crisis), then there is a downfall, where there is a catharsis (where the people who watch the tragedy identify themselves into the protagonist).
 A tragedy is about an unhappy events and end.
 The language is elevated and the style is solemn.
-## Commedy
-The caracters are ordinary and doesn't change. Also the situation is ordinary, and there is the theme of love.
-The charater have to solve small problems/adversities (that they complete successfully).
+## Comedy
+The characters are ordinary and doesn't change. Also the situation is ordinary, and there is the theme of love.
+The characters have to solve small problems/adversities (that they complete successfully).
 The language is not elevated, and the aim is to mock vices (prendere in giro i vizi).
+![Comedy vs Tragedy](Comedy%20vs%20Tragedy.png)
 ## Tragicomedy
-That's a style invented in elizabethan times, where they mixed commedy and tragedy.
+That's a style invented in Elizabethan times, where they mixed comedy and tragedy.
 
 |          | -       | Mircale Plays    | Moralty Plays                                   |
 | -------- | ------- | ---------------- | ----------------------------------------------- |
