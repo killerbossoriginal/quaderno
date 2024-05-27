@@ -9,3 +9,5 @@
 
 # Aiutino
 Per fare l'analisi delle opere segui il contenuto [di questa nota](Analisi%20delle%20opere.md)
+# Per la verifica
+[Verifica](Verifica.md)

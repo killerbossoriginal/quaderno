@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f5e40faa1bc6c98e",
+        "id": "ac73200e8ba40f14",
         "type": "tabs",
         "children": [
           {
-            "id": "546e62f688051202",
+            "id": "c5c9d41dbc14813a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Scienze/Nomenclatura.canvas",
-                "viewState": {
-                  "x": 497.55566075350873,
-                  "y": 122.50322444648447,
-                  "zoom": -1.4812671102255628
-                }
+                "file": "Arte/Giorgione.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
-          },
-          {
-            "id": "2a4ac258bb46f265",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +73,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "9357d0b8bf3be0ac",
@@ -96,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Arte/Giorgione.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Arte/Giorgione.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Arte/Giorgione.md"
+          }
         }
       }
     ],
@@ -138,8 +132,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a4ac258bb46f265",
+  "active": "c5c9d41dbc14813a",
   "lastOpenFiles": [
+    "Arte/Verifica.md",
+    "Arte/Giorgione.md",
+    "Arte/Raffaello Sanzio.md",
+    "Inglese/English.md",
+    "Arte/Arte.md",
     "Scienze/Nomenclatura.canvas",
     "Inglese/Verifica.md",
     "Scienze",
@@ -157,11 +156,8 @@
     "Arte/Botticelli-La_nascita_di_Venere.jpg",
     "Inglese/The theatres.md",
     "Inglese/Tudor.md",
-    "Inglese/English.md",
     "README.md",
     "Inglese/Shakespeare/Shall i compare thee.md",
-    "Arte/Untitled.md",
-    "Arte/Arte.md",
     "Filosofia/Aristotele/L-Metafisica.md",
     "Filosofia/Aristotele/La metafisica.md",
     "Filosofia/Aristotele/Aristotele.md",
@@ -169,7 +165,6 @@
     "Filosofia/Aristotele/L'Analisi.md",
     "Filosofia/Aristotele/L'usiologia.md",
     "Untitled 2.canvas",
-    "2024-05-10.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Inglese/Shakespeare",
