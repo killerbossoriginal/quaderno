@@ -1,3 +1,4 @@
+Pagina 594
 # Testo
 > *Federigo degli Alberighi ama e non è amato, ed in cortesia spendendo, si consuma; e rimangli un sol falcone, il quale, non avendo altro, dá a mangiare alla sua donna venutagli a casa; la qual, ciò sappiendo, mutata d’animo, il prende per marito e fállo ricco.*
 

@@ -8,27 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c6129c17fd6b1f4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Inglese/The First Folio.canvas",
-                "viewState": {
-                  "x": 165,
-                  "y": -13.5,
-                  "zoom": -0.7736761937053639
-                }
-              }
-            }
-          },
-          {
-            "id": "2be028a9833d08c2",
+            "id": "2633d404ea59e58e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/Verifica.md",
+                "file": "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -80,6 +65,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "797e3c7ec884e249",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -112,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inglese/The First Folio.canvas",
+                "file": "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inglese/The First Folio.canvas",
+                "file": "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inglese/The First Folio.canvas"
+                "file": "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md"
               }
             }
           },
@@ -156,9 +149,25 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "da4c922dc3570dc8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2861603741960ca7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -173,15 +182,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5c6129c17fd6b1f4",
+  "active": "2861603741960ca7",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-05-28 19.20.02.excalidraw.md",
+    "Untitled Kanban.md",
+    "28-05-2024.md",
+    "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md",
+    "Excalidraw",
+    "Italiano/Giovanni Boccaccio/Decameron/IV giorno/IV Giorno.md",
+    "Italiano/Giovanni Boccaccio/Decameron/I giorno/I novella - Ser Ciappelletto.md",
+    "Italiano/Giovanni Boccaccio/Decameron/I giorno/I Giorno.md",
+    "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
+    "Italiano/Giovanni Boccaccio/Decameron/Decameron.md",
+    "Italiano/Giovanni Boccaccio/Giovanni Boccaccio.md",
+    "Italiano/Giovanni Boccaccio/Decameron/I giorno",
+    "Italiano/Giovanni Boccaccio/Decameron/Untitled.md",
+    "Italiano/Giovanni Boccaccio/Decameron/IV giorno/Untitled.md",
+    "Inglese/The First Folio.canvas",
     "Inglese/Verifica.md",
     "Inglese/The Tudors.md",
     "Inglese/The Theatres.md",
-    "Inglese/The First Folio.canvas",
     "Inglese/The Chain of Being.canvas",
     "Inglese/English.md",
     "Inglese/Comedy vs Tragedy.png",
@@ -201,15 +228,7 @@
     "Storia/1300/1300.md",
     "Storia/1400",
     "Arte/Raffaello Sanzio.md",
-    "Inglese/Shakespeare/Romeo and Juliet.md",
     "Scienze",
-    "Arte/Michelangelo Buonarroti.md",
-    "Arte/Per la verifica.md",
-    "Arte/Leonardo da Vinci.md",
-    "Arte/Donato Bramante.md",
-    "Arte/Contesto del 1500.md",
-    "Arte/Botticelli.md",
-    "Arte/La riqualificazione di Roma.md",
     "Arte/Michelangelo Buonarroti/Il giudizio universale.jpg",
     "Arte/Michelangelo Buonarroti/Il giudizio universale.jpg.fdmdownload",
     "Arte/Michelangelo Buonarroti/La sagrestia Nuova di San Lorenzo.jpg",
@@ -222,12 +241,7 @@
     "Arte/Michelangelo Buonarroti/Il David.jpg",
     "Arte/Michelangelo Buonarroti/Il David.jpg.fdmdownload",
     "Arte/Michelangelo Buonarroti",
-    "Arte/Raffaello Sanzio/La scuola di Atene.jpg.fdmdownload",
-    "Arte/Raffaello Sanzio",
-    "Arte/Arte.md",
     "Arte/Leonardo da Vinci.canvas",
-    "Arte/Bramante.md",
-    "Arte/Analisi delle opere.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

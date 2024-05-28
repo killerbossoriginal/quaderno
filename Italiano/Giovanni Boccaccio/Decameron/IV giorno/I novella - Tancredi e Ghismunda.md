@@ -1,7 +1,9 @@
+Pagina 566
 # Commento
-Tancredredi insiste sull'onore tradito dalla figlia. Però lei non si sente colpevole, anzi si difende: "l'amore ha i suoi diritti".
-L'idea è simile a quella di Dante con Francessca, ma anche di molti alti latini, ma al contrario di Dante propone Ghismunda come un esempio positivo. Dante infatti è costretto dal contesto a condannare Francesca all'inferno.
-Boccaccio riprende ==l'idea della nobiltà dell'animo== e lo ==stile del romanzo cortese==
+Tancredi insiste sull'onore tradito dalla figlia. Però lei non si sente colpevole, anzi si difende: "l'amore ha i suoi diritti".
+L'idea è simile a quella di Dante con Francesca, ma anche di molti alti latini, ma al contrario di Dante propone Ghismunda come un esempio positivo. Dante infatti è costretto dal contesto a condannare Francesca all'inferno.
+Boccaccio riprende ==l'idea della nobiltà dell'animo== e lo ==stile del romanzo cortese==.
+Tancredi è il padre di Ghismunda, becca Ghismunda a Guiscardo (un servo). Condanna a morte lui e lei si suicida.
 ## Ghismunda come esempio
 E' da far notare che qui la donna è il soggetto attivo della passione. Ghismunda è naturale, per lei la nobiltà si acquisisce. Tancredi è l'esatta antitesi.
 # Testo
