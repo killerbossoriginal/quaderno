@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md",
+                "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md",
+                "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md",
+                "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md"
+                "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md"
               }
             }
           },
@@ -189,12 +189,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2861603741960ca7",
+  "active": "2633d404ea59e58e",
   "lastOpenFiles": [
+    "Scienze/Nomenclatura.canvas",
+    "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md",
     "Excalidraw/Drawing 2024-05-28 19.20.02.excalidraw.md",
     "Untitled Kanban.md",
     "28-05-2024.md",
-    "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md",
     "Excalidraw",
     "Italiano/Giovanni Boccaccio/Decameron/IV giorno/IV Giorno.md",
     "Italiano/Giovanni Boccaccio/Decameron/I giorno/I novella - Ser Ciappelletto.md",
@@ -219,7 +220,6 @@
     "Arte/Verifica.md",
     "Arte/Giorgione.md",
     "Inglese/Shakespeare/Shakespeare's Plays Act.png",
-    "Scienze/Nomenclatura.canvas",
     "Inglese/The Tudors.canvas",
     "Storia/Storia.md",
     "Storia/1400/1400.md",
@@ -227,7 +227,6 @@
     "Storia/1300/La guerra dei 100 anni.md",
     "Storia/1300/1300.md",
     "Storia/1400",
-    "Arte/Raffaello Sanzio.md",
     "Scienze",
     "Arte/Michelangelo Buonarroti/Il giudizio universale.jpg",
     "Arte/Michelangelo Buonarroti/Il giudizio universale.jpg.fdmdownload",
