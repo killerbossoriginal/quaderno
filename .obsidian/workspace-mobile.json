@@ -15,9 +15,9 @@
               "state": {
                 "file": "Scienze/Nomenclatura.canvas",
                 "viewState": {
-                  "x": 490,
-                  "y": 300,
-                  "zoom": -1.09790734940414
+                  "x": -984.6859507947748,
+                  "y": 377.4056626555177,
+                  "zoom": -0.5104524680584789
                 }
               }
             }
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Scienze/Nomenclatura.canvas",
+            "file": "Scienze/classificare i composti.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Scienze/Nomenclatura.canvas",
+            "file": "Scienze/classificare i composti.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Scienze/Nomenclatura.canvas"
+            "file": "Scienze/classificare i composti.png"
           }
         }
       },
@@ -169,6 +169,7 @@
   },
   "active": "546e62f688051202",
   "lastOpenFiles": [
+    "Scienze/Nomenclatura.canvas",
     "Filosofia/Aristotele/Aristotele.md",
     "README.md",
     "Inglese/The Chain of Being.canvas",
@@ -181,7 +182,6 @@
     "Italiano/Giovanni Boccaccio/Decameron/I giorno/I novella - Ser Ciappelletto.md",
     "Italiano/Giovanni Boccaccio/Decameron/I giorno",
     "Arte/Verifica.md",
-    "Scienze/Nomenclatura.canvas",
     "Inglese/Verifica.md",
     "Scienze",
     "Inglese/Shakespeare/Romeo and Juliet.md",
@@ -203,7 +203,6 @@
     "Arte/Untitled.md",
     "Arte/Arte.md",
     "Filosofia/Aristotele/L-Metafisica.md",
-    "Filosofia/Aristotele/La metafisica.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
