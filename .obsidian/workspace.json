@@ -11,14 +11,12 @@
             "id": "2633d404ea59e58e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Scienze/Nomenclatura.canvas",
-                "viewState": {
-                  "x": 429.71386009766144,
-                  "y": 477.4866185346318,
-                  "zoom": -0.15375273442722037
-                }
+                "file": "Filosofia/Aristotele/L-Metafisica.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scienze/Nomenclatura.canvas",
+                "file": "Filosofia/Aristotele/L-Metafisica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scienze/Nomenclatura.canvas",
+                "file": "Filosofia/Aristotele/L-Metafisica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scienze/Nomenclatura.canvas"
+                "file": "Filosofia/Aristotele/L-Metafisica.md"
               }
             }
           },
@@ -193,8 +191,10 @@
   },
   "active": "2633d404ea59e58e",
   "lastOpenFiles": [
-    "Scienze/classificare i composti.png",
+    "Filosofia/Aristotele/L'Analisi.md",
+    "Filosofia/Aristotele/L-Metafisica.md",
     "Scienze/Nomenclatura.canvas",
+    "Scienze/classificare i composti.png",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
     "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md",
     "Excalidraw/Drawing 2024-05-28 19.20.02.excalidraw.md",
@@ -228,7 +228,6 @@
     "Storia/1400/1400.md",
     "Storia/1400/La guerra delle due rose.md",
     "Storia/1300/La guerra dei 100 anni.md",
-    "Storia/1300/1300.md",
     "Storia/1400",
     "Scienze",
     "Arte/Michelangelo Buonarroti/Il giudizio universale.jpg",
