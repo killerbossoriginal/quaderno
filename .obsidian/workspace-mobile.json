@@ -15,8 +15,8 @@
               "state": {
                 "file": "Scienze/Nomenclatura.canvas",
                 "viewState": {
-                  "x": -984.6859507947748,
-                  "y": 377.4056626555177,
+                  "x": -819.6052460646595,
+                  "y": 425.0269743767048,
                   "zoom": -0.5104524680584789
                 }
               }
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Scienze/classificare i composti.png",
+            "file": "Scienze/Nomenclatura.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Scienze/classificare i composti.png",
+            "file": "Scienze/Nomenclatura.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Scienze/classificare i composti.png"
+            "file": "Scienze/Nomenclatura.canvas"
           }
         }
       },
