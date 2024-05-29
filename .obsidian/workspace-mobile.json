@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f5e40faa1bc6c98e",
+        "id": "46a2204a60ca1d40",
         "type": "tabs",
         "children": [
           {
-            "id": "546e62f688051202",
+            "id": "9c639ee32bc36f2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Filosofia/Aristotele/L-Metafisica.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -106,7 +101,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Filosofia/Aristotele/L-Metafisica.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +117,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Filosofia/Aristotele/L-Metafisica.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,9 +127,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Filosofia/Aristotele/L-Metafisica.md"
-          }
+          "state": {}
         }
       },
       {
@@ -165,8 +156,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "546e62f688051202",
+  "active": "9c639ee32bc36f2f",
   "lastOpenFiles": [
+    "Filosofia/Aristotele/L-Metafisica.md",
     "Filosofia/Aristotele/Aristotele.md",
     "Scienze/Nomenclatura.canvas",
     "README.md",
@@ -200,7 +192,6 @@
     "Inglese/Shakespeare/Shall i compare thee.md",
     "Arte/Untitled.md",
     "Arte/Arte.md",
-    "Filosofia/Aristotele/L-Metafisica.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
