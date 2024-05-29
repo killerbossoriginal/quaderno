@@ -2,20 +2,20 @@
 	"nodes":[
 		{"id":"77fc74d0ea056057","type":"group","x":80,"y":-160,"width":440,"height":920,"label":"Composti Binari"},
 		{"id":"920e3c9022fa40b0","type":"group","x":760,"y":-40,"width":880,"height":360,"label":"Composti Ternari"},
-		{"id":"0b710fffc45ca53e","type":"text","text":"**Ossido Basico**","x":200,"y":40,"width":245,"height":50},
-		{"id":"69bab48ce090e162","type":"text","text":"Idrossido","x":785,"y":40,"width":250,"height":60},
-		{"id":"75de6571c7d57ea2","type":"text","text":"Ossoacido","x":785,"y":124,"width":250,"height":60},
-		{"id":"a0bcdb076940d634","type":"text","text":"**Ossido Acido** (Anidride)","x":200,"y":240,"width":245,"height":50},
 		{"id":"966f3d8f5005a501","type":"text","text":"(Idrossido + Ossoacido/Ossido Acido)\n**Sale Ternario** + $H_2O$","x":1220,"y":154,"width":380,"height":106},
 		{"id":"e8d4afdb0ee6fb96","type":"text","text":"**Non Metallo**","x":-660,"y":30,"width":250,"height":60,"color":"1"},
 		{"id":"92ec26d6be2a6913","type":"text","text":"**Metallo**","x":-660,"y":-70,"width":250,"height":60,"color":"1"},
 		{"id":"1a3d2603bcd1a2a2","type":"text","text":"Ossigeno","x":-410,"y":320,"width":250,"height":60,"color":"6"},
 		{"id":"8fc54d00675e348c","type":"text","text":"Idrogeno","x":-410,"y":440,"width":250,"height":60,"color":"6"},
 		{"id":"69f3e396b87ad059","type":"text","text":"Zolfo/Alogeni","x":-410,"y":560,"width":250,"height":60},
-		{"id":"22624bc7637106d5","type":"text","text":"**Idruro Covalente**","x":200,"y":380,"width":250,"height":60},
-		{"id":"4cc5ab10280dc07d","type":"text","text":"Idruro Metallico","x":200,"y":530,"width":250,"height":60},
-		{"id":"b93cd6377aad2a16","type":"text","text":"Idracido","x":200,"y":660,"width":250,"height":60},
-		{"id":"fbe1ad5d4b317077","type":"text","text":"$H_2O$","x":288,"y":154,"width":70,"height":50}
+		{"id":"0b710fffc45ca53e","type":"text","text":"**Ossido Basico**\n`M + O`","x":200,"y":40,"width":245,"height":50},
+		{"id":"a0bcdb076940d634","type":"text","text":"**Ossido Acido** (Anidride)\n`NM + O`","x":200,"y":240,"width":245,"height":80},
+		{"id":"22624bc7637106d5","type":"text","text":"**Idruro Covalente**\n`NM + H`","x":200,"y":380,"width":250,"height":60},
+		{"id":"4cc5ab10280dc07d","type":"text","text":"Idruro Metallico \n`M + H`","x":200,"y":530,"width":250,"height":60},
+		{"id":"b93cd6377aad2a16","type":"text","text":"Idracido \n`H + S/Alogeni`","x":200,"y":660,"width":250,"height":60},
+		{"id":"fbe1ad5d4b317077","type":"text","text":"$H_2O$","x":288,"y":154,"width":70,"height":50},
+		{"id":"69bab48ce090e162","type":"text","text":"Idrossido\n`M + OH-`","x":785,"y":40,"width":250,"height":60},
+		{"id":"75de6571c7d57ea2","type":"text","text":"Ossoacido\n``","x":785,"y":124,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"0c9c38d235078838","fromNode":"e8d4afdb0ee6fb96","fromSide":"bottom","toNode":"1a3d2603bcd1a2a2","toSide":"left","color":"1"},
