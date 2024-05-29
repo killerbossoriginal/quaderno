@@ -11,14 +11,12 @@
             "id": "546e62f688051202",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Scienze/Nomenclatura.canvas",
-                "viewState": {
-                  "x": -819.6052460646595,
-                  "y": 425.0269743767048,
-                  "zoom": -0.5104524680584789
-                }
+                "file": "Filosofia/Aristotele/L-Metafisica.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -108,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Scienze/Nomenclatura.canvas",
+            "file": "Filosofia/Aristotele/L-Metafisica.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Scienze/Nomenclatura.canvas",
+            "file": "Filosofia/Aristotele/L-Metafisica.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Scienze/Nomenclatura.canvas"
+            "file": "Filosofia/Aristotele/L-Metafisica.md"
           }
         }
       },
@@ -169,8 +167,8 @@
   },
   "active": "546e62f688051202",
   "lastOpenFiles": [
-    "Scienze/Nomenclatura.canvas",
     "Filosofia/Aristotele/Aristotele.md",
+    "Scienze/Nomenclatura.canvas",
     "README.md",
     "Inglese/The Chain of Being.canvas",
     "Arte/Giorgione.md",

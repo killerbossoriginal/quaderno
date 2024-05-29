@@ -1,6 +1,9 @@
-#libro
-C'è una scienza ([l'ontologia](L'ontologia.md)) che studia l'essere in quanto tale. Ma ce ne sono altre chiamate "particolari", ed esse sono più specifiche.
-Dice che la metafisica (non nominata direttamente), si occupa di cercare **i principi** e **le cause** supreme.
+# La differenza tra la filosofia prima e le scienze particolari
+In questa sezione Aristotele dice dell'esistenza di una disciplina che studia l'essere e le sue naturali proprietà. Dice che non esiste una scienza particolare corrispondente perché nessuna di esse studia l'essere per intero ma tutte ne studiano una parte. Non nominando direttamente la metafisica, Aristotele dice che essa si occupa soprattutto delle cause e dei principi.
+# L’indagine sul termine “essere”
+Aristotele dice che la parola "essere" è usata in molti modi, ma in tutti essa si riferisce alla sostanza. Come il sano rimanda alla salute, come il medico rimanda alla medicina, così l'essere rimanda alla sostanza o al principio unico.
+Aristotele continua spiegando che ci sono vari motivi per cui qualcosa può essere chiamato "essere". Alcune cose sono esseri perché sono sostanze, altre perché sono proprietà delle sostanze, altre ancora perché indicano o portano alla sostanza, ne mostrano la distruzione, la privazione, le qualità, oppure sono produttrici o generatrici di sostanza. Anche le negazioni di questi termini o della sostanza stessa possono essere chiamate "esseri". Questo è il motivo per cui diciamo che anche il non-essere esiste in quanto non-essere.
 
-Il termine #essere è usato con molte accezioni, anche se esso si riferisce sempre ad un'unica natura, ovvero alla #sostanza.
-Come il medico rimanda alla medicina, e come il sano rimanda alla salute, così l'essere rimanda alla sostanza/al principio unico.
+Come esiste una scienza unica che studia tutto ciò che è sano (a cui si è già riferito prima), così esiste una scienza unica per studiare tutto ciò che è "essere". Questa scienza si occupa sia dei termini che esprimono una nozione comune sia di quelli che sono relativi a una sola natura.
+# L’oggetto della metafisica
+Aristotele conclude che è compito di un’unica scienza studiare gli esseri in quanto esseri. Questa scienza si concentra su ciò che è primo e fondamentale, da cui dipendono tutte le altre cose e che dà loro il nome. Se questa cosa prima è identificata con la sostanza, allora la metafisica deve occuparsi dei principi e delle cause delle sostanze.
