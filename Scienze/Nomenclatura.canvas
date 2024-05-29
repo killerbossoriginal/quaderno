@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"77fc74d0ea056057","type":"group","x":80,"y":-160,"width":440,"height":920,"label":"Composti Binari"},
 		{"id":"920e3c9022fa40b0","type":"group","x":760,"y":-40,"width":880,"height":360,"label":"Composti Ternari"},
-		{"id":"966f3d8f5005a501","type":"text","text":"(Idrossido + Ossoacido/Ossido Acido)\n**Sale Ternario** + $H_2O$","x":1220,"y":154,"width":380,"height":106},
 		{"id":"e8d4afdb0ee6fb96","type":"text","text":"**Non Metallo**","x":-660,"y":30,"width":250,"height":60,"color":"1"},
 		{"id":"92ec26d6be2a6913","type":"text","text":"**Metallo**","x":-660,"y":-70,"width":250,"height":60,"color":"1"},
 		{"id":"1a3d2603bcd1a2a2","type":"text","text":"Ossigeno","x":-410,"y":320,"width":250,"height":60,"color":"6"},
@@ -15,7 +14,8 @@
 		{"id":"b93cd6377aad2a16","type":"text","text":"Idracido \n`H + S/Alogeni`","x":200,"y":660,"width":250,"height":60},
 		{"id":"fbe1ad5d4b317077","type":"text","text":"$H_2O$","x":288,"y":154,"width":70,"height":50},
 		{"id":"69bab48ce090e162","type":"text","text":"Idrossido\n`M + OH-`","x":785,"y":40,"width":250,"height":60},
-		{"id":"75de6571c7d57ea2","type":"text","text":"Ossoacido\n``","x":785,"y":124,"width":250,"height":60}
+		{"id":"75de6571c7d57ea2","type":"text","text":"Ossoacido\n`H+ + NM + O`","x":785,"y":124,"width":250,"height":60},
+		{"id":"966f3d8f5005a501","type":"text","text":"(Idrossido + Ossoacido/Ossido Acido)\n**Sale Ternario** + $H_2O$\n`M + NM + O`","x":1220,"y":154,"width":380,"height":106}
 	],
 	"edges":[
 		{"id":"0c9c38d235078838","fromNode":"e8d4afdb0ee6fb96","fromSide":"bottom","toNode":"1a3d2603bcd1a2a2","toSide":"left","color":"1"},
