@@ -11,12 +11,14 @@
             "id": "2633d404ea59e58e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Scienze/Nomenclatura.canvas",
+                "viewState": {
+                  "x": 1156.3457151900257,
+                  "y": 384.16590801260753,
+                  "zoom": -0.333333333333333
+                }
               }
             }
           }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
+                "file": "Scienze/Nomenclatura.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
+                "file": "Scienze/Nomenclatura.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md"
+                "file": "Scienze/Nomenclatura.canvas"
               }
             }
           },
@@ -191,7 +193,9 @@
   },
   "active": "2633d404ea59e58e",
   "lastOpenFiles": [
+    "Scienze/classificare i composti.png",
     "Scienze/Nomenclatura.canvas",
+    "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
     "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md",
     "Excalidraw/Drawing 2024-05-28 19.20.02.excalidraw.md",
     "Untitled Kanban.md",
@@ -200,7 +204,6 @@
     "Italiano/Giovanni Boccaccio/Decameron/IV giorno/IV Giorno.md",
     "Italiano/Giovanni Boccaccio/Decameron/I giorno/I novella - Ser Ciappelletto.md",
     "Italiano/Giovanni Boccaccio/Decameron/I giorno/I Giorno.md",
-    "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
     "Italiano/Giovanni Boccaccio/Decameron/Decameron.md",
     "Italiano/Giovanni Boccaccio/Giovanni Boccaccio.md",
     "Italiano/Giovanni Boccaccio/Decameron/I giorno",
@@ -237,7 +240,6 @@
     "Arte/Michelangelo Buonarroti/Tondo doni.jpg",
     "Arte/Michelangelo Buonarroti/Tondo doni.jpg.fdmdownload",
     "Arte/Michelangelo Buonarroti/Pietà Vaticana.jpg",
-    "Arte/Michelangelo Buonarroti/Il David.jpg",
     "Arte/Michelangelo Buonarroti/Il David.jpg.fdmdownload",
     "Arte/Michelangelo Buonarroti",
     "Arte/Leonardo da Vinci.canvas",
