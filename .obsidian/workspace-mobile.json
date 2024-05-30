@@ -11,14 +11,12 @@
             "id": "546e62f688051202",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Scienze/Nomenclatura.canvas",
-                "viewState": {
-                  "x": 359.86714348777747,
-                  "y": 385.0364814742809,
-                  "zoom": -1.3478763511776135
-                }
+                "file": "Filosofia/Aristotele/L'essere.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -108,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Scienze/Nomenclatura.canvas",
+            "file": "Filosofia/Aristotele/L'essere.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Scienze/Nomenclatura.canvas",
+            "file": "Filosofia/Aristotele/L'essere.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Scienze/Nomenclatura.canvas"
+            "file": "Filosofia/Aristotele/L'essere.md"
           }
         }
       },
@@ -167,8 +165,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2dac1ff3a8a2ec90",
+  "active": "546e62f688051202",
   "lastOpenFiles": [
+    "Scienze/Nomenclatura.canvas",
     "/Filosofia/Aristotele/L-Metafisica.md",
     "Scienze/classificare i composti.png",
     "README.md",
@@ -183,7 +182,6 @@
     "Italiano/Giovanni Boccaccio/Decameron/I giorno/I novella - Ser Ciappelletto.md",
     "Italiano/Giovanni Boccaccio/Decameron/I giorno",
     "Arte/Verifica.md",
-    "Scienze/Nomenclatura.canvas",
     "Inglese/Verifica.md",
     "Scienze",
     "Inglese/Shakespeare/Romeo and Juliet.md",
@@ -204,7 +202,6 @@
     "Inglese/Shakespeare/Shall i compare thee.md",
     "Arte/Untitled.md",
     "Arte/Arte.md",
-    "Filosofia/Aristotele/L-Metafisica.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
