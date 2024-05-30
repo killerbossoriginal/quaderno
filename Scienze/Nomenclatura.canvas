@@ -12,7 +12,7 @@
 		{"id":"92ec26d6be2a6913","type":"text","text":"**Metallo**","x":-660,"y":-70,"width":250,"height":60,"color":"1"},
 		{"id":"1a3d2603bcd1a2a2","type":"text","text":"Ossigeno","x":-410,"y":320,"width":250,"height":60,"color":"6"},
 		{"id":"fbe1ad5d4b317077","type":"text","text":"$H_2O$","x":280,"y":154,"width":78,"height":50},
-		{"id":"7791103ee41bac6d","type":"text","text":"I più importanti sono:\n1. $H_2CO_3$ : acido carbonico\n2. $HNO_2$ : acido nitroso\n3. $HNO_3$ : acido nitrico\n4. $H_2SO_3$ : acido solforoso\n5. $H_2SO_4$ : acido solforico\n6. $H_3PO_3$ : acido fosforoso\n7. $H_3PO_4$ : acido fosforico\n8. $HClO$ : acido ipocoloroso\n9. $HCl_2O$ : acido cloroso\n10. $HCl_3O$ : acido clorico\n11. $HCl_4O$ : acido perclorico","x":1020,"y":439,"width":313,"height":398},
+		{"id":"7791103ee41bac6d","type":"text","text":"**Acidi importanti**:\n1. $H_2CO_3$ : acido carbonico\n2. $HNO_2$ : acido nitroso\n3. $HNO_3$ : acido nitrico\n4. $H_2SO_3$ : acido solforoso\n5. $H_2SO_4$ : acido solforico\n6. $H_3PO_3$ : acido fosforoso\n7. $H_3PO_4$ : acido fosforico\n8. $HClO$ : acido ipocoloroso\n9. $HCl_2O$ : acido cloroso\n10. $HCl_3O$ : acido clorico\n11. $HCl_4O$ : acido perclorico","x":1020,"y":439,"width":313,"height":398},
 		{"id":"75de6571c7d57ea2","type":"text","text":"Ossoacido\n`H+ + NM + O`\nTradizionale: `Acido $N`\nIUPAC: `Acido N-osso E-[ico/oso]`","x":1020,"y":220,"width":333,"height":136},
 		{"id":"69bab48ce090e162","type":"text","text":"Idrossido\n`M + OH-`\nTradizionale: `Idrossido $N`\nIUPAC: `N-Idrossido di N-E`","x":840,"y":-20,"width":337,"height":144},
 		{"id":"8fc54d00675e348c","type":"text","text":"Idrogeno","x":-410,"y":440,"width":250,"height":60,"color":"6"},
@@ -20,7 +20,8 @@
 		{"id":"bbacee6b6ef76c9d","type":"text","text":"# Nomenclatura","x":-1220,"y":-30,"width":288,"height":60},
 		{"id":"4d4118562fce4cac","type":"file","file":"Scienze/classificare i composti.png","x":-1660,"y":440,"width":1031,"height":810},
 		{"id":"862149a1db31a31c","type":"text","text":"Standard del File\n`E`: elemento principale\n`$N`: `[per/ipo/.] + E + [ico/oso]`\n`M`: Metallo\n`NM` Non metallo","x":-780,"y":-300,"width":400,"height":160},
-		{"id":"966f3d8f5005a501","type":"text","text":"**Sale III**\n`M + NM + O`\n`Idrossido + Ossoacido = Sale III + H2O`\n`Idrossido + Ossido Acido = Sale III + H2O`\nTradizionale: `NM-[ato/ito] di M`\nIUPAC: `N-NM-[ato/ito] di N-M`","x":1460,"y":53,"width":420,"height":207}
+		{"id":"966f3d8f5005a501","type":"text","text":"**Sale III**\n`M + NM + O`\n`Idrossido + Ossoacido = Sale III + H2O`\n`Idrossido + Ossido Acido = Sale III + H2O`\nTradizionale: `NM-[ato/ito] di M`\nIUPAC: `N-NM-[ato/ito] di N-M`","x":1460,"y":53,"width":420,"height":207},
+		{"id":"ce22934160807ac5","x":1510,"y":364,"width":370,"height":456,"type":"text","text":"**Ioni importanti**:\n1. $NO_2^-$ : nitrito\n2. $NO_3^-$ : nitrato\n3. $ClO^-$ : ipoclorito\n4. $ClO_2^-$ : clorito\n5. $ClO_3^-$ : clorato\n6. $ClO_4^-$ : perclorato\n7. $SO_3^{--}$ : solfito\n8. $SO_4^{--}$ : solfato"}
 	],
 	"edges":[
 		{"id":"0c9c38d235078838","fromNode":"e8d4afdb0ee6fb96","fromSide":"bottom","toNode":"1a3d2603bcd1a2a2","toSide":"left","color":"1"},
@@ -49,6 +50,7 @@
 		{"id":"3d1ac5b29f75703f","fromNode":"75de6571c7d57ea2","fromSide":"bottom","toNode":"7791103ee41bac6d","toSide":"top"},
 		{"id":"096cae634a5596bb","fromNode":"bbacee6b6ef76c9d","fromSide":"top","toNode":"862149a1db31a31c","toSide":"left"},
 		{"id":"758f59f54f30f70a","fromNode":"b93cd6377aad2a16","fromSide":"right","toNode":"0626f75717a8a109","toSide":"right","color":"3"},
-		{"id":"765024f9185479b8","fromNode":"69bab48ce090e162","fromSide":"bottom","toNode":"0626f75717a8a109","toSide":"right","color":"3"}
+		{"id":"765024f9185479b8","fromNode":"69bab48ce090e162","fromSide":"bottom","toNode":"0626f75717a8a109","toSide":"right","color":"3"},
+		{"id":"7142bc9af7de9d1e","fromNode":"966f3d8f5005a501","fromSide":"bottom","toNode":"ce22934160807ac5","toSide":"top"}
 	]
 }
