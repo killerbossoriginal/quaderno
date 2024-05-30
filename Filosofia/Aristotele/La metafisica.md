@@ -32,3 +32,5 @@ Aristotele si chiede se esista qualcosa che all'inizio non è potenza. Risponde 
 Se non esistessero queste sostanze, la metafisica non dovrebbe esistere in quanto si occuperebbe di tutto la fisica.
 
 Per lui essendo per il principio di causa-effetto ogni cosa è mossa da una altra, questa sostanza è la prima cosa che ha mosso per prima, se non ci fosse si rischierebbe di continuare a tornare a ritroso dall'effetto alla causa all'infinito.
+
+Per Aristotele l'**amore** fa muovere tutto quello che esiste, e cerca di andare verso *"la divinità".*
