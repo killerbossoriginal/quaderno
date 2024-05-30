@@ -8,25 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2acd2b05a80853b5",
+            "id": "546e62f688051202",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Storia/1500/1500.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Scienze/Nomenclatura.canvas",
+                "viewState": {
+                  "x": -13.664738230817022,
+                  "y": 626.3599015784199,
+                  "zoom": -2.3294203131671902
+                }
               }
             }
           },
           {
-            "id": "77b83c695436cd61",
+            "id": "e122d502ee997b68",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.24.46.jpeg"
+                "file": "Scienze/Nomenclatura.canvas",
+                "viewState": {
+                  "x": 591.473617293631,
+                  "y": 881.1639063761133,
+                  "zoom": -2.2851313590003794
+                }
               }
             }
           }
@@ -117,7 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.24.46.jpeg",
+            "file": "Scienze/Nomenclatura.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -134,7 +141,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.24.46.jpeg",
+            "file": "Scienze/Nomenclatura.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -146,7 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.24.46.jpeg"
+            "file": "Scienze/Nomenclatura.canvas"
           }
         }
       },
@@ -176,22 +183,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77b83c695436cd61",
+  "active": "e122d502ee997b68",
   "lastOpenFiles": [
-    "Storia/1500/Elisabetta I/Elisabetta I.md",
-    "Storia/1500/1500.md",
-    "Filosofia/Aristotele/La metafisica.md",
-    "Storia/1500/Elizabetta I",
-    "Arte/Arte.md",
-    "Filosofia/Aristotele/Utils.md",
-    "Filosofia/Aristotele/L-Metafisica.md",
-    "Filosofia/Filosofia.md",
-    "Filosofia/Aristotele/L'essere.md",
-    "Scienze/Nomenclatura.canvas",
-    "/Filosofia/Aristotele/L-Metafisica.md",
-    "Scienze/classificare i composti.png",
-    "README.md",
     "conflict-files-obsidian-git.md",
+    "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.28.50 (2).jpeg",
+    "Storia/1500/Elisabetta I/Elisabetta I.md",
+    "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.24.46.jpeg",
+    "Scienze/classificare i composti.png",
+    "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.29.26.jpeg",
+    "Storia/1500/Elisabetta I",
+    "Filosofia/Aristotele/Utils.md",
+    "Scienze/Nomenclatura.canvas",
+    "README.md",
     "Inglese/The Chain of Being.canvas",
     "Arte/Giorgione.md",
     "Italiano/Giovanni Boccaccio/Decameron/I giorno/I Giorno.md",
@@ -214,7 +217,13 @@
     "Arte/La riqualificazione di Roma.md",
     "Arte/Leonardo da Vinci.md",
     "Arte/Contesto del 1500.md",
+    "Arte/Raffaello.md",
     "Arte/Botticelli-La_nascita_di_Venere.jpg",
+    "Inglese/The theatres.md",
+    "Inglese/Tudor.md",
+    "Inglese/English.md",
+    "Inglese/Shakespeare/Shall i compare thee.md",
+    "Arte/Untitled.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
