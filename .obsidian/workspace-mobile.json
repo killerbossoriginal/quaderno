@@ -15,8 +15,8 @@
               "state": {
                 "file": "Scienze/Nomenclatura.canvas",
                 "viewState": {
-                  "x": -13.664738230817022,
-                  "y": 626.3599015784199,
+                  "x": -319.2068728408661,
+                  "y": 527.326425258114,
                   "zoom": -2.3294203131671902
                 }
               }
@@ -37,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +182,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e122d502ee997b68",
+  "active": "546e62f688051202",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.28.50 (2).jpeg",
