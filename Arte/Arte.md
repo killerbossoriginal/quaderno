@@ -6,6 +6,7 @@
 - [Leonardo da Vinci](Leonardo%20da%20Vinci.md)
 - [Raffaello Sanzio](Raffaello%20Sanzio.md)
 - [Michelangelo Buonarroti](Michelangelo%20Buonarroti.md)
+- [Giorgione](Giorgione.md)
 
 # Aiutino
 Per fare l'analisi delle opere segui il contenuto [di questa nota](Analisi%20delle%20opere.md)

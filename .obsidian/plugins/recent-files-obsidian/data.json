@@ -5,6 +5,10 @@
       "path": "Filosofia/Aristotele/La metafisica.md"
     },
     {
+      "basename": "Arte",
+      "path": "Arte/Arte.md"
+    },
+    {
       "basename": "Utils",
       "path": "Filosofia/Aristotele/Utils.md"
     },
