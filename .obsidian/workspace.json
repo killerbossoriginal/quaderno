@@ -11,12 +11,14 @@
             "id": "2633d404ea59e58e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Filosofia/Aristotele/L-Metafisica.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Scienze/Nomenclatura.canvas",
+                "viewState": {
+                  "x": 405.3238875915823,
+                  "y": 255.14371983941703,
+                  "zoom": -0.27564077726103003
+                }
               }
             }
           }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Aristotele/L-Metafisica.md",
+                "file": "Scienze/Nomenclatura.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Aristotele/L-Metafisica.md",
+                "file": "Scienze/Nomenclatura.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filosofia/Aristotele/L-Metafisica.md"
+                "file": "Scienze/Nomenclatura.canvas"
               }
             }
           },
@@ -191,10 +193,20 @@
   },
   "active": "2633d404ea59e58e",
   "lastOpenFiles": [
-    "Filosofia/Aristotele/L'Analisi.md",
-    "Filosofia/Aristotele/L-Metafisica.md",
-    "Scienze/Nomenclatura.canvas",
     "Scienze/classificare i composti.png",
+    "Filosofia/Aristotele/La metafisica.md",
+    "Filosofia/Aristotele/L'usiologia.md",
+    "Filosofia/Aristotele/L'essere.md",
+    "Filosofia/Aristotele/L'Analisi.md",
+    "Filosofia/Aristotele/Aristotele.md",
+    "Filosofia/Aristotele/L-Metafisica.md",
+    "Filosofia/Aristotele/Utils.md",
+    "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.28.50 (2).jpeg",
+    "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.29.26.jpeg",
+    "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.24.46.jpeg",
+    "Storia/1500/Elisabetta I/Elisabetta I.md",
+    "Storia/1500/Elisabetta I",
+    "Scienze/Nomenclatura.canvas",
     "Italiano/Giovanni Boccaccio/Decameron/V giorno/IX novella - Federico degli Alberighi.md",
     "Italiano/Giovanni Boccaccio/Decameron/IV giorno/I novella - Tancredi e Ghismunda.md",
     "Excalidraw/Drawing 2024-05-28 19.20.02.excalidraw.md",
@@ -218,16 +230,9 @@
     "Inglese/Comedy vs Tragedy.png",
     "Inglese/Screenshot 2024-05-27 191724.png",
     "Inglese/Shakespeare/Shall i compare thee.md",
-    "Inglese/Shakespeare/Shakespeare.md",
     "fpm.sh",
-    "Arte/Verifica.md",
-    "Arte/Giorgione.md",
     "Inglese/Shakespeare/Shakespeare's Plays Act.png",
     "Inglese/The Tudors.canvas",
-    "Storia/Storia.md",
-    "Storia/1400/1400.md",
-    "Storia/1400/La guerra delle due rose.md",
-    "Storia/1300/La guerra dei 100 anni.md",
     "Storia/1400",
     "Scienze",
     "Arte/Michelangelo Buonarroti/Il giudizio universale.jpg",
@@ -235,12 +240,8 @@
     "Arte/Michelangelo Buonarroti/La sagrestia Nuova di San Lorenzo.jpg",
     "Arte/Michelangelo Buonarroti/La sagrestia Nuova di San Lorenzo.jpg.fdmdownload",
     "Arte/Michelangelo Buonarroti/Prigioni dell'accademia.jpg",
-    "Arte/Michelangelo Buonarroti/Tomba di Giulio II.jpg",
-    "Arte/Michelangelo Buonarroti/Tondo doni.jpg",
     "Arte/Michelangelo Buonarroti/Tondo doni.jpg.fdmdownload",
-    "Arte/Michelangelo Buonarroti/Pietà Vaticana.jpg",
     "Arte/Michelangelo Buonarroti/Il David.jpg.fdmdownload",
-    "Arte/Michelangelo Buonarroti",
     "Arte/Leonardo da Vinci.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
