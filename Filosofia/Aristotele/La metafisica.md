@@ -33,4 +33,4 @@ Se non esistessero queste sostanze, la metafisica non dovrebbe esistere in quant
 
 Per lui essendo per il principio di causa-effetto ogni cosa è mossa da una altra, questa sostanza è la prima cosa che ha mosso per prima, se non ci fosse si rischierebbe di continuare a tornare a ritroso dall'effetto alla causa all'infinito.
 
-Per Aristotele l'**amore** fa muovere tutto quello che esiste, e cerca di andare verso *"la divinità".*
+Per Aristotele l'**amore** fa muovere tutto quello che esiste, e cerca di andare verso *"la divinità".* Le sostanze si muovono "come un Amante verso l'oggetto amato", per amore.
