@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "546e62f688051202",
+            "id": "2acd2b05a80853b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Filosofia.md",
+                "file": "Filosofia/Aristotele/La metafisica.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Filosofia/Filosofia.md",
+            "file": "Filosofia/Aristotele/La metafisica.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Filosofia/Filosofia.md",
+            "file": "Filosofia/Aristotele/La metafisica.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Filosofia/Filosofia.md"
+            "file": "Filosofia/Aristotele/La metafisica.md"
           }
         }
       },
@@ -165,9 +165,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "546e62f688051202",
+  "active": "2acd2b05a80853b5",
   "lastOpenFiles": [
+    "Filosofia/Aristotele/Utils.md",
+    "Filosofia/Aristotele/La metafisica.md",
     "Filosofia/Aristotele/L-Metafisica.md",
+    "Filosofia/Filosofia.md",
     "Filosofia/Aristotele/L'essere.md",
     "Scienze/Nomenclatura.canvas",
     "/Filosofia/Aristotele/L-Metafisica.md",
@@ -200,9 +203,6 @@
     "Arte/Botticelli-La_nascita_di_Venere.jpg",
     "Inglese/The theatres.md",
     "Inglese/Tudor.md",
-    "Inglese/English.md",
-    "Inglese/Shakespeare/Shall i compare thee.md",
-    "Arte/Untitled.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
