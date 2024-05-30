@@ -15,9 +15,9 @@
               "state": {
                 "file": "Scienze/Nomenclatura.canvas",
                 "viewState": {
-                  "x": 1607.1399347009026,
-                  "y": 504.2710408438785,
-                  "zoom": -0.27564077726103003
+                  "x": 1679.195935306027,
+                  "y": 442.2194877834813,
+                  "zoom": -0.6089741105943633
                 }
               }
             }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Aristotele/La metafisica.md",
+                "file": "Scienze/Nomenclatura.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Aristotele/La metafisica.md",
+                "file": "Scienze/Nomenclatura.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filosofia/Aristotele/La metafisica.md"
+                "file": "Scienze/Nomenclatura.canvas"
               }
             }
           },

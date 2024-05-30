@@ -2,6 +2,7 @@
 	"nodes":[
 		{"id":"920e3c9022fa40b0","type":"group","x":785,"y":-40,"width":1135,"height":920,"label":"Composti Ternari"},
 		{"id":"77fc74d0ea056057","type":"group","x":80,"y":-160,"width":520,"height":1160,"label":"Composti Binari"},
+		{"id":"80d25ef438b03a30","x":2200,"y":53,"width":480,"height":469,"type":"group","label":"Composti Quaternari"},
 		{"id":"4cc5ab10280dc07d","type":"text","text":"Idruro Metallico / Salino\n`M + H`\nTradizionale: `Idruro di $N`\nIUPAC: `N-idruro di N-E`","x":135,"y":366,"width":380,"height":120},
 		{"id":"b93cd6377aad2a16","type":"text","text":"Idracido \n`H + S/Alogeni`","x":200,"y":660,"width":250,"height":60},
 		{"id":"22624bc7637106d5","type":"text","text":"**Idruro Covalente**\n`NM + H`\nTradizionale: `Acido E-Idrico`","x":135,"y":500,"width":380,"height":120},
@@ -21,7 +22,8 @@
 		{"id":"4d4118562fce4cac","type":"file","file":"Scienze/classificare i composti.png","x":-1660,"y":440,"width":1031,"height":810},
 		{"id":"862149a1db31a31c","type":"text","text":"Standard del File\n`E`: elemento principale\n`$N`: `[per/ipo/.] + E + [ico/oso]`\n`M`: Metallo\n`NM` Non metallo","x":-780,"y":-300,"width":400,"height":160},
 		{"id":"966f3d8f5005a501","type":"text","text":"**Sale III**\n`M + NM + O`\n`Idrossido + Ossoacido = Sale III + H2O`\n`Idrossido + Ossido Acido = Sale III + H2O`\nTradizionale: `NM-[ato/ito] di M`\nIUPAC: `N-NM-[ato/ito] di N-M`","x":1460,"y":53,"width":420,"height":207},
-		{"id":"ce22934160807ac5","x":1510,"y":364,"width":370,"height":456,"type":"text","text":"**Ioni importanti**:\n1. $NO_2^-$ : nitrito\n2. $NO_3^-$ : nitrato\n3. $ClO^-$ : ipoclorito\n4. $ClO_2^-$ : clorito\n5. $ClO_3^-$ : clorato\n6. $ClO_4^-$ : perclorato\n7. $SO_3^{--}$ : solfito\n8. $SO_4^{--}$ : solfato"}
+		{"id":"ce22934160807ac5","x":1510,"y":364,"width":370,"height":316,"type":"text","text":"**Ioni importanti**:\n1. $NO_2^-$ : nitrito\n2. $NO_3^-$ : nitrato\n3. $ClO^-$ : ipoclorito\n4. $ClO_2^-$ : clorito\n5. $ClO_3^-$ : clorato\n6. $ClO_4^-$ : perclorato\n7. $SO_3^{--}$ : solfito\n8. $SO_4^{--}$ : solfato"},
+		{"id":"b353bdbe00700728","x":2240,"y":100,"width":400,"height":380,"type":"text","text":"**Sale IV**\nEsempi di lettura:\n$Ba(HSO_3)_2$ = di-biidrogenosolfato di bario\n$KHCO_3$ = idrogenocarbonato di potassio"}
 	],
 	"edges":[
 		{"id":"0c9c38d235078838","fromNode":"e8d4afdb0ee6fb96","fromSide":"bottom","toNode":"1a3d2603bcd1a2a2","toSide":"left","color":"1"},
