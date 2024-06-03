@@ -8,6 +8,7 @@
 - [Michelangelo Buonarroti](Michelangelo%20Buonarroti.md)
 - [Giorgione](Giorgione.md)
 - [Palladio](Palladio.md)
+- [Il Manierismo](Il%20Manierismo.md)
 
 # Aiutino
 Per fare l'analisi delle opere segui il contenuto [di questa nota](Analisi%20delle%20opere.md)

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arte/Palladio.md",
+                "file": "Arte/Il Manierismo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Arte/Palladio.md",
+            "file": "Arte/Il Manierismo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Arte/Palladio.md",
+            "file": "Arte/Il Manierismo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Arte/Palladio.md"
+            "file": "Arte/Il Manierismo.md"
           }
         }
       },
@@ -181,7 +181,9 @@
   "active": "866872fb6c90c0b3",
   "lastOpenFiles": [
     "Arte/Arte.md",
+    "Arte/Il Manierismo.md",
     "Arte/Palladio.md",
+    "Arte/Teatro.md",
     "Scienze/Nomenclatura.canvas",
     "Arte/Giorgione.md",
     "Untitled Kanban.md",
@@ -215,7 +217,6 @@
     "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
     "Inglese/The First Folio.canvas",
     "Arte/Donato Bramante.md",
-    "Arte/Per la verifica.md",
     "Arte/Botticelli-La_nascita_di_Venere.jpg",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
