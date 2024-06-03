@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "24d7933a449af7c3",
+        "id": "75e153574ec6de8b",
         "type": "tabs",
         "children": [
           {
-            "id": "a7a284c1e473d10a",
+            "id": "fec5c72cc9377425",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Arte/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -101,6 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Arte/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,6 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Arte/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +134,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Arte/Untitled.md"
+          }
         }
       },
       {
@@ -152,12 +161,16 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a7a284c1e473d10a",
+  "active": "fec5c72cc9377425",
   "lastOpenFiles": [
+    "Arte/Giorgione.md",
+    "Arte/Untitled.md",
+    "Scienze/Nomenclatura.canvas",
+    "Untitled Kanban.md",
+    "Untitled Kanban 1.md",
     "Storia/1500/1500.md",
     "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.24.46.jpeg",
     "Storia/1500/Elisabetta I/Elisabetta I.md",
@@ -168,13 +181,11 @@
     "Filosofia/Aristotele/L-Metafisica.md",
     "Filosofia/Filosofia.md",
     "Filosofia/Aristotele/L'essere.md",
-    "Scienze/Nomenclatura.canvas",
     "/Filosofia/Aristotele/L-Metafisica.md",
     "Scienze/classificare i composti.png",
     "README.md",
     "conflict-files-obsidian-git.md",
     "Inglese/The Chain of Being.canvas",
-    "Arte/Giorgione.md",
     "Italiano/Giovanni Boccaccio/Decameron/I giorno/I Giorno.md",
     "Inglese/Comedy vs Tragedy.png",
     "Excalidraw/Drawing 2024-05-28 19.20.02.excalidraw.md",
@@ -192,8 +203,6 @@
     "Arte/Donato Bramante.md",
     "Arte/Per la verifica.md",
     "Arte/Michelangelo Buonarroti.md",
-    "Arte/La riqualificazione di Roma.md",
-    "Arte/Leonardo da Vinci.md",
     "Arte/Botticelli-La_nascita_di_Venere.jpg",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

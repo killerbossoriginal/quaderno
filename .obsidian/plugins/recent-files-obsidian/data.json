@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Arte/Untitled.md"
+    },
+    {
+      "basename": "Giorgione",
+      "path": "Arte/Giorgione.md"
+    },
+    {
+      "basename": "Nomenclatura",
+      "path": "Scienze/Nomenclatura.canvas"
+    },
+    {
       "basename": "1500",
       "path": "Storia/1500/1500.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "L'essere",
       "path": "Filosofia/Aristotele/L'essere.md"
-    },
-    {
-      "basename": "Nomenclatura",
-      "path": "Scienze/Nomenclatura.canvas"
     },
     {
       "basename": "L'Analisi",
