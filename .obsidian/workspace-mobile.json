@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f5e40faa1bc6c98e",
+        "id": "24d7933a449af7c3",
         "type": "tabs",
         "children": [
           {
-            "id": "546e62f688051202",
+            "id": "a7a284c1e473d10a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Scienze/Nomenclatura.canvas",
-                "viewState": {
-                  "x": 1457.7932377685274,
-                  "y": 653.2531744112001,
-                  "zoom": -1.321580379662389
-                }
-              }
-            }
-          },
-          {
-            "id": "e122d502ee997b68",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Scienze/Nomenclatura.canvas",
-                "viewState": {
-                  "x": 591.473617293631,
-                  "y": 881.1639063761133,
-                  "zoom": -2.2851313590003794
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -123,7 +101,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Scienze/Nomenclatura.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -140,7 +117,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Scienze/Nomenclatura.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,9 +127,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Scienze/Nomenclatura.canvas"
-          }
+          "state": {}
         }
       },
       {
@@ -182,18 +156,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "546e62f688051202",
+  "active": "a7a284c1e473d10a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.28.50 (2).jpeg",
-    "Storia/1500/Elisabetta I/Elisabetta I.md",
+    "Storia/1500/1500.md",
     "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.24.46.jpeg",
-    "Scienze/classificare i composti.png",
-    "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.29.26.jpeg",
-    "Storia/1500/Elisabetta I",
+    "Storia/1500/Elisabetta I/Elisabetta I.md",
+    "Filosofia/Aristotele/La metafisica.md",
+    "Storia/1500/Elizabetta I",
+    "Arte/Arte.md",
     "Filosofia/Aristotele/Utils.md",
+    "Filosofia/Aristotele/L-Metafisica.md",
+    "Filosofia/Filosofia.md",
+    "Filosofia/Aristotele/L'essere.md",
     "Scienze/Nomenclatura.canvas",
+    "/Filosofia/Aristotele/L-Metafisica.md",
+    "Scienze/classificare i composti.png",
     "README.md",
+    "conflict-files-obsidian-git.md",
     "Inglese/The Chain of Being.canvas",
     "Arte/Giorgione.md",
     "Italiano/Giovanni Boccaccio/Decameron/I giorno/I Giorno.md",
@@ -215,14 +194,7 @@
     "Arte/Michelangelo Buonarroti.md",
     "Arte/La riqualificazione di Roma.md",
     "Arte/Leonardo da Vinci.md",
-    "Arte/Contesto del 1500.md",
-    "Arte/Raffaello.md",
     "Arte/Botticelli-La_nascita_di_Venere.jpg",
-    "Inglese/The theatres.md",
-    "Inglese/Tudor.md",
-    "Inglese/English.md",
-    "Inglese/Shakespeare/Shall i compare thee.md",
-    "Arte/Untitled.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
