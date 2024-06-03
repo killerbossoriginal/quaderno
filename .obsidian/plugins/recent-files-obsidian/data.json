@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Arte/Untitled.md"
+      "basename": "Palladio",
+      "path": "Arte/Palladio.md"
     },
     {
-      "basename": "Giorgione",
-      "path": "Arte/Giorgione.md"
+      "basename": "Arte",
+      "path": "Arte/Arte.md"
     },
     {
       "basename": "Nomenclatura",
       "path": "Scienze/Nomenclatura.canvas"
+    },
+    {
+      "basename": "Giorgione",
+      "path": "Arte/Giorgione.md"
     },
     {
       "basename": "1500",
@@ -27,10 +31,6 @@
     {
       "basename": "La metafisica",
       "path": "Filosofia/Aristotele/La metafisica.md"
-    },
-    {
-      "basename": "Arte",
-      "path": "Arte/Arte.md"
     },
     {
       "basename": "Utils",
