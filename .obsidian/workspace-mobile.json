@@ -4,40 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "f5e40faa1bc6c98e",
+        "id": "75e153574ec6de8b",
         "type": "tabs",
         "children": [
           {
-            "id": "546e62f688051202",
+            "id": "fec5c72cc9377425",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Scienze/Nomenclatura.canvas",
-                "viewState": {
-                  "x": 501.5009876709014,
-                  "y": 407.26961289893364,
-                  "zoom": -0.9661266081386382
-                }
+                "file": "Arte/Arte.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
           {
-            "id": "e122d502ee997b68",
+            "id": "866872fb6c90c0b3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Scienze/Nomenclatura.canvas",
-                "viewState": {
-                  "x": 591.473617293631,
-                  "y": 881.1639063761133,
-                  "zoom": -2.2851313590003794
-                }
+                "file": "Inglese/The Tudors.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Scienze/Nomenclatura.canvas",
+            "file": "Inglese/The Tudors.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -140,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Scienze/Nomenclatura.canvas",
+            "file": "Inglese/The Tudors.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -152,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Scienze/Nomenclatura.canvas"
+            "file": "Inglese/The Tudors.md"
           }
         }
       },
@@ -178,28 +175,33 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "546e62f688051202",
+  "active": "866872fb6c90c0b3",
   "lastOpenFiles": [
     "Arte/Il Manierismo.md",
+    "Arte/Arte.md",
     "Arte/Palladio.md",
     "Arte/Teatro.md",
-    "conflict-files-obsidian-git.md",
     "Scienze/Nomenclatura.canvas",
-    "/Scienze/Nomenclatura.canvas",
-    "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.28.50 (2).jpeg",
-    "Storia/1500/Elisabetta I/Elisabetta I.md",
-    "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.24.46.jpeg",
-    "Scienze/classificare i composti.png",
-    "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.29.26.jpeg",
-    "Storia/1500/Elisabetta I",
-    "Filosofia/Aristotele/Utils.md",
-    "README.md",
-    "Inglese/The Chain of Being.canvas",
     "Arte/Giorgione.md",
+    "Untitled Kanban.md",
+    "Untitled Kanban 1.md",
+    "Storia/1500/1500.md",
+    "Storia/1500/Elisabetta I/WhatsApp Image 2024-05-30 at 13.24.46.jpeg",
+    "Storia/1500/Elisabetta I/Elisabetta I.md",
+    "Filosofia/Aristotele/La metafisica.md",
+    "Storia/1500/Elizabetta I",
+    "Filosofia/Aristotele/Utils.md",
+    "Filosofia/Aristotele/L-Metafisica.md",
+    "Filosofia/Filosofia.md",
+    "Filosofia/Aristotele/L'essere.md",
+    "/Filosofia/Aristotele/L-Metafisica.md",
+    "Scienze/classificare i composti.png",
+    "README.md",
+    "conflict-files-obsidian-git.md",
+    "Inglese/The Chain of Being.canvas",
     "Italiano/Giovanni Boccaccio/Decameron/I giorno/I Giorno.md",
     "Inglese/Comedy vs Tragedy.png",
     "Excalidraw/Drawing 2024-05-28 19.20.02.excalidraw.md",
@@ -215,16 +217,7 @@
     "Inglese/Shakespeare/A woman's face with nature's own hand painted.md",
     "Inglese/The First Folio.canvas",
     "Arte/Donato Bramante.md",
-    "Arte/Per la verifica.md",
-    "Arte/Michelangelo Buonarroti.md",
-    "Arte/La riqualificazione di Roma.md",
-    "Arte/Leonardo da Vinci.md",
-    "Arte/Contesto del 1500.md",
-    "Arte/Raffaello.md",
     "Arte/Botticelli-La_nascita_di_Venere.jpg",
-    "Inglese/The theatres.md",
-    "Inglese/Tudor.md",
-    "Inglese/English.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
