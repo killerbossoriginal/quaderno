@@ -11,3 +11,8 @@ $$
 Risposta: C
 ## Esercizio 1108
 Risposta: A
+# Pagina 144
+## Esercizio 394
+$$
+f(x)=ax+b\to f(f(f(x)))=8x+21 \to a=2;b=7 \to a+b=9
+$$
