@@ -2,3 +2,5 @@
 - [Esponenziali](Esponenziali.md)
 - [Logaritmi](Logaritmi.md)
 - [Statistica](Statistica.md)
+- [Geometria](./Geometria/Geometria.md)
+- [Geometria Analitica](./Geometria%20Analitica/Geometria%20Analitica.md)
