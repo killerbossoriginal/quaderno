@@ -1,6 +1,7 @@
 - [Shall i compare thee](Shall%20i%20compare%20thee.md)
 - [A woman's face with nature's own hand painted](A%20woman's%20face%20with%20nature's%20own%20hand%20painted.md)
 - [Romeo and Juliet](Romeo%20and%20Juliet.md)
+- [Power and Ambition in Shakespeare](Power%20and%20Ambition%20in%20Shakespeare.md)
 
 # Biography
 Shakespeare born in **Stratford upon Avon**.
