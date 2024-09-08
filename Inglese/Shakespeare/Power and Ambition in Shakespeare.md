@@ -177,4 +177,31 @@ The castle was enclosed by big dark ramparts, the outside looked dark, but only 
 5. I liked a lot going around my home with my bike, especially in the mud.
 6. Yes, only one, one of my classmates of the middle school
 #### Ex 6
-1. 
+##### A
+wild, ~~brave~~, ~~viruous~~, ~~strong~~, ~~afraid~~, coward, talkative, worried
+1. ...virtuous because the responsability had changed him
+2. ...strong...he needed to...
+3. ...brave....the fighing was violent...
+4. ...afraid...they didn't want to die
+##### B
+non ho capito
+#### Ex 7
+1. Southampton
+2. Harfleur
+3. They staied in harfleur 51 days
+4. They passed from the cities of Fecamp, Amiens, Nesle and they arrived to Agincourt
+5. They arrived in October 25
+#### Ex 8
+1. set
+2. to stay
+3. side
+4. were
+5. at
+6. single
+7. meant
+8. by
+9. their
+10. for
+## Part II
+### Before you read
+### The text and beyond 
