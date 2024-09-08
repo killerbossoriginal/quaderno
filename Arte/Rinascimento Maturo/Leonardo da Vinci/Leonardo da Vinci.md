@@ -45,7 +45,7 @@ Andò a Roma, ma non venne chiamato perché non si fidavano di lui (i lavori a R
 Venne poi chiamato dal re di Francia, che lo stimava molto, e lo fece vivere in un castello, dove nel 1519 morì.
 # Opere
 ## L'annunciazione
-![](./Leonardo%20da%20Vinci/Annunciazione.jpg)
+![](Annunciazione.jpg)
 Questa è una delle prime opere che Leonardo produce in solitaria, rappresenta l'annunciazione dall'arcangelo Gabriele a Maria.
 Questo è situato in un ambiente contemporaneo, con molti elementi classici.
 
@@ -59,7 +59,7 @@ Le ali dell'angelo sono realistiche, come tutti gli alberi. Però c'è il cipres
 
 Viene usata la prospettiva aerea.
 ## La vergine delle rocce
-![](./Leonardo%20da%20Vinci/Vergine%20delle%20Roccie%20I.jpg)
+![](Vergine%20delle%20Roccie%20I.jpg)
 E' descritta così perché è disegnata vicino a una grotta.
 Non sono presenti elementi architettonici.
 C'è ovviamente Maria, e un altra figura angelica.
@@ -71,7 +71,7 @@ Usa lo sfumato pittorico e la prospettiva aerea.
 
 Questo quadro doveva rappresentare l'immacolata concezione, ovvero il fatto che Gesù è nato senza peccato originale. Non esistendo un iconografia per ciò, Leonardo propose Gesù, Maria, Giovanni Battista e un angelo come iconografia di ciò.
 ## La dama con l'ermellino
-![](./Leonardo%20da%20Vinci/Dama%20con%20l'ermellino.jpg)
+![](Dama%20con%20l'ermellino.jpg)
 Questa è un opera tenuta a Cracovia.
 Quest'opera è di una veridicità. La figura è posta a 3/4, ma con la testa gira dall'altra parte come a fare gli affari suoi.
 Quest'opera è molto realistica.
@@ -84,7 +84,7 @@ E' un opera di ritrattistica, i dettagli, lo sfondo scuro e l'olio su tela sono 
 
 Questa potrebbe rappresentare Cecilia Gallerani \[...], **una delle amanti di Ludovico Sforza**. Difatti potrebbe essere proprio lui il committente visto che quest'ultimo era diventato cavaliere dell'ordine dell'ermellino.
 ## Il Cenacolo
-![](./Leonardo%20da%20Vinci/Il%20Cenacolo.jpg)
+![](Il%20Cenacolo.jpg)
 Nella chiesa di Santa Maria delle Grazie Ludovico Sforza commissionò un dipinto a parete sul muro di divisione tra il refettorio e la cucina. Questo dipinto doveva rappresentare l'ultima cena.
 
 Le persone rappresentate sono tutte posizionate attorno a un tavolo, si nota l'inquietudine data dall'annuncio del tradimento.
@@ -99,11 +99,11 @@ Vuole sperimentare una nuova tecnica, colorando a secco e poi fissando il colore
 
 L'opera non è ben conservata, infatti è stata utilizzata una tecnica nuova, diversa dall'affresco. Questa tecnica già dopo pochi anni, soprattutto grazie all'umidità dell'ambiente, ha iniziato a distruggersi.
 ## La sant'Anna
-![](./Leonardo%20da%20Vinci/Sant'Anna.jpg)
+![](Sant'Anna.jpg)
 In questo quadro, viene posizionata Maria che gioca con il bambino, seduta sulle gambe di Sant'Anna (la madre di Maria).
 In questo quadro utilizza i moti dell'animo, lo sfumato e la prospettiva aerea
 ## La Gioconda
-![](./Leonardo%20da%20Vinci/La%20Gioconda.jpg)
+![](La%20Gioconda.jpg)
 Come in tutti i precedenti utilizzò i suoi studi, soprattutto dinuovo la prospettiva aerea e lo sfumato.
 Leonardo fu molto ossessionato da quest'opera in quanto la inizio nel secondo periodo a Firenze, terminandola molto tempo dopo nel suo castello.
 Venne poi acquisita dalla collezione reale francese per un ingente somma di denaro.

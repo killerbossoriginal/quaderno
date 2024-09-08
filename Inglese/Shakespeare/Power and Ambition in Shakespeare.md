@@ -1,13 +1,37 @@
+# Shakespeare
+## Ex 1
+1. From the Baptism
+2. Because he was the patreon
+3. The theaters were closed
+4. a collection of shakespeare's plays
+5. Added a lot of words and expressions
 # Richard III
 ## Part I
-### Ex 1
+### Before you read
+#### Ex 2
+1. A
+2. B
+3. B
+4. A
+5. B
+6. A
+7. A
+8. B
+9. B
+10. B
+#### Ex 3
+1. Richard and the princes
+2. How to get the power
+3. They'll die
+### The text and beyond
+#### Ex 1
 1. C
 2. D
 3. B
 4. A
 5. C
 6. D
-### Ex 2
+#### Ex 2
 1. A ring was slipped by Richard on Lady Anne's finger.
 2. Clarence was drown in a barrel of wine by two men.
 3. A letter was sent to the Tower of London by King Edward for forgiving his brother.
@@ -53,7 +77,7 @@
 2. F
 3. T
 4. F
-5. F
+5. T
 6. T
 ## Part II
 ### Before you read
@@ -68,6 +92,14 @@
 2. He's doing a nightmare
 3. Two faces
 4. Something angrly
+#### Ex 3
+1. believe
+2. princes
+3. king
+4. crown
+5. alive
+6. test
+7. nephews
 ### The text and beyond
 #### Ex 1
 0. d
@@ -118,10 +150,23 @@
 Around the castle, there was hundreds of rooms, with hundreds of servants that was running in all directions doing their work. The one with the trays for the dinner, other ones with carafe, other with red embroided bed sheets.
 at every door there was two guards, and my uncle was followed by four guards. Everyone hated him, and for the fear he was spending a lot of money for his bodyguards, that was being payed so they won't betray him. The garden behind the castle was huge, full of plants and flowers. It wasn't visible from the outside of the castle. It could beat Versailles.
 The castle was enclosed by big dark ramparts, the outside looked dark, but only the outside, like my uncle, that showed him as a terrible pearson, but inside he have a golden heart (he also didn't realized that).
-
+# The influences on shakespeare's plays
+1. Politics, classic culture and Machiavelli
+2. He loved theaters and his plays
+3. Ovid
+4. By his work "il principe"
+5. Richard III
 # Henry V
 ## Part I
 ### Before you read
+#### Ex 2
+1. Prince Hal
+2. twenty-five
+3. intelligent
+4. money
+5. fight
+6. tennis balls
+7. war
 #### Ex 3
 1. C
 2. E
@@ -148,15 +193,15 @@ The castle was enclosed by big dark ramparts, the outside looked dark, but only 
 | agree     | agreement    | agreeable   |
 | apologise | apology      | apologetic  |
 | remind    | reminder     | reminescent |
-| inspire   | inspiration  | insprancy   |
+| inspire   | inspiration  | inspired    |
 ##### B
 0. explaination (explain)
 1. advice (advise)
 2. agreement (agree)
-3. preparation (prepare)
+3. preparations (prepare)
 4. reminded (remind)
 5. apology (apologise)
-6. inspiration (inspire)
+6. inspired (inspire)
 #### Ex 3
 1. France is the place where there was Salic law.
 2. The Dauphin is the person who laughs at henry's claim on the French throne.
@@ -180,11 +225,9 @@ The castle was enclosed by big dark ramparts, the outside looked dark, but only 
 ##### A
 wild, ~~brave~~, ~~viruous~~, ~~strong~~, ~~afraid~~, coward, talkative, worried
 1. ...virtuous because the responsability had changed him
-2. ...strong...he needed to...
+2. ...worried...he needed to...
 3. ...brave....the fighing was violent...
 4. ...afraid...they didn't want to die
-##### B
-non ho capito
 #### Ex 7
 1. Southampton
 2. Harfleur
@@ -204,4 +247,64 @@ non ho capito
 10. for
 ## Part II
 ### Before you read
+#### Ex 1
+1. I think it's about the battle of Agincourt
+2. Because he's the kning and this explain the crown
+3. They have an armor, a shield and a helmet
+4. The french knight will die
+#### Ex 2
+2; 6
+#### Ex 3
+1. English
+2. foggy
+3. fight
+4. army
+5. death
+6. stole
+7. asleep
+8. weak
 ### The text and beyond 
+#### Ex 1
+1. Because he know he shall marry Henry
+2. He punished him
+3. Because they was 5 times the English army
+4. He called them brothers
+5. To hide in the common soldiers
+6. To a fight
+7. St. Crispin
+8. No, they lost for their heavy armors
+9. Going on the streets when they returned
+10. Because it wasn't French's girls custom to kiss before the marriage
+#### Ex 2
+1. the Governor of Harfleur
+2. Bardolph
+3. the Dauphin
+4. the Bishop of Ely
+5. the French king
+6. henry V
+7. Williams
+8. Katharine
+#### Ex 3
+1. D
+2. H
+3. G
+4. B
+5. F
+6. A
+7. C
+8. E
+#### Ex 4
+1. D
+2. A
+3. D
+4. A
+5. C
+6. B
+7. C
+### Internet Project
+1. 1989
+2. Angels and Bermans
+3. Montjoy's
+4. Ian mckellen
+5. Gerard Depardiew
+6. He hung in the film

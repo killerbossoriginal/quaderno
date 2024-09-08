@@ -1,6 +1,6 @@
 - [Botticelli](Botticelli.md)
-- [Contesto del 1500](Contesto%20del%201500.md)
-- [Donato Bramante](Donato%20Bramante.md)
+- [1500 e il rinascimento maturo](./Rinascimento%20Maturo/1500%20e%20il%20rinascimento%20maturo.md)
+	- [Donato Bramante](./Rinascimento%20Maturo/Donato%20Bramante/Donato%20Bramante.md)
 - [La riqualificazione di Roma](La%20riqualificazione%20di%20Roma.md)
 - [Donato Bramante](Donato%20Bramante.md)
 - [Leonardo da Vinci](Leonardo%20da%20Vinci.md)

@@ -22,23 +22,23 @@ Il papa gli commise le stanze vaticane (i suoi appartamenti), che vennero inizia
 Lui vive prendendo le tecniche degli altri. Partendo da Brunelleschi, Leonardo e altri.
 # Opere
 ## La madonna del cardellino
-![](./Raffaello%20Sanzio/Madonna%20del%20Cardellino.jpg)
+![](Madonna%20del%20Cardellino.jpg)
 Qui è rappresentata la madonna assieme a Gesù e a San Giovanni, qui i moti dell'animo sono meno evidenti, perché è un episodio molto simbolico.
 ## Liberazione di San Pietro
-![](./Raffaello%20Sanzio/Liberazione%20di%20San%20Pietro.jpg)
+![](Liberazione%20di%20San%20Pietro.jpg)
 1. in centro: Pietro venne liberato dall'angelo
 2. a destra: Pietro fuori dalla cella
 3. a sinistra: i soldati si svegliano, la cella è vuota, uno sgrida le guardie
 Il vero soggetto però è la luce (la luce divina dell'angelo e l'alba a sinistra).
 Vengono inseriti elementi architettonici classici.
 ## Incendio di Borgo
-![](./Raffaello%20Sanzio/Incendio%20di%20Borgo.jpg)
+![](Incendio%20di%20Borgo.jpg)
 Sono presenti elementi classici (colonne, capitelli, archi) e elementi rinascimentali (bugnato)
 
 E' un incendio che viene fermato dal papa
 Non è presentissima la mano di Raffaello perché vengono assegnate agli allievi, infatti non si vede la solita armonia ed è tutto più caotico.
 ## La scuola di Atene
-![](./Raffaello%20Sanzio/La%20scuola%20di%20Atene.jpg)
+![](La%20scuola%20di%20Atene.jpg)
 L'opera è inserita negli alloggi del papa.
 
 Rappresenta gli uomini classici che hanno fatto la storia.

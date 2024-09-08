@@ -1,1 +1,1 @@
-Il Manierismo è il momento in cui Vasari scrisse una seconda edizione del**le vite**, amplificando alcune figure, tra cui Michelangelo, che deficnisce come **il divino**, colui che non si può superare. Quindi gli artisti o si scoraggiarono o provarono a raggiungerli, fallendo.
+Il Manierismo è il momento in cui Vasari scrisse una seconda edizione del**le vite**, amplificando alcune figure, tra cui Michelangelo, che definisce come **il divino**, colui che non si può superare. Quindi gli artisti o si scoraggiarono o provarono a raggiungerli, fallendo.
