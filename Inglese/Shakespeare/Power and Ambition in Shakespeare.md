@@ -308,3 +308,141 @@ wild, ~~brave~~, ~~viruous~~, ~~strong~~, ~~afraid~~, coward, talkative, worried
 4. Ian mckellen
 5. Gerard Depardiew
 6. He hung in the film
+# Julius Caesar
+## Part 1
+### Before you read
+#### Ex 2
+1. Emperor
+2. secret
+3. celebrate
+4. March 15
+5. insane
+6. afraid
+7. noble
+8. dangerous
+#### Ex 3
+1. carpenter
+2. foreign
+3. wrong
+4. citizens
+5. ignore
+### The text and beyond 
+#### Ex 1
+1. B
+2. A
+3. D
+4. C
+5. B
+6. D
+#### Ex 2
+1. becomes, suffer
+2. persuades, join
+3. stop, help
+4. goes, kill
+5. is, convince
+#### Ex 3
+1. 85
+2. 79
+3. younger
+4. 48%
+5. Pompey
+6. east
+7. republic
+8. 60
+#### Ex 4
+1. Probably christmas, I like the enviroment created by the christmas tree, the lights and a big table with a lot of food in the company of my parents and my grandparents
+2. The christmas' eve is in the 24th of december, the fest is on 25. Usually there is a lot of decorations and lights, with some symbols of the christian traditions, like the nativity scene.
+3. Sometimes i wear a sweater
+4. Yes, but make a list of all what i eat in christmas day would be too long. My grandma make me find 2 tables full of things to eat. The most iconic for me is the "cotechino".
+5. Yes, a lot, from the beginning of december I start seeing some decorations in the streets. Some years ago I've removed my decorations at the end of February.
+6. I love the atmosphere it's created.
+### Internet Project
+#### Part 1
+1. 101 BCE
+2. 65 BCE
+3. 58 BCE
+4. The Pharaoah executed him for Caesar
+5. He declared war to the Egypt
+6. 44 BCE
+#### Part 2
+1. 1953
+2. Louis Calhern
+3. James Mason
+4. Marlon Brando
+5. Yes, five nomination and one won
+## Part 2
+### Before you read
+#### Ex 1
+4
+#### Ex 2
+1. Caesar and the killers
+2. They are watching Caesar in agony after having stabbed him
+3. People that are screaming
+#### Ex 3
+1. B
+2. C
+3. B
+4. A
+5. D
+### The text and beyond 
+#### Ex 1
+1. A
+2. C
+3. D
+4. B
+5. C
+6. D
+#### Ex 2
+1. defeated
+2. triumph
+3. ignores
+4. powerfull
+5. assassinate
+6. convinces
+7. dream
+8. persuade
+9. crowd
+10. raise
+11. honourable
+12. noblest
+#### Ex 3
+1. C
+2. A
+3. E
+4. D
+5. A
+6. E
+7. F
+8. C
+9. B
+10. G
+#### Ex 4
+1. by
+2. into
+3. the
+4. who
+5. to
+6. them
+7. which
+8. make
+9. gave
+10. about
+11. from
+12. not
+13. one
+# The Dark Side of Shakespeare's Plays
+## Ex 1
+1. B
+2. B
+3. A
+4. B
+5. B
+6. A
+7. B
+# Hamlet
+## Part 1
+### Before you read
+### The text and beyond 
+## Part 2
+### Before you read
+### The text and beyond 
