@@ -442,6 +442,160 @@ wild, ~~brave~~, ~~viruous~~, ~~strong~~, ~~afraid~~, coward, talkative, worried
 # Hamlet
 ## Part 1
 ### Before you read
+#### Ex 2
+1. C
+2. Extra
+3. D
+4. A
+5. B
+#### Ex 3
+1. C
+2. D
+3. F
+4. E
+5. A
+6. B
+### The text and beyond 
+#### Ex 1
+1. A betrayal of his husband
+2. King's Hamlet phantom
+3. Because of the desire of another kingdom to invade Denmark
+4. That a snake poisoned him (his uncle) to get his wife
+5. To the purgatory
+6. With poison in the ear
+7. Because they were Hamlet's friends
+8. To see the expression of his uncle, to understand if he was guilty
+9. Because his uncle become white in the face and escaped from the theatre
+#### Ex 2
+1. madness. the other are synonyms
+2. footsteps. it's a noun
+3. murderer is who do the action
+4. beckoned is a gesture
+5. servant is not connected to the other words
+6. disorder, it's a noun
+#### Ex 3
+1. servants
+2. Footsteps
+3. madness
+4. murderer
+5. beckoned
+6. disorder
+#### Ex 4
+1. Francisco
+2. Gertrude
+3. Horatio
+4. Hamlet
+5. the ghost
+6. Ophelia
+#### Ex 5
+1. had died
+2. was
+3. suspected
+4. had been
+5. spoke
+6. had seen
+7. had entered
+8. poured
+9. came
+10. had hidden
+11. said
+12. had gone
+#### Ex 6
+1. C
+2. F
+3. G
+4. J
+5. I
+6. E
+7. A
+8. H
+9. B
+10. D
+## Part 2
+### Before you read
+#### Ex 1
+1. A
+2. C
+3. C
+4. B
+5. B
+6. D
+#### Ex 2
+1. It's just an act, it will kill his uncle
+2. Yes
+3. Yes
+### The text and beyond 
+#### Ex 1
+1. Because he has the reward of his murder
+2. Claudius
+3. That's not as bad as his mother
+4. Because he didn't want to make Hamlet kill his mother
+5. In England by ship
+6. To execute him at his arrival to England
+7. Pirates
+8. Falling into a river and drowning
+9. No, the goblet was for Claudius
+10. Wounding Claudius
+#### Ex 2
+1. death
+2. considered
+3. performance
+4. occurrences
+5. appointed
+6. beginning
+7. repulsion
+8. agreement
+9. marriage
+#### Ex 3
+*Deary Harry.
+Something terrible has happened...*, my uncle just killed my father, I don't know what to do... I'm sad, I'd a very good relation with my father. I want to avenge his death but I want to make it very painful. I can make him drown with his car or i can torture him until he can explain and justify what have he done. He need to have a good reason, that an external pearson could say he had just done a good thing.
+I don't know if  Ophelia coul ever do a thing like this, i don't know if i can support that. It could become too much...
+#### Ex 4
+1. A
+2. D
+3. D
+4. A
+5. C
+6. C
+7. B
+8. C
+9. A
+10. D
+11. B
+#### Ex 5
+1. I think it's possibile, but i think we can't see them, we can only interact with them and they can interact with us. I do not think an haunted place can exists, i think it's more like a "spectator mode".
+2. Someone made it for joke. Someone who earn for this
+3. UFOs that've seen are always only some illusion or somewhat created by the humans.
+4. Yes, of that I'm pretty shure, on billion of planets, and billion of them on the same category of the Earth for me it's pretty impossible that there isn't a life form. Probably we can't see them.
+5. Yes, an ufo, it was unexplained for some days, but after we read a news about a drone of the airport.
+#### Ex 6
+There is no better revenge than don't care about what he did, he will feel neglected.
+#### Ex 7
+1. was suspected of killing
+2. that he would watch
+3. know if the ghost was
+4. was growing more and more
+5. hamlet's nerves
+#### Ex 8
+1. The dark lord of the phoenix order
+2. In the 12th century
+3. They've ended the salami
+4. A parmesan
+5. The parmesan bring other salami
+### Internet Project
+#### Part 1
+1. 1996
+2. Kate Winslet
+3. Julie Christie
+4. No, I don't like this type of film
+#### Part 2
+1. Mario Petillo
+2. It's very positive
+3. 1990
+4. Mario Petillo's review said that Benedict Cumberbatch's a good performance, describing him as an actor who can act like Hamlet's and show his inner torment. He say that Cumberbatch dominates the scene with his charisma and his ability tho show the drama of the character. The review also highlights the quality of the production and fidelity to Shakespeare's original text.
+# Machbeth
+## Part 1
+### Before you read
 ### The text and beyond 
 ## Part 2
 ### Before you read
