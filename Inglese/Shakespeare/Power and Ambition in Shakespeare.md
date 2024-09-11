@@ -596,7 +596,101 @@ There is no better revenge than don't care about what he did, he will feel negle
 # Machbeth
 ## Part 1
 ### Before you read
-### The text and beyond 
+#### Ex 2
+1. B
+2. B
+3. B
+4. B
+5. A
+#### Ex 3
+1. braverly
+2. heath
+3. mortal
+4. intrigued
+5. meeting
+### The text and beyond
+#### Ex 1
+1. C
+2. F
+3. E
+4. B
+5. D
+6. A
+#### Ex 2
+1. was
+2. were waiting
+3. was reading
+4. arrived
+5. wanted
+6. was having
+7. returned
+8. was holding
+9. was
+10. was knocking
+11. shouted
+12. saw
+13. went
+14. was sitting
+#### Ex 3
+1. hideous
+2. brave
+3. ruthless
+4. uneasy
+5. coward
+6. evil
+#### Ex 4
+1. B
+2. A
+3. F
+4. C
+5. E
+6. D
 ## Part 2
 ### Before you read
-### The text and beyond 
+#### Ex 1
+1. B
+2. A
+3. A
+4. B
+5. A
+#### Ex 2
+1. Lady Macbeth
+2. Because she seems to have hands covered in bloods
+3. Two people that are watching
+### The text and beyond
+#### Ex 1
+1. B
+2. A
+3. B
+4. D
+5. C
+6. A
+#### Ex 2
+1. Lady Macbeth
+2. the witches
+3. Lady Macbeth
+4. Macduff
+5. Malcolm
+6. Banquo
+7. the witches and Duncan
+#### Ex 3
+1. C
+2. D
+3. A
+4. I
+5. F
+6. H
+7. B
+8. R
+9. G
+#### Ex 4
+1. I want to speak about Leonardo da Vinci, who was an Italian artist and scientist who lived during the Renaissance period. He was born on April 15, 1452, and died on May 2, 1591.
+2. Leonardo is famous for his contributions to art, science, and engineering. Some of his most famous works includes the painting “Mona Lisa” and his numerous sketches and inventions that were ahead for his time.
+3. He acieved big accomplishments in the arts, in the sciences, engineering and other
+4. He has been the biggest inventor, the newer technologies are inspired to him, remembered after thousand of years.
+5. It's not necessary, but's hared without.
+#### Ex 5
+Dear organizers,
+I've recently played your Murder Mystery Weekend and I really enjoied it, but I've a few suggestion to improve it.
+First, it would be great if the event was aviable all the year, not just in August, this could permits to join to more people. The room was too cold and small, that made him not very comfortable. The food wasn't very good, maybe you can change the menù.
+The actors were fantastic and really scary! I loved the mountain walks, but the pool was too cold to use.
