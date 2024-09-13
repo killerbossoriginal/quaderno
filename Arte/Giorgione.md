@@ -1,4 +1,4 @@
-A Venezia la prospettiva lineare non viene considerata, perchè con lo sfumato e con i colori si può ottenere lo stesso risultato. (==**pittura tonale**== / tonalismo: effetto con colori che dà volume).
+A Venezia la prospettiva lineare non viene considerata, perché con lo sfumato e con i colori si può ottenere lo stesso risultato. (==**pittura tonale**== / tonalismo: effetto con colori che dà volume).
 Uno tra i maggiori utilizzatori di questa tecnica è Giorgione.
 # Opere
 ## La pala di castelfranco

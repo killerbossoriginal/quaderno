@@ -15,3 +15,5 @@ Venezia subì un declino a causa della scoperta dell'America. I veneziani allarg
 - Tiziano
 - [Donato Bramante](Donato%20Bramante.md)
 Leonardo voleva andare a Roma, però era uno scienziato, e qualsiasi cosa dipingeva la doveva studiare scientificamente.
+
+La pittura veneta.
