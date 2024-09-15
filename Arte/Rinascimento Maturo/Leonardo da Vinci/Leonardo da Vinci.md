@@ -1,5 +1,5 @@
 Pagine:
-- 142-146 (non versione 2 vergine roccie)
+- 142-146 (non versione 2 vergine rocce)
 - 147-150 (primo paragrafo)
 - 151-152
 
@@ -14,24 +14,21 @@ Opere
 - La gioconda
 
 # Biografia
-Leonardo da Vinci è uno scienziato nato a Vinci come figlio illegittimo di un ricco notaio. Anche essendo illegittimo il padre si occuperà di lui.
-Fin da piccolo osserva la realtà, analizzandola scientificamente e rappresentandola graficamente.
-Il padre lo manderà da **Andrea del ==Verrocchio==**, che apprende la tecnica della pittura, che secondo lui è l'unica che riesce a comunicare un sapere (declassando tutte le opere di altro tipo, compresi gli scritti).
 ## Nascita e Adolescenza
 Leonardo da Vinci è uno scienziato nato a Vinci come figlio illegittimo di un ricco notaio che lo accudì e lo crebbe a Vinci.
 
-Fin da piccolo osserva la realtà, analizzandola scientificamente e rappresentandola graficamente. Egli infatti pensava alla pittura come l'arte più nobile e che poteva far capire più cose (infatti per lui le altre arti erano meno suggestive per chi le vedeva)
+Fin da piccolo osserva la realtà, analizzandola scientificamente e rappresentandola graficamente.
+Il padre lo manderà da **Andrea del ==Verrocchio==**, dove apprende la tecnica della pittura, che secondo lui è l'unica arte che riesce a comunicare un sapere, infatti pensava alla pittura come l'arte più nobile e che poteva far capire più cose (per lui le altre arti erano meno suggestive per chi le vedeva).
 ## A Firenze
 ### Il verrocchio
-Il padre lo manderà da **Andrea del Verrocchio** a Firenze, dove apprende la sua tecnica.
+Leonardo è stato mandato dal padre alla bottega di **Andrea del Verrocchio** a Firenze, per apprendere la sua tecnica.
 Vedendo la grandissima capacità di Leonardo, il Verrocchio gli chiese di finire alcune sue opere come nel Battesimo di Cristo.
-### Il neoplatonismo
-Leonardo non ha mai avuto ideali neoplatonici e quindi non volle entrare nella cerchia di Lorenzo de'Medici. Riuscì a farsi invitare da **Ludovico Sforza** (Milano).
 # A Milano
-Leonardo volle farsi invitare da **Ludovico Sforza**. Egli però non è un grande fan dell'arte. Quindi nella lettera di presentazione Leonardo non cita il fatto di essere pittore, ma dice di occuparsi di **urbanistica**, di essere un ingegnere, un inventore, di **costruire strumenti musicali** e dice ovviamente di essere uno **scienziato**.
-In questo contesto sono stati ritrovati appunti di strade su più livelli, come metropolitane, ponti, sottopassaggi. Essi però non erano realizzabili nel contesto storico.
+Essendo gli ideali di Leonardo, diversi e distanti da quelli neoplatonici della corte dei Medici, Leonardo preferì cercare un nuovo posto e si fece invitare da **Ludovico Sforza**.
+Ludovico però non è un grande mecenate e quindi nella lettera di presentazione Leonardo non cita il fatto di essere pittore, ma dice di occuparsi di **urbanistica**, essere un ingegnere e inventore, di **costruire strumenti musicali** e dice di essere uno **scienziato**.
+In questo contesto sono stati ritrovati appunti di strade su più livelli, metropolitane, ponti e sottopassaggi. Essi però erano anacronistici.
 ## Le sue opere
-Leonardo già durante la permanenza alla bottega del Verrocchio aveva già sviluppato il suo stile. Pensava che lo scopo dell'arte fosse **rappresentare la natura**. Prese e accettò i principi della **prospettiva brunelleschiana**, ma ci aggiunge delle sfumature, simulando **l'atmosfera**. Questa tecnica prende il nome di **==Prospettiva Aerea==**.
+Leonardo già durante la permanenza alla bottega del Verrocchio aveva già sviluppato il suo stile. Pensava che lo scopo dell'arte fosse **rappresentare la natura**. Prese e accettò i principi della **prospettiva brunelleschiana**, ma ci aggiunse delle sfumature, simulando **l'atmosfera**. Questa tecnica prende il nome di **==Prospettiva Aerea==**.
 
 Le raccolte di tutti gli appunti sugli studi e sugli sperimenti, presi e accompagnati con moltissimi disegni, sono chiamati **codici**.
 
@@ -97,7 +94,7 @@ Le parti nere sono ==arazzi==, persi nel tempo, a causa di esperimenti di Leonar
 
 Vuole sperimentare una nuova tecnica, colorando a secco e poi fissando il colore con la fiamma.
 
-L'opera non è ben conservata, infatti è stata utilizzata una tecnica nuova, diversa dall'affresco. Questa tecnica già dopo pochi anni, soprattutto grazie all'umidità dell'ambiente, ha iniziato a distruggersi.
+L'opera non è ben conservata, infatti è stata utilizzata una tecnica nuova, diversa dall'affresco. Questa tecnica già dopo pochi anni, soprattutto grazie all'umidità dell'ambiente, ha iniziato a rovinarsi.
 ## La sant'Anna
 ![](Sant'Anna.jpg)
 In questo quadro, viene posizionata Maria che gioca con il bambino, seduta sulle gambe di Sant'Anna (la madre di Maria).
