@@ -22,7 +22,7 @@ Il padre lo manderà da **Andrea del ==Verrocchio==**, dove apprende la tecnica 
 ## A Firenze
 ### Il verrocchio
 Leonardo è stato mandato dal padre alla bottega di **Andrea del Verrocchio** a Firenze, per apprendere la sua tecnica.
-Vedendo la grandissima capacità di Leonardo, il Verrocchio gli chiese di finire alcune sue opere come nel Battesimo di Cristo.
+Vedendo la grandissima capacità di Leonardo, il Verrocchio gli chiese di finire alcune sue opere come il Battesimo di Cristo.
 # A Milano
 Essendo gli ideali di Leonardo, diversi e distanti da quelli neoplatonici della corte dei Medici, Leonardo preferì cercare un nuovo posto e si fece invitare da **Ludovico Sforza**.
 Ludovico però non è un grande mecenate e quindi nella lettera di presentazione Leonardo non cita il fatto di essere pittore, ma dice di occuparsi di **urbanistica**, essere un ingegnere e inventore, di **costruire strumenti musicali** e dice di essere uno **scienziato**.
@@ -52,7 +52,7 @@ Maria sembra spaventata.
 
 Maria è vestita di blu, suo colore tradizionale.
 
-Le ali dell'angelo sono realistiche, come tutti gli alberi. Però c'è il cipresso tra ciò, che è un albero molto comune in Toscana, ed ha un valore simbolico perché solitamente sono messi nei viali cimiteriali, come a ricordare cosa succederà a Gesù.
+Le ali dell'angelo e gli alberi sono realistici. Tra gli alberi compare il cipresso, albero molto comune in Toscana, che ha un valore simbolico perché solitamente è piazzato nei viali cimiteriali. Sembra quasi un richiamo di cosa succederà a Gesù.
 
 Viene usata la prospettiva aerea.
 ## La vergine delle rocce
@@ -62,7 +62,7 @@ Non sono presenti elementi architettonici.
 C'è ovviamente Maria, e un altra figura angelica.
 
 Il bambino abbracciato dalla figura angelica è Gesù, riconosciuto dalla posa delle mani in simbolo della benedizione. L'altro bambino è San Giovanni, che è il cugino, e che battezzerà Gesù.
-Rappresenta anche l'espressività delle persone, chiamati **i moti dell'animo**.
+Ritraendo le persone riesce a rappresenta anche l'espressività. Questa tecnica viene chiamata "**i moti dell'animo**".
 
 Usa lo sfumato pittorico e la prospettiva aerea.
 
@@ -77,12 +77,12 @@ Posizione: La figura è posta a 3/4, ma con la testa gira dall'altra parte come 
 
 L'ermellino è un simbolo di **scaltrezza** e **purezza**.
 
-E' un opera di ritrattistica, i dettagli, lo sfondo scuro e l'olio su tela sono rifermenti all'arte fiamminga.
+E' un opera di ritrattistica, i dettagli, lo sfondo scuro e l'olio su tela sono influenze dell'arte fiamminga.
 
-Questa potrebbe rappresentare Cecilia Gallerani \[...], **una delle amanti di Ludovico Sforza**. Difatti potrebbe essere proprio lui il committente visto che quest'ultimo era diventato cavaliere dell'ordine dell'ermellino.
+Questa potrebbe rappresentare *Cecilia Gallerani \[...]*, **una delle amanti di Ludovico Sforza**. Difatti potrebbe essere proprio lui il committente visto che quest'ultimo era diventato cavaliere dell'ordine dell'ermellino.
 ## Il Cenacolo
 ![](Il%20Cenacolo.jpg)
-Nella chiesa di Santa Maria delle Grazie Ludovico Sforza commissionò un dipinto a parete sul muro di divisione tra il refettorio e la cucina. Questo dipinto doveva rappresentare l'ultima cena.
+Nella chiesa di Santa Maria delle Grazie, Ludovico Sforza commissionò un dipinto a parete sul muro di divisione tra il refettorio e la cucina. Questo dipinto doveva rappresentare l'ultima cena.
 
 Le persone rappresentate sono tutte posizionate attorno a un tavolo, si nota l'inquietudine data dall'annuncio del tradimento.
 

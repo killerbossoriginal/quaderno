@@ -9,11 +9,11 @@ Vennero espulsi in seguito di nuovo ma [Carlo V d'Asburgo](Carlo%20V%20d'Asburgo
 
 Venezia subì un declino a causa della scoperta dell'America. I veneziani allargano i propri interessi sulla terraferma. La cultura veneta non sembrava però subire un grande rallentamento, e continuava ad essere attiva.
 # I Grandi Artisti
-- [Leonardo da Vinci](Leonardo%20da%20Vinci.md)
-- [Michelangelo Buonarroti](Michelangelo%20Buonarroti.md) (definito dal Vasari come "Il Divino")
-- [Raffaello Sanzio](Raffaello%20Sanzio.md)
+- [Leonardo da Vinci](./Leonardo%20da%20Vinci/Leonardo%20da%20Vinci.md)
+- [Michelangelo Buonarroti](./Michelangelo%20Buonarroti/Michelangelo%20Buonarroti.md) (definito dal Vasari come "Il Divino")
+- [Raffaello Sanzio](./Raffaello%20Sanzio/Raffaello%20Sanzio.md)
 - Tiziano
-- [Donato Bramante](Donato%20Bramante.md)
+- [Donato Bramante](./Donato%20Bramante/Donato%20Bramante.md)
 Leonardo voleva andare a Roma, però era uno scienziato, e qualsiasi cosa dipingeva la doveva studiare scientificamente.
 
 La pittura veneta.

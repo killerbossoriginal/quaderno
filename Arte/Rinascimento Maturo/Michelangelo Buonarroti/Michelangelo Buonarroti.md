@@ -11,6 +11,7 @@
 - volta cappella sistina
 - la creazione di adamo
 # Biografia
+- prova a distinguere la fase descrittiva da quella personale
 Nasce nel 1475 nei pressi di Firenze ed entra a bottega da==l ghirlandaio==, quest'ultimo aveva rapporti anche con i medici, che riesce a portarlo alla corte, avendo grandi influenze sul **neoplatonismo** tramite delle visite anche al **convento di San Marco**.
 Dentro il convento oltre ai filosofi neoplatonici sono presenti anche i pezzi della collezione di Lorenzo.
 
@@ -46,14 +47,19 @@ Ci sono molti dettagli, addirittura le vene nelle mani e l'occhio corrucciato, e
 Quest'opera viene posizionata in Piazza della Signoria, dove poi venne spostata nella galleria dell'Accademia di Firenze. Mentre venne rimessa lì una copia.
 ## Il Tondo doni
 ![](Tondo%20doni.jpg)
-Mancano riferimenti religiosi e i colori sono accesi.
+E' stata commissionata da un membro della famiglia doni. si chiama così perché è tonda.
+I corpi sono eccessivi e rompono con le tradizioni. **gli ambienti per michelangelo sono secondari**, metto la natura perchè c'è
+
+Mancano riferimenti religiosi, (stacca con la iconografia) e i colori sono accesi.
 E' una sacra famiglia.
 Sono in un ambiente insolito.
 Inoltre è presente una fisicità eccessiva nei protagonisti. Ciò perchè non vuole rinunciare a riportare la fisicità di quello che scolpisce.
 
 Gli elementi naturali assomigliano a quelli di Botticelli, presa dalla frequentazione degli ambienti neoplatonici. Infatti l'ambiente non è realistico, ma è stilizzato.
 
-Il bambino a mezzo busto è San Giovanni, il cugino che diventa eremita.
+Il bambino a mezzo busto è San Giovanni, il cugino che diventa eremita, si riconosce dalla pelle dell'eremita.
+
+Gli ignudi sul fondo sono un esercizio di stile.
 ## La Tomba di Giulio II
 ![](Tomba%20di%20Giulio%20II.jpg)
 Il papa fa creare la propria tomba appena salito al potere perchè i papi erano a rischio di vita. 

@@ -7,21 +7,21 @@ Ci fu un grande susseguirsi di papi. I più importanti furono:
 	- Ristrutturò la [Cappella Sistina](#Cappella%20Sistina) (fa togliere a Michelangelo la volta stellata)
 	- Intraprese una politica di **consolidamento**
 	- E' considerato un papa **guerriero**
-	- Si fece costruire una [tomba](Michelangelo%20Buonarroti.md#La%20Tomba%20di%20Giulio%20II)
+	- Si fece costruire una [tomba](./Michelangelo%20Buonarroti/Michelangelo%20Buonarroti.md#La%20Tomba%20di%20Giulio%20II)
 - Leone X
 	- Era un membro della famiglia **Medici**
 	- Palazzo Madama (di Roma, attuale sede del Senato)
 	- Continuo ristrutturazione della basilica di San Pietro
 	- Riprende il controllo di Firenze, da cui fa andare e venire artisti
 		- Tombe Medicee (sacrestia nuova di San Lorenzo, Michelangelo)
-	- Per alleviare i costi iniziò a vendere ==**indulgenze** e **cariche ecclesiastiche**==, ciò portò alla [la riforma protestante](La%20riforma%20protestante.md).
+	- Per alleviare i costi iniziò a vendere ==**indulgenze** e **cariche ecclesiastiche**==, ciò portò alla [la riforma protestante](../../Storia/1500/La%20riforma%20protestante.md).
 - Clemente VII
-	- 1527 con lui avvenne il sacco di Roma dei Lanzichenecchi (inviati da [Carlo V d'Asburgo](Carlo%20V%20d'Asburgo.md))
+	- 1527 con lui avvenne il sacco di Roma dei Lanzichenecchi (inviati da [Carlo V d'Asburgo](../../Storia/1500/Carlo%20V%20d'Asburgo.md))
 - Paolo III
 	- Costruzione della cupola della [Basilica di San Pietro](#Basilica%20di%20San%20Pietro) (Michelangelo)
 	- Costruzione Cappella Paolina (Michelangelo)
 	- Dipinto nella [Cappella Sistina](#Cappella%20Sistina) del Giudizio Universale (Michelangelo)
-	- Avviò la Controriforma (contro la [la riforma protestante](La%20riforma%20protestante.md))
+	- Avviò la Controriforma (contro la [la riforma protestante](../../Storia/1500/La%20riforma%20protestante.md))
 
 > I ritratti del papa sono considerati pittura laica, almeno che il papa non diventi un santo
 

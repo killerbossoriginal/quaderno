@@ -1,3 +1,5 @@
+This is a collection of stories that speak about of negative effects tha power could have.
+Shakespeare was afraif od pagiarism, so he didn't published his plays. After his death, his company decided to write them down in the First Folio
 # Shakespeare
 ## Ex 1
 1. From the Baptism

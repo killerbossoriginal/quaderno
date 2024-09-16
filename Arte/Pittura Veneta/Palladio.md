@@ -21,6 +21,9 @@ Lo stile è un misto classico greco-romano.
 Ci sono archi a tutto sesto, con delle coppie di colonne con un architrave in mezzo, e con degli oculi.
 (...arco a tutto sesto + doppia colonna + architrave + doppia colonna + arco a tutto sesto... = ==**serliana**==, presente e decodificata nel trattato di Sebastiano Serlio, presa dalle terme romane).
 Questo edificio venne danneggiato da bombardamenti nella IIWW, e quindi rimangono pezzi mancanti nelle colonne.
+
+Non butta via il vecchio ma lo modifica, creando una struttura "sopra"
+# Il teatro olimpico
 ![Teatro](Teatro.md)
 ## La Rotonda
 La scalinata solo davanti è ripresa da un tempio etrusco/romano, ma prende la facciata che assomiglia a un tempio greco. La pianta è a croce greca, e sopra è chiusa da una cupola ribassata.

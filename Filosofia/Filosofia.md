@@ -1,5 +1,6 @@
 - [Platone](./Platone/Platone.md)
 - [Aristotele](./Aristotele/Aristotele.md)
+- [Il Contrattualismo](./Contrattualismo/Il%20Contrattualismo.md)
 
 # Termini
 
