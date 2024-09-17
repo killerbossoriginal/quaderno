@@ -6,14 +6,5 @@ Ariosto arrivò anche ad essere nominato Governatore della Garfagnana.
 
 Si sposò di nascosto, negli ultimi anni della sua vita, con una ferrarese, **Alessandra Benucci**, per lasciarle l'eredità.
 # Le Opere
-## L'Orlando furioso
-Rilasciato nella prima edizione nel 1516, l'Orlando furioso è un poema cavalleresco dedicato al cardinale Ippolito.
-Viene pubblicata una seconda edizione una decina di anni dopo, rivisitata dal punto di vista linguistico (la prima era molto influenzata dall'Emiliano).
-## Le satire
-Sono 7 satire scritte in *terzine dantesche*.
-Esse sono tutte indirizzate ad amici e parenti, con il pretesto di parlare di cose personali.
-
-Il nome con cui chiama queste opere, ovvero "satira", deriva da Orazio (letteratura latina). La satira è un genere medio, non ha uno stile elevato ne basso. Come argomenti parla di questioni personali.
-
-Ariosto, anche parlando di questioni personali, fa ricavare al lettore dei valori.
-Ad esempio porta il lettore a ragionare sulla perdita della libertà.
+- ![Le Satire](./Satire/Le%20Satire.md)
+- ![L'Orlando Furioso](./L'Orlando%20Furioso/L'Orlando%20Furioso.md)

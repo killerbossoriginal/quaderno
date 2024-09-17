@@ -1,0 +1,2 @@
+Rilasciato nella prima edizione nel 1516, l'Orlando furioso è un poema cavalleresco dedicato al cardinale Ippolito.
+Viene pubblicata una seconda edizione una decina di anni dopo, rivisitata dal punto di vista linguistico (la prima era molto influenzata dall'Emiliano).
