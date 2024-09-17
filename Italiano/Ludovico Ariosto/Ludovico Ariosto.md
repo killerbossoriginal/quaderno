@@ -6,5 +6,5 @@ Ariosto arrivò anche ad essere nominato Governatore della Garfagnana.
 
 Si sposò di nascosto, negli ultimi anni della sua vita, con una ferrarese, **Alessandra Benucci**, per lasciarle l'eredità.
 # Le Opere
-- ![Le Satire](./Satire/Le%20Satire.md)
-- ![L'Orlando Furioso](./L'Orlando%20Furioso/L'Orlando%20Furioso.md)
+- [Le Satire](./Satire/Le%20Satire.md)
+- [L'Orlando Furioso](./L'Orlando%20Furioso/L'Orlando%20Furioso.md)

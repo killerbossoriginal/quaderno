@@ -5,3 +5,8 @@ Il nome con cui chiama queste opere, ovvero "satira", deriva da Orazio (letterat
 
 Ariosto, anche parlando di questioni personali, fa ricavare al lettore dei valori.
 Ad esempio porta il lettore a ragionare sulla perdita della libertà.
+
+Le satire:
+1. -
+2. -
+3. [III - L'autonomia](III.md)
