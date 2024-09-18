@@ -1,5 +1,7 @@
 This is a collection of stories that speak about of negative effects tha power could have.
 Shakespeare was afraif od pagiarism, so he didn't published his plays. After his death, his company decided to write them down in the First Folio
+- [Richard III](Richard%20III.md)
+- [Henry V](Henry%20V.md)
 # Shakespeare
 ## Ex 1
 1. From the Baptism
@@ -549,9 +551,9 @@ wild, ~~brave~~, ~~viruous~~, ~~strong~~, ~~afraid~~, coward, talkative, worried
 8. agreement
 9. marriage
 #### Ex 3
-*Deary Harry.
+*Dear Harry.
 Something terrible has happened...*, my uncle just killed my father, I don't know what to do... I'm sad, I'd a very good relation with my father. I want to avenge his death but I want to make it very painful. I can make him drown with his car or i can torture him until he can explain and justify what have he done. He need to have a good reason, that an external pearson could say he had just done a good thing.
-I don't know if  Ophelia coul ever do a thing like this, i don't know if i can support that. It could become too much...
+I don't know if Ophelia coul ever do a thing like this, i don't know if i can sopport that. It could become too much...
 #### Ex 4
 1. A
 2. D

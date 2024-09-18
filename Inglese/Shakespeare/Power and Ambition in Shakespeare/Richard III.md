@@ -32,3 +32,6 @@ Themes:
 - manipulation
 
 The play start with a Soliloquy (one pearson explaining his thoughts) from Richard III.
+
+
+

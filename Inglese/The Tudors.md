@@ -78,3 +78,13 @@ It moved from **geocentric** system to **heliocentric** system.
 
 They thought that there was the chain of being.
 ![The Chain of Being](The%20Chain%20of%20Being.canvas)
+
+# The thoughts
+## Macro-micro cosm analogy
+
+| Universe | People      | Description       | Character                               |
+| -------- | ----------- | ----------------- | --------------------------------------- |
+| air      | blood       | That one in veins | Sangine, very excited, plenty of energy |
+| fire     | yellow bile | *stomach acid*    | Choleric, angry                         |
+| water    | phlegm      | "catarro"         | Apatic, not very energetic              |
+| earth    | black bile  | *wtf*             | Melancholy, sadness                     |
