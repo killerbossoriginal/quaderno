@@ -1,3 +1,5 @@
+![Date](Date.md)
+
 Aristotele nasce a Stagìra nel 384 a.C. da una famiglia benestante.
 Egli arriva ad Atene, e non essendo Ateniese viene classificato come immigrato.
 

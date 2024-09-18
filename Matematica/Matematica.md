@@ -4,3 +4,5 @@
 - [Statistica](Statistica.md)
 - [Geometria](./Geometria/Geometria.md)
 - [Geometria Analitica](./Geometria%20Analitica/Geometria%20Analitica.md)
+
+[Esercizi](Esercizi.md)

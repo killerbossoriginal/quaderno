@@ -12,7 +12,7 @@ Opere
 - La dama con l'ermellino
 - Il cenacolo
 - La gioconda
-
+[Domande](Domande.md)
 # Biografia
 ## Nascita e Adolescenza
 Leonardo da Vinci è uno scienziato nato a Vinci come figlio illegittimo di un ricco notaio che lo accudì e lo crebbe a Vinci.
