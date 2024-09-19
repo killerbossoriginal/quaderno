@@ -2,6 +2,16 @@
 - [Aristotele](./Aristotele/Aristotele.md)
 - [Il Contrattualismo](./Contrattualismo/Il%20Contrattualismo.md)
 
+Temi fondamentali:
+- Natura
+- Artificio
+	- scienza/conoscenza
+	- arte
+	- tecnologia
+	- politica
+	- educazione
+- Ragione
+- Uomo
 # Termini
 
 | Termine     | Significato                                                                                      |
