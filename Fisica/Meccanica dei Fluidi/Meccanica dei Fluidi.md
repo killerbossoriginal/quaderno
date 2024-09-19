@@ -84,9 +84,9 @@ Un recipiente aperto ha un foro a profondità $h$ l'acqua esce alla velocità sp
 | $v=\sqrt{2gh}$                                | velocità di caduta in da un buco di un contenitore aperto                                      |
 
 1. Cos'è una corrente?
-> la corrente è un movimento ordinato di un fluido
+> la corrente è un movimento ordinato di un fluido e passa dentro un condotto. 
 2. Cos'è la portata? Fornisci la sua formula generale e spiegane il significato.
-> la portata misura la quantità di fluido (in $\frac{m^3}{s}$) che passa per una determinata sezione trasversale
+> $q=\frac{\Delta V}{\Delta t}$ la portata misura la quantità di fluido (in $\frac{m^3}{s}$) che passa per una determinata sezione trasversale
 3. Quali sono le ipotesi per cui vale la formula $q=Sv$?
 > la velocità è la stessa in tutti i punti della sezione trasversale da cui è stata presa l'area è $S$
 4. Quando si può dire che una corrente è stazionaria?
