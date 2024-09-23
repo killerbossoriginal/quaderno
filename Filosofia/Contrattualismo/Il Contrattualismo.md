@@ -4,3 +4,4 @@ Alla base del contrattualismo c'è la teoria dei diritti naturali ([Giusnaturali
 
 I più famosi contrattualisti sono:
 - [Thomas Hobbes](Thomas%20Hobbes.md)
+- [John Locke](John%20Locke.md)

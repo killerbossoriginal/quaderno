@@ -1,6 +1,8 @@
 - [Platone](./Platone/Platone.md)
 - [Aristotele](./Aristotele/Aristotele.md)
+- [Il Neoplatonismo](./Platone/Neoplatonismo.md)
 - [Il Contrattualismo](./Contrattualismo/Il%20Contrattualismo.md)
+- [Il Liberalismo](Liberalismo.md)
 
 Temi fondamentali:
 - Natura

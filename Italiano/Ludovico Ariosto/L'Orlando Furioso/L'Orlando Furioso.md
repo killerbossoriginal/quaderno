@@ -39,6 +39,4 @@ Angelica fuggirà dentro luoghi impervi, soprattutto in delle foresta (luogo sim
 
 ----
 
-1. I Canto - Proemio
-2. II Canto - Proemio
-3. III Canto - Dedica
+1. I Canto - Proemio: protasi (sintesi dell'argomento) + invocazione+ dedica + dedica

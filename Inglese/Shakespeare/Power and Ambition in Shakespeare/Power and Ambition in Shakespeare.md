@@ -2,6 +2,7 @@ This is a collection of stories that speak about of negative effects tha power c
 Shakespeare was afraif od pagiarism, so he didn't published his plays. After his death, his company decided to write them down in the First Folio
 - [Richard III](Richard%20III.md)
 - [Henry V](Henry%20V.md)
+- [Julius Caesar](Julius%20Caesar.md)
 # Shakespeare
 ## Ex 1
 1. From the Baptism

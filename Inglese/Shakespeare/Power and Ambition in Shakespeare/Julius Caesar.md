@@ -10,4 +10,3 @@ Characters:
 	- Is the most loyal to JC
 	- It's a great public speaker (it's a great rethoric)
 - Brutus
-	- 
