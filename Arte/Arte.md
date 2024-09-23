@@ -6,7 +6,7 @@
 - [Leonardo da Vinci](Leonardo%20da%20Vinci.md)
 - [Raffaello Sanzio](Raffaello%20Sanzio.md)
 - [Michelangelo Buonarroti](Michelangelo%20Buonarroti.md)
-- [Giorgione](Arte/Giorgione.md)
+- [Giorgione](Giorgione.md)
 - [Palladio](Palladio.md)
 - [Il Manierismo](Il%20Manierismo.md)
 

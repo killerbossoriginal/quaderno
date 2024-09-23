@@ -39,7 +39,7 @@ Shakespeare was afraif od pagiarism, so he didn't published his plays. After his
 1. A ring was slipped by Richard on Lady Anne's finger.
 2. Clarence was drown in a barrel of wine by two men.
 3. A letter was sent to the Tower of London by King Edward for forgiving his brother.
-4. The princes has were taken to the Tower of London by Richard
+4. The princes were taken to the Tower of London by Richard
 5. The friend Buckingham was sent by Richard to speak to the cardinal.
 6. A cunning plan to accuse Hasting of treason was used by Richard.
 ### Ex 3
@@ -53,12 +53,12 @@ Shakespeare was afraif od pagiarism, so he didn't published his plays. After his
 ### Ex 4
 0. its
 1. in
-2. with
+2. with -> to
 3. known
 4. was
 5. by
 6. never
-7. 
+7. -> though "anche se"
 8. in
 9. were
 10. of
@@ -189,15 +189,15 @@ The castle was enclosed by big dark ramparts, the outside looked dark, but only 
 #### Ex 2
 ##### A
 
-| Verb      | Noun         | Adjective   |
-| --------- | ------------ | ----------- |
-| explain   | explaination | explainable |
-| advidse   | advice       | advisable   |
-| prepare   | preparation  | preparatory |
-| agree     | agreement    | agreeable   |
-| apologise | apology      | apologetic  |
-| remind    | reminder     | reminescent |
-| inspire   | inspiration  | inspired    |
+| Verb      | Noun                        | Adjective   |
+| --------- | --------------------------- | ----------- |
+| explain   | explaination -> explanation | explainable |
+| advidse   | advice                      | advisable   |
+| prepare   | preparation                 | preparatory |
+| agree     | agreement                   | agreeable   |
+| apologise | apology                     | apologetic  |
+| remind    | reminder                    | reminescent |
+| inspire   | inspiration                 | inspired    |
 ##### B
 0. explaination (explain)
 1. advice (advise)

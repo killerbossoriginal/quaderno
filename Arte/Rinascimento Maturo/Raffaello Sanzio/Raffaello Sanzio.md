@@ -13,7 +13,7 @@ Opere:
 - le stanze vaticane
 # Biografia
 Raffaello è originario di Urbino (città governata da Federico da Montefeltro).
-Il padre era un pittore, ma fa istruire il figlio da qualcun altro, verosimilmente dal ==Perugino==.
+Il padre era un pittore, ma fa istruire il figlio da qualcun altro, verosimilmente dal **Perugino**.
 
 Raffaello andrà a Roma, e avrà molte committenze, soprattutto dal papa. Lui avrà anche comiti architettonici.
 

@@ -1,4 +1,4 @@
-Pagine:
+ Pagine:
 - 142-146 (non versione 2 vergine rocce)
 - 147-150 (primo paragrafo)
 - 151-152
