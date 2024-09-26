@@ -1,6 +1,7 @@
 - [Platone](./Platone/Platone.md)
 - [Aristotele](./Aristotele/Aristotele.md)
-- [Il Neoplatonismo](./Platone/Neoplatonismo.md)
+- [L'Umanesimo](./Umanesimo/Umanesimo.md)
+- [Il Neoplatonismo](./Platone/Neoplatonismo/Neoplatonismo.md)
 - [Il Contrattualismo](./Contrattualismo/Il%20Contrattualismo.md)
 - [Il Liberalismo](Liberalismo.md)
 
