@@ -19,7 +19,7 @@ Iniziò ad assumere intendenti (ricchi borghesi stipendiati) che raccoglievano l
 Questi soldi venivano usati per i lussi e per l'esercito
 # Le guerre
 Fino alla sua morte iniziò una serie di guerre, finanziate dalle tasse. Queste guerre non avranno risultati. Però con questi investimenti si creò un esercito permanente.
-# Il mercantilismo
+# Il #mercantilismo
 Colbert (il ministro delle finanze) adottò una politica di "**mercantilismo**" (aka protezionismo, colbertismo). Cerca di aumentare le esportazioni e di diminuire le importazioni.
 Questa tecnica si fondava sull'idea che la ricchezza delle nazioni fosse un valore stabile.
 Per ottenere ciò inserì delle tariffe doganali, rendendo più costose le importazioni di quelle locali.

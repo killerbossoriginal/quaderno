@@ -3,6 +3,7 @@ Shakespeare was afraif od pagiarism, so he didn't published his plays. After his
 - [Richard III](Richard%20III.md)
 - [Henry V](Henry%20V.md)
 - [Julius Caesar](Julius%20Caesar.md)
+- [Hamlet](Hamlet.md)
 # Shakespeare
 ## Ex 1
 1. From the Baptism

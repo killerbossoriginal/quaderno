@@ -1,0 +1,3 @@
+- Se è utile mentire allora si può mentire
+- Il bene è una cosa che non cambia mai
+- L'utile è qualcosa di concreto che si può modulare
