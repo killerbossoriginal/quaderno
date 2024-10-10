@@ -6,4 +6,5 @@
 - [Storia](./Storia/Storia.md)
 - [Arte](./Arte/Arte.md)
 - [Inglese](./Inglese/English.md)
+- [Scienze](./Scienze/Scienze.md)
 - [videogames](./videogames/videogames.md)
