@@ -1,6 +1,0 @@
-- 189-191 (1^ colonna)
-- 192 (i caratteri della cultura giorgionesca)
-- 193-196 (primo paragrafo)
-- 197-202
-- 204-206 lettura
-- 207-208

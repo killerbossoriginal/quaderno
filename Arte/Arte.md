@@ -10,7 +10,7 @@
 - [Tiziano](./Pittura%20Veneta/Tiziano/Tiziano.md)
 - [Palladio](Palladio.md)
 - [Il Manierismo](Il%20Manierismo.md)
-- [Il primo '600](./1600/Il%20primo%20'600.md)
+- [Il 1600 e il barocco](./Il%20Barocco/Contesto%20Storico.md)
 
 # Aiutino
 Per fare l'analisi delle opere segui il contenuto [di questa nota](Analisi%20delle%20opere.md)
