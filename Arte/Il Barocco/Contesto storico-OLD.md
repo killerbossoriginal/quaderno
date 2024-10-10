@@ -7,6 +7,3 @@ Un riassunto dello stato delle nazioni europee:
 - Francia, Luigi XIII, si indebolì l'autorità e il potere reale.
 # La chiesa
 La chiesa cercò di eccellere in tutti gli ambiti, tra cui quello artistico.
-# L'italia
-ll quadro politico italiano stava decadendo, ad esempio Milano era controllata dalla Spagna.
-L'unica che apriva uno spiraglio era Genova, che stava diventando ricca
