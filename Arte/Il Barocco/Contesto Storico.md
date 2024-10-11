@@ -25,6 +25,7 @@ Il nuovo stile era più puro e diretto a dio, e visto che i fedeli dovevano esse
 
 Venne chiamato l'architetto **Maderno** per riformare la facciata di San Pietro secondo gli standard.
 
+Al **concilio di Trento** le istituzioni si riuniscono, inaspriscono il tribunale dell'inquisizione e investiranno nella comunicazione (architettura, pittura e scultura).
 # Curiosità
 Perché c'è la scritta "Torino città Barocca" sulla strada in arrivo da Milano?
 I Savoia nel **1563** (stesso anno della fine del concilio di Trento) trasferirono a loro capitale da Chamberie a Torino. Emanuele Filiberto voleva competere con gli atri sovrani e rendere il suo stato più "moderno", quindi adottò come stile il Barocco.
