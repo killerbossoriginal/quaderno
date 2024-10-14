@@ -1,1 +1,2 @@
-[Nomenclatura](./Nomenclatura/Nomenclatura.md)
+- [Nomenclatura](./Nomenclatura/Nomenclatura.md)
+- [Mineralogia](./Mineralogia/Mineralogia.md)
