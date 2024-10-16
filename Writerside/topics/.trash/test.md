@@ -1,1 +1,0 @@
-Ti [[Equazioni di secondo grado]]

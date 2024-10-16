@@ -1,1 +1,0 @@
-La realtà non è limitata alle cose *sensibili*, concrete, ma invece si può riportare a **entità immutabili** ed eterne, chiamate [idee](Idee.md).

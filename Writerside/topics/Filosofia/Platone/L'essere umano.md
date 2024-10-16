@@ -1,1 +1,0 @@
-Per Platone il tratto distintivo dell'essere umano è il **possesso di un [anima](Anima.md)**.
