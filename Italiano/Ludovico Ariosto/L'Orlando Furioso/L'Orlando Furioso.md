@@ -40,3 +40,4 @@ Angelica fuggirà dentro luoghi impervi, soprattutto in delle foresta (luogo sim
 ----
 
 1. I Canto - Proemio: protasi (sintesi dell'argomento) + invocazione+ dedica + dedica
+	1. Ferraù, doveva seppellire Argalia ma gli prese l'elmo e non lo seppellì, si è dimenticato di togliersi l'elmo mentre beveva dal fiume. Il fantasma di Argalia uscì dal fiume, prese l'elmo perché era suo e perché non era stato seppellito. *Forse i morti possono ottenere i loro desideri, ma non certo gli esseri umani*.
