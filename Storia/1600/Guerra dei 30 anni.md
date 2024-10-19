@@ -13,4 +13,4 @@ Nel 1635 entra in guerra la Francia, guidata dal ministro Richelieu, entra in gu
 La guerra finì nel 1648, con i protestanti e francesi vincono contro l'impero, con la **pace di Westfalia**.
 Conseguenze: 
 - Francia come "centro dell'Europa", raggruppa il maggior prestigio, la maggior ricchezza, anche se mantiene l'impero.
-- I principi hanno più autonomie, tra cui il fatto che il principe può decidere la religione del loro territorio (Cuius regio eius religio ogni principe ha la sua religione).
+- I principi hanno più autonomie, tra cui il fatto che il principe può decidere la religione del loro territorio (**Cuius regio eius religio** ogni principe ha la sua religione).

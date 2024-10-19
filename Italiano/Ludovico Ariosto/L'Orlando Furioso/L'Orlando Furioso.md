@@ -41,3 +41,6 @@ Angelica fuggirà dentro luoghi impervi, soprattutto in delle foresta (luogo sim
 
 1. I Canto - Proemio: protasi (sintesi dell'argomento) + invocazione+ dedica + dedica
 	1. Ferraù, doveva seppellire Argalia ma gli prese l'elmo e non lo seppellì, si è dimenticato di togliersi l'elmo mentre beveva dal fiume. Il fantasma di Argalia uscì dal fiume, prese l'elmo perché era suo e perché non era stato seppellito. *Forse i morti possono ottenere i loro desideri, ma non certo gli esseri umani*.
+
+---
+Lo **straniamento** è l'effetto di sconvolgimento, spiazzamento, della concezione abituale della realtà (dal lettore) di quella che il lettore si aspetta dal testo. Il lettore si aspetta che agisca in un certo modo, e l'autore sconvolge le aspettative del lettore, per metterlo a riflettere ed immaginare, ad esempio l'intervento del narratore al tempo, come con frasi: "non so sè", "questo è il mio parere"; oppure utilizzando un linguaggio diverso dalla norma, come nel caso di un personaggio nobile che usa un linguaggio basso.

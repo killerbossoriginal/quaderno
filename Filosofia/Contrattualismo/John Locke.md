@@ -7,7 +7,7 @@ Secondo Locke l'uomo allo stato della natura si riorganizzerebbe, collaborando c
 
 Il gruppo che si da le regole deve essere d'accordo con esse.
 
-Alcuni possono non rispettare le regole, ma mettendo che tutti le accettano, non per forza andrà comunque tutto bene, anche involontariamente l'umano potrà fare un errore. Nelle regole del gioco devono allora anche esserci le regole per le eccezioni.
+Alcuni possono non rispettare le regole, ma mettendo che tutti le accettano, non per forza andrà comunque tutto bene, anche involontariamente l'umano potrà fare un errore. Nelle regole del gioco devono allora anche esserci le regole per le **eccezioni**.
 
 Ci saranno quindi diritti fondamentali che sono **completamente inalienabili**. Per lui la formula di governo perfetta è a monarchia costituzionale, dove governala costituzione.
 
