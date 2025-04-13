@@ -1,0 +1,1 @@
+Un impero è una entità politica e territoriale che contiene più culture ed è governata da un **imperatore**. Un imperatore ha tutto il potere nelle sue mani e lo giustifica in modo "trascendente"

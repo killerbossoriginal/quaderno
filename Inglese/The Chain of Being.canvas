@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"74102b827646f679","x":-159,"y":-25,"width":250,"height":60,"type":"text","text":"Inanimate Class"},
+		{"id":"9149ab3fab219115","x":237,"y":60,"width":250,"height":60,"type":"text","text":"Metals"},
+		{"id":"dca1127d4e499c5d","x":237,"y":-25,"width":250,"height":60,"type":"text","text":"Liquids"},
+		{"id":"bc964dadb3f3d0d3","x":237,"y":-120,"width":250,"height":60,"type":"text","text":"Elements"},
+		{"id":"c4c3436a28d3e6e7","x":-660,"y":-240,"width":350,"height":60,"type":"text","text":"# The Chain of Being"},
+		{"id":"bd692653284fa6c0","x":-159,"y":-120,"width":250,"height":60,"type":"text","text":"Animals"},
+		{"id":"3ef5460a0ac29c5e","x":-600,"y":-25,"width":250,"height":60,"type":"text","text":"Vegetative"},
+		{"id":"aefcb76a7ec0a43e","x":-159,"y":-210,"width":250,"height":60,"type":"text","text":"Humans"},
+		{"id":"a02fd119aed0d9cb","x":-159,"y":-300,"width":250,"height":60,"type":"text","text":"Angels"},
+		{"id":"e256e4e6ed7db0df","x":-159,"y":-400,"width":250,"height":60,"type":"text","text":"God"}
+	],
+	"edges":[
+		{"id":"5babb6017f1586cc","fromNode":"74102b827646f679","fromSide":"right","toNode":"bc964dadb3f3d0d3","toSide":"left"},
+		{"id":"37069f97df833308","fromNode":"74102b827646f679","fromSide":"right","toNode":"dca1127d4e499c5d","toSide":"left"},
+		{"id":"83893a6512e9c07c","fromNode":"74102b827646f679","fromSide":"right","toNode":"9149ab3fab219115","toSide":"left"},
+		{"id":"bc5035b0f75fbd83","fromNode":"c4c3436a28d3e6e7","fromSide":"right","toNode":"74102b827646f679","toSide":"left"},
+		{"id":"c6b0faad75bfd803","fromNode":"c4c3436a28d3e6e7","fromSide":"right","toNode":"bd692653284fa6c0","toSide":"left"},
+		{"id":"6e1b03e40c484ce7","fromNode":"c4c3436a28d3e6e7","fromSide":"right","toNode":"3ef5460a0ac29c5e","toSide":"right"},
+		{"id":"d01f1f631c869a10","fromNode":"c4c3436a28d3e6e7","fromSide":"right","toNode":"aefcb76a7ec0a43e","toSide":"left"},
+		{"id":"a829b2c006fe14c7","fromNode":"c4c3436a28d3e6e7","fromSide":"right","toNode":"e256e4e6ed7db0df","toSide":"left"},
+		{"id":"46ea0c69aacb0dc9","fromNode":"c4c3436a28d3e6e7","fromSide":"right","toNode":"a02fd119aed0d9cb","toSide":"left"}
+	]
+}

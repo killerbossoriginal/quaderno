@@ -1,0 +1,12 @@
+- Hobbes
+- Locke
+- Machiavelli
+- Tommaso Moro
+- Campanella
+- pp 8-14
+- Giordano Bruno
+- Telesio
+- pp 69-77
+- il neoplatonismo
+	- la magia 
+	- i pensatori ermetici

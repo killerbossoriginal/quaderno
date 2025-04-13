@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"c5a4551e7cdde203","x":220,"y":-340,"width":420,"height":220,"type":"group","label":"Numero di posti = numero di elementi"},
+		{"id":"bc9958d80c10bf41","x":-215,"y":-179,"width":290,"height":220,"type":"group","label":"Importa l'ordine?"},
+		{"id":"4e67b4d457dbc2b9","x":220,"y":-9,"width":290,"height":189,"type":"group","label":"Si ripetono?"},
+		{"id":"cb6a5e89abe2a678","x":820,"y":-208,"width":290,"height":176,"type":"group","label":"Si ripetono?"},
+		{"id":"ae78c235032801ae","x":820,"y":-428,"width":290,"height":176,"type":"group","label":"Si ripetono?"},
+		{"id":"68e2302aa3d67027","x":-573,"y":-99,"width":250,"height":60,"type":"text","text":"Inizio"},
+		{"id":"e4958d29032da1d7","x":-195,"y":-39,"width":250,"height":60,"type":"text","text":"No"},
+		{"id":"3ee69e815dd1d27a","x":-195,"y":-159,"width":250,"height":60,"type":"text","text":"Si"},
+		{"id":"52a94f80c9b2286b","x":240,"y":-200,"width":250,"height":60,"type":"text","text":"No"},
+		{"id":"29deaf4bc1645cfe","x":240,"y":-320,"width":250,"height":60,"type":"text","text":"Si"},
+		{"id":"5cf16cae948c646b","x":840,"y":-332,"width":250,"height":60,"type":"text","text":"No"},
+		{"id":"ec2669072e67ff1a","x":840,"y":-408,"width":250,"height":60,"type":"text","text":"Si"},
+		{"id":"2ea686cc782672fe","x":840,"y":-188,"width":250,"height":60,"type":"text","text":"Si"},
+		{"id":"8d8341c292342c4f","x":840,"y":-112,"width":250,"height":60,"type":"text","text":"No"},
+		{"id":"d1d44639c7331bdb","type":"text","text":"Si","x":240,"y":21,"width":250,"height":60},
+		{"id":"56240992f5ecf485","type":"text","text":"No","x":240,"y":100,"width":250,"height":60},
+		{"id":"5d958f14483514a5","type":"text","text":"Disposizioni \n$$D_{n,k}=\\frac{n!}{(n-k)!}$$","x":1186,"y":-112,"width":250,"height":103},
+		{"id":"79279c3310b7f600","type":"text","text":"Disposizioni con ripetizioni\n$$D^*_{n,k}=n^k$$","x":1186,"y":-230,"width":250,"height":102},
+		{"id":"7a2aa8a332a6a06e","x":1186,"y":-332,"width":250,"height":80,"type":"text","text":"Permutazioni Semplici\n$$P_n=n!$$"},
+		{"id":"e0bf29817d6dd0c2","x":1186,"y":-520,"width":250,"height":172,"type":"text","text":"Permutazioni con ($a_k$) ripetizioni dello stesso numero\n$$\nP^*_{n}=\\frac{n!}{a_1!*...*a_n!}\n$$"},
+		{"id":"08554fc0fee06e94","x":-218,"y":220,"width":297,"height":138,"color":"1","type":"text","text":"Ricorda che\n$$C_{a,b}=\\binom{a}{b}=\\frac{a!}{b!(a-b)!}$$"},
+		{"id":"560ee1a4dfc2458a","x":590,"y":160,"width":250,"height":110,"type":"text","text":"Combinazioni semplici\n$$c_{n,k}=\\binom{n}{k}$$"},
+		{"id":"11e7d69a2b35e31b","x":590,"y":-9,"width":250,"height":139,"type":"text","text":"Combinazioni con ripetizioni\n$$c_{n,k}^*=\\binom{n+k-1}{k}$$"},
+		{"id":"3f30ba23e18a1f7f","x":-195,"y":130,"width":250,"height":60,"type":"text","text":"K = numero di cassetti\nN = oggetto"}
+	],
+	"edges":[
+		{"id":"6f3e1d7ffbbb29a2","fromNode":"68e2302aa3d67027","fromSide":"right","toNode":"bc9958d80c10bf41","toSide":"left"},
+		{"id":"c4611125394ae176","fromNode":"3ee69e815dd1d27a","fromSide":"right","toNode":"c5a4551e7cdde203","toSide":"left"},
+		{"id":"43ef1eb2668c4d65","fromNode":"52a94f80c9b2286b","fromSide":"right","toNode":"cb6a5e89abe2a678","toSide":"left"},
+		{"id":"dea9677a1775c82f","fromNode":"29deaf4bc1645cfe","fromSide":"right","toNode":"ae78c235032801ae","toSide":"left"},
+		{"id":"d2194997d42f6ada","fromNode":"e4958d29032da1d7","fromSide":"right","toNode":"4e67b4d457dbc2b9","toSide":"left"},
+		{"id":"bef689c924a1caff","fromNode":"d1d44639c7331bdb","fromSide":"right","toNode":"11e7d69a2b35e31b","toSide":"left"},
+		{"id":"d6edb924a8a2a1fe","fromNode":"56240992f5ecf485","fromSide":"right","toNode":"560ee1a4dfc2458a","toSide":"left"},
+		{"id":"06bda2d1f27eca23","fromNode":"2ea686cc782672fe","fromSide":"right","toNode":"79279c3310b7f600","toSide":"left"},
+		{"id":"bceed6920b530403","fromNode":"8d8341c292342c4f","fromSide":"right","toNode":"5d958f14483514a5","toSide":"left"},
+		{"id":"d0d5262587a6a1b9","fromNode":"5cf16cae948c646b","fromSide":"right","toNode":"7a2aa8a332a6a06e","toSide":"left"},
+		{"id":"f4374d00ce31703f","fromNode":"ec2669072e67ff1a","fromSide":"right","toNode":"e0bf29817d6dd0c2","toSide":"left"}
+	]
+}

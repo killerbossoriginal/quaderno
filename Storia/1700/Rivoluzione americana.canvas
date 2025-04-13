@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"caeb0e258fc9d743","type":"group","x":215,"y":-73,"width":290,"height":277,"label":"Le caratteristiche"},
+		{"id":"676dcb0575212677","type":"text","text":"Potere esecutivo nelle mani di governatori inviati da Londra","x":391,"y":-567,"width":250,"height":87},
+		{"id":"58b091fc874b6b6a","type":"text","text":"Potere giudiziario nelle mani di un consiglio locale","x":344,"y":-700,"width":250,"height":91},
+		{"id":"abd99c68f46e15bc","type":"text","text":"# Colonizzazione Inglese","x":-168,"y":-130,"width":250,"height":107},
+		{"id":"5a9102fadc53c1aa","type":"text","text":"Organizzata privatamente, ma assecondata dalla corona per concorrere alle altre potenze coloniali","x":-168,"y":7,"width":250,"height":117},
+		{"id":"a65dcfa05842b110","type":"file","file":"Storia/1700/Le differenze tra le tredici colonie.png","x":-443,"y":-501,"width":400,"height":274},
+		{"id":"43eacf0555645b92","type":"text","text":"Autonomie politiche","x":-20,"y":-551,"width":250,"height":60},
+		{"id":"c50f36374b49297d","type":"text","text":"La guerra dei 7 anni","x":-732,"y":52,"width":250,"height":60},
+		{"id":"97c65acdf507143f","type":"text","text":"Vittoria Inglese a grandi costi","x":-733,"y":233,"width":250,"height":60},
+		{"id":"87704743aeab2efa","type":"text","text":"L'Inghilterra bloccò l'espansione dei coloni in quanto troppo costosa.","x":-880,"y":399,"width":250,"height":101},
+		{"id":"1bd2a2e63ab31f6d","type":"text","text":"L'Inghilterra alzò le tasse sulle colonie","x":-540,"y":399,"width":250,"height":60},
+		{"id":"3ac2dca8856713bf","type":"text","text":"Attività commerciali","x":235,"y":41,"width":250,"height":60},
+		{"id":"b1b4aa9ddcab9614","type":"text","text":"Proprietà agricole","x":235,"y":124,"width":250,"height":60},
+		{"id":"f52731078ca2d503","type":"text","text":"incremento demografico (immigrati e benessere)","x":562,"y":12,"width":250,"height":60},
+		{"id":"d52f48baf8fc354e","type":"text","text":"Blocchi commerciali: Londra doveva avere il monopolio sulle esportazioni e sulle importazioni delle colonie.","x":140,"y":-420,"width":250,"height":193},
+		{"id":"bc30bfdfd795741c","type":"text","text":"Contrabbando con spagnoli e francesi","x":520,"y":-353,"width":250,"height":60},
+		{"id":"4c78cdfee40c38c6","type":"text","text":"Molto urbanizzate","x":235,"y":-53,"width":250,"height":60},
+		{"id":"c082763f7dae4666","type":"text","text":"La prima colonia era la Virginia.","x":235,"y":-159,"width":250,"height":58}
+	],
+	"edges":[
+		{"id":"4a196157b9029b02","fromNode":"abd99c68f46e15bc","fromSide":"right","toNode":"c082763f7dae4666","toSide":"left"},
+		{"id":"3ca76737c54ddcc1","fromNode":"abd99c68f46e15bc","fromSide":"bottom","toNode":"5a9102fadc53c1aa","toSide":"top"},
+		{"id":"4de3174f1489c18f","fromNode":"abd99c68f46e15bc","fromSide":"right","toNode":"4c78cdfee40c38c6","toSide":"left"},
+		{"id":"392ff2b88bc9f4c8","fromNode":"abd99c68f46e15bc","fromSide":"right","toNode":"3ac2dca8856713bf","toSide":"left"},
+		{"id":"f4e7c5bb104700f4","fromNode":"abd99c68f46e15bc","fromSide":"right","toNode":"b1b4aa9ddcab9614","toSide":"left"},
+		{"id":"668125bb026304aa","fromNode":"caeb0e258fc9d743","fromSide":"right","toNode":"f52731078ca2d503","toSide":"left"},
+		{"id":"7febb804bdd2e041","fromNode":"abd99c68f46e15bc","fromSide":"top","toNode":"d52f48baf8fc354e","toSide":"left"},
+		{"id":"baf523fe1f0cd68f","fromNode":"d52f48baf8fc354e","fromSide":"right","toNode":"bc30bfdfd795741c","toSide":"left"},
+		{"id":"5b0777e83b9bcead","fromNode":"abd99c68f46e15bc","fromSide":"top","toNode":"43eacf0555645b92","toSide":"bottom"},
+		{"id":"3b9ace6a8ca889f4","fromNode":"43eacf0555645b92","fromSide":"right","toNode":"676dcb0575212677","toSide":"left"},
+		{"id":"0dbcd65e598061eb","fromNode":"43eacf0555645b92","fromSide":"top","toNode":"58b091fc874b6b6a","toSide":"left"},
+		{"id":"091002797c3abf47","fromNode":"abd99c68f46e15bc","fromSide":"left","toNode":"c50f36374b49297d","toSide":"top"},
+		{"id":"c3016d5ce02105d8","fromNode":"c50f36374b49297d","fromSide":"bottom","toNode":"97c65acdf507143f","toSide":"top"},
+		{"id":"3040c7f4ed0f1f0b","fromNode":"97c65acdf507143f","fromSide":"bottom","toNode":"87704743aeab2efa","toSide":"top"},
+		{"id":"735fd194a88dde43","fromNode":"97c65acdf507143f","fromSide":"bottom","toNode":"1bd2a2e63ab31f6d","toSide":"top"}
+	]
+}
