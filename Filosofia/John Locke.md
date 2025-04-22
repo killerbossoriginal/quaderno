@@ -43,3 +43,22 @@ Lui categorizza le idee con più attributi:
 			- esempio: a è causa di b
 			- esempio: lui è il padre
 			- non si vede il legame causa-effetto, ma **è la mente che lega gli elementi**.
+# Dal libro
+## La critica all'innatismo
+- L'esistenza di idee universali non è una prova a favore dell'innatismo perché anche l'esperienza può portare alla creazione di idee uguali
+- L'idea di dio non è innata, visto che non tutti la hanno uguale
+- Non è possibile avere "idee non pensate", ma i neonati non sembra abbiano idee (quindi non hanno idee innate, che non possono essere "nascoste")
+## L'esperienza
+- Se non esiste l'innatismo allora tutte le idee derivano dall'esperienza
+- ci sono 2 forme di esperienza
+	- esperienza derivata dal **senso esterno**, che porta alle **idee di sensazione**, a loro volta divise in
+		- idee di qualità primarie, oggettive
+		- idee di qualità secondarie, soggettive, sensazioni immediate date da un'esperienza
+	- esperienza derivata dal **senso interno**, che porta alle **idee di riflessione**
+- le idee sono divise in
+	- **idee semplici** e non scomponibili
+	- **idee complesse**, composte da idee semplici, categorizzate in
+		- idee di sostanza: l'albero (idea di foglie, idea di legno,...)
+		- idee di modo: danza (idea di movimento di un certo tipo)
+		- idee di relazione: a è padre di b
+![[Locke - I materiali della conoscienza.png]]
