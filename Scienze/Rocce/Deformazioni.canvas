@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"dc8eba6347d56a5d","type":"group","x":120,"y":-180,"width":163,"height":220,"label":"Pieghe"},
+		{"id":"4164979946b832c0","type":"group","x":300,"y":-180,"width":160,"height":220,"label":"Fratture"},
+		{"id":"ef50115f6c60ce96","type":"text","text":"Elastica","x":140,"y":-40,"width":123,"height":60},
+		{"id":"c5a024c9241242fe","type":"text","text":"Plastica","x":140,"y":-160,"width":123,"height":60},
+		{"id":"7352041c9e774ac9","type":"text","text":"Deformazioni","x":-80,"y":-100,"width":161,"height":60},
+		{"id":"e722504bce97d6c7","type":"text","text":"Affioramenti","x":-300,"y":-100,"width":154,"height":60},
+		{"id":"6ade315f64571a08","type":"text","text":"Strati","x":-275,"y":0,"width":105,"height":60},
+		{"id":"c7c43f573982d755","type":"text","text":"Reggipoggio","x":-120,"y":-30,"width":156,"height":60},
+		{"id":"b6c6341899d0b539","type":"text","text":"Franapoggio","x":-119,"y":40,"width":155,"height":60},
+		{"id":"5ea14380b5ca4895","type":"text","text":"Rottura","x":320,"y":-100,"width":118,"height":60},
+		{"id":"7e38ee333759ccb4","type":"text","text":"rocce fragili","x":210,"y":80,"width":106,"height":60,"color":"3"},
+		{"id":"c3b2901f582dc6c1","type":"text","text":"rocce\nduttili\n","x":80,"y":80,"width":105,"height":58,"color":"2"},
+		{"id":"5799ca7ebc7b25da","type":"text","text":"L.E. = Limite Elastico\nP.R. = Punto di Rottura","x":80,"y":150,"width":225,"height":60}
+	],
+	"edges":[
+		{"id":"e1ec0ca563eeae48","fromNode":"7352041c9e774ac9","fromSide":"right","toNode":"c5a024c9241242fe","toSide":"left"},
+		{"id":"c19b75005282bd64","fromNode":"7352041c9e774ac9","fromSide":"right","toNode":"ef50115f6c60ce96","toSide":"left"},
+		{"id":"db4e3816ef6b03cb","fromNode":"ef50115f6c60ce96","fromSide":"top","toNode":"c5a024c9241242fe","toSide":"bottom","color":"2","label":"L.E."},
+		{"id":"e8aa6e972e28ebeb","fromNode":"ef50115f6c60ce96","fromSide":"right","toNode":"5ea14380b5ca4895","toSide":"bottom","color":"3","label":"L.E. = P.R."},
+		{"id":"1f73fa876b35e3bd","fromNode":"c5a024c9241242fe","fromSide":"right","toNode":"5ea14380b5ca4895","toSide":"top","color":"2","label":"P.R."},
+		{"id":"053d030cb9615970","fromNode":"e722504bce97d6c7","fromSide":"right","toNode":"7352041c9e774ac9","toSide":"left"},
+		{"id":"19c10261a24148ad","fromNode":"e722504bce97d6c7","fromSide":"bottom","toNode":"6ade315f64571a08","toSide":"top"},
+		{"id":"187539466b21592e","fromNode":"6ade315f64571a08","fromSide":"right","toNode":"c7c43f573982d755","toSide":"left"},
+		{"id":"59b350316ef8d913","fromNode":"6ade315f64571a08","fromSide":"right","toNode":"b6c6341899d0b539","toSide":"left"},
+		{"id":"242da414419453a3","fromNode":"c3b2901f582dc6c1","fromSide":"top","toNode":"ef50115f6c60ce96","toSide":"bottom","color":"2"},
+		{"id":"9bae09dc3d1cfc85","fromNode":"7e38ee333759ccb4","fromSide":"top","toNode":"ef50115f6c60ce96","toSide":"bottom","color":"3"}
+	]
+}

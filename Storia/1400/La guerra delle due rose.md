@@ -1,0 +1,1 @@
+Dopo la sconfitta da parte della Francia nel[la guerra dei 100 anni](../1300/La%20guerra%20dei%20100%20anni.md) si scatenò una guerra "civile", le due famiglie di origine comune, York e Lancaster si scontrarono per il potere, vinse la famiglia dei Lancaster, Enrico VII sposò Elisabetta di York con la quale diede inizio alla famiglia Tudor.

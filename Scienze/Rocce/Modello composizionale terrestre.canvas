@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"ac4cbcb6dbf26f90","type":"text","text":"Crosta (0->90km)\nDiscontinuità di Moho (Mohorovičić)","x":-229,"y":-204,"width":329,"height":60},
+		{"id":"b2734f5f46d5ee3d","type":"text","text":"Mantello (90km->2900km)\nDiscontinuità di Gutenberg","x":-229,"y":-120,"width":329,"height":60},
+		{"id":"0e1214c0548da41b","type":"text","text":"Nucleo esterno (2900km->5170km)\nDiscontinuità di Lehmann","x":-229,"y":-40,"width":329,"height":60},
+		{"id":"36d7d30ca0726243","type":"text","text":"Nucleo interno (5170km-> 6370km)","x":-229,"y":40,"width":329,"height":60},
+		{"id":"5ff5bdb65cb14e80","type":"text","text":"Terra; raggio: 6370km","x":-500,"y":-204,"width":242,"height":304}
+	],
+	"edges":[]
+}

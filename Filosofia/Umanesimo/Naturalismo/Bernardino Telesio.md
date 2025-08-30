@@ -1,0 +1,1 @@
+Lui è il primo che dice `iuxta propria principia` ("*secondo i propri princìpi*"), ovvero studia la natura come si vede, non come è.

@@ -1,0 +1,9 @@
+Virtù cardinali:
+- Fortezza
+- Temperanza
+- Giustizia
+- Prudenza
+Virtù teologali:
+- Fede
+- Speranza
+- Carità

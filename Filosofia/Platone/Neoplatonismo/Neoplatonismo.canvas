@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"78dec2ff11ddd4ea","type":"text","text":"Natura","x":-159,"y":-53,"width":250,"height":60},
+		{"id":"07a9505e4ddb8cc7","type":"text","text":"Intelletto","x":-159,"y":-160,"width":250,"height":60},
+		{"id":"2c066e42807c6376","type":"text","text":"\"UNO\": unità","x":-159,"y":-260,"width":250,"height":60},
+		{"id":"4824196857d327e1","type":"text","text":"Idea: luce\nEssere meno rarefatto","x":160,"y":-160,"width":250,"height":60},
+		{"id":"a7ffa3e1f61c151c","type":"text","text":" Oggetto: \n Essere più rarefatto","x":340,"y":-53,"width":250,"height":60},
+		{"id":"e17bf7f6be29e9fc","type":"text","text":"Lampadina","x":215,"y":-290,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"371bb472eca3299c","fromNode":"78dec2ff11ddd4ea","fromSide":"right","toNode":"a7ffa3e1f61c151c","toSide":"left"},
+		{"id":"4287c19a0d81486c","fromNode":"07a9505e4ddb8cc7","fromSide":"right","toNode":"4824196857d327e1","toSide":"left"},
+		{"id":"3f087595a1c2875f","fromNode":"2c066e42807c6376","fromSide":"right","toNode":"e17bf7f6be29e9fc","toSide":"left"},
+		{"id":"9de58ea3e9ab683f","fromNode":"e17bf7f6be29e9fc","fromSide":"right","toNode":"4824196857d327e1","toSide":"right","label":"Emanazione"},
+		{"id":"399e5fd464dc433d","fromNode":"e17bf7f6be29e9fc","fromSide":"right","toNode":"a7ffa3e1f61c151c","toSide":"right","label":"Emanazione"}
+	]
+}

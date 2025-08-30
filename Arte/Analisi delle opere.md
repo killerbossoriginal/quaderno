@@ -1,0 +1,32 @@
+# Analizzare un'opera
+- Stile cromatico
+	- Sfondo scuro
+		- Opere fiamminghe
+		- Opere di stile caravaggista
+	- Equilibrio tra i colori -> Raffaello
+- Se ci sono strutture, di che stile sono?
+	- Classico
+		- Archi a tutto sesto
+		- Volte a botte
+	- Gotico
+		- Archi a sesto acuto
+		- Volte a crociera
+	- Tecniche
+		- Bugnato
+		- Serliana
+	- Parti architettoniche
+		- Lanterna
+		- Balaustra
+		- Nicchie
+		- Rosone
+	- Effetto
+		- Aggettante
+- Se ci sono persone:
+	- I vestiti di che epoca sono?
+		- Stile impero
+	- I corpi sono classici? -> Probabilmente ispirato a Michelangelo
+	- Eventuali ferite sono sanguinolente? -> Caravaggismo
+	- In che posizione sono?
+		- Di profilo (vedi medaglistica romana)
+		- Di 3/4 (influenza fiamminga)
+- Fedeltà nella rappresentazione di oggetti

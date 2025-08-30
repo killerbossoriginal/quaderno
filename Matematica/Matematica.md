@@ -1,0 +1,8 @@
+- [equazioni di secondo grado](equazioni%20di%20secondo%20grado.md)
+- [Esponenziali](Esponenziali.md)
+- [Logaritmi](Logaritmi.md)
+- [Calcolo Combinatorio](Calcolo%20Combinatorio.md)
+- [Statistica](Statistica.md)
+- [Geometria](Geometria.md)
+- [Geometria Analitica](Geometria%20Analitica.md)
+- [Goniometria](Goniometria.md)

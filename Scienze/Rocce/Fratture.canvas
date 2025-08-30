@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"6cfe83a11ce7b412","type":"text","text":"Faglie\n(fratture \"scomposte)","x":-104,"y":-222,"width":218,"height":57},
+		{"id":"561ded58b94e14fe","type":"text","text":"Diaclasi\n(fratture \"composte\")","x":-104,"y":-295,"width":215,"height":60},
+		{"id":"2eeff5925c87ebab","type":"text","text":"Inverse\n(di compressione)","x":75,"y":-74,"width":250,"height":60},
+		{"id":"1c60a9d62c29aa3b","type":"text","text":"Sovrascorrimento\n(accavallamento)","x":103,"y":16,"width":193,"height":60},
+		{"id":"cb0521d6929b8833","type":"text","text":"Trascorrenti\n(destre e sinistre)","x":-120,"y":106,"width":250,"height":60},
+		{"id":"ada7c4c085945625","type":"text","text":"Zone di\ncompressione (sollevamento)\ne distensione (dprofondamento)","x":-143,"y":208,"width":296,"height":88},
+		{"id":"f2011dd83687ba9a","type":"text","text":"fosse tettoniche (Graben/rift valley) delimitate da pilastri tettonici (Horst)","x":-324,"y":-2,"width":280,"height":90},
+		{"id":"c787177a8a02b4fe","type":"text","text":"Dirette\n(di distensione, normali)","x":-309,"y":-74,"width":250,"height":60},
+		{"id":"9a28de580e23a793","x":-434,"y":-265,"width":250,"height":60,"type":"text","text":"Fratture"}
+	],
+	"edges":[
+		{"id":"3b08fcc3227134cd","fromNode":"6cfe83a11ce7b412","fromSide":"bottom","toNode":"c787177a8a02b4fe","toSide":"right"},
+		{"id":"888cbc68aa623355","fromNode":"6cfe83a11ce7b412","fromSide":"bottom","toNode":"2eeff5925c87ebab","toSide":"left"},
+		{"id":"0a5b3775707b02c0","fromNode":"6cfe83a11ce7b412","fromSide":"bottom","toNode":"cb0521d6929b8833","toSide":"top"},
+		{"id":"6c0859850df43458","fromNode":"2eeff5925c87ebab","fromSide":"bottom","toNode":"1c60a9d62c29aa3b","toSide":"top"},
+		{"id":"988812012c70163b","fromNode":"cb0521d6929b8833","fromSide":"bottom","toNode":"ada7c4c085945625","toSide":"top"},
+		{"id":"3d5d23a4473d7509","fromNode":"c787177a8a02b4fe","fromSide":"bottom","toNode":"f2011dd83687ba9a","toSide":"top"},
+		{"id":"3d7b4c105cf6ff48","fromNode":"9a28de580e23a793","fromSide":"right","toNode":"561ded58b94e14fe","toSide":"left"},
+		{"id":"4b13afcf46e619d3","fromNode":"9a28de580e23a793","fromSide":"right","toNode":"6cfe83a11ce7b412","toSide":"left"}
+	]
+}

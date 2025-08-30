@@ -1,0 +1,1 @@
+His thought are against Petrarch's idea of love, in which the love is only spiritual. For Donne the love should be both physical and emotional.

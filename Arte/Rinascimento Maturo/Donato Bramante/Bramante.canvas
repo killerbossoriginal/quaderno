@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"4a0200efb67d8a0e","x":-147,"y":-56,"width":307,"height":56,"type":"text","text":"# Donato Bramante"},
+		{"id":"0b4b2df0ecea8029","x":480,"y":-140,"width":250,"height":56,"type":"text","text":"Santa Maria presso San Satiro"},
+		{"id":"c2001c7cf1490a52","x":864,"y":-140,"width":250,"height":60,"type":"text","text":"Illusionismo Prospettico"},
+		{"id":"e9bd8ad343c86e04","x":480,"y":-33,"width":250,"height":60,"type":"text","text":"Basilica di Santa Maria delle Grazie"},
+		{"id":"5c15e72bae9ab169","x":864,"y":-33,"width":250,"height":60,"type":"text","text":"ospita il Cenacolo di Leonardo"},
+		{"id":"29e8153fde6d6af9","x":480,"y":83,"width":250,"height":60,"type":"text","text":"Basilica di San Pietro"},
+		{"id":"e395885b0df14dcc","x":864,"y":83,"width":250,"height":60,"type":"text","text":"Progetto a Croce Greca"},
+		{"id":"4ac15a85cd441540","x":480,"y":200,"width":250,"height":60,"type":"text","text":"Tempietto di San Pietro"},
+		{"id":"33b733385fcf2647","x":864,"y":200,"width":250,"height":60,"type":"text","text":"Più Livelli"},
+		{"id":"75e0f0da4a6a8712","x":864,"y":280,"width":250,"height":60,"type":"text","text":"Ospitare reliquie"},
+		{"id":"2a9023879d11a328","x":1250,"y":77,"width":250,"height":60,"type":"text","text":"Cupola"},
+		{"id":"c24a6ab919ba4097","x":1250,"y":143,"width":250,"height":60,"type":"text","text":"Spazio Religioso"},
+		{"id":"7eabe2612ef819b1","x":1250,"y":220,"width":250,"height":60,"type":"text","text":"Cripta"},
+		{"id":"c2833180e718edbc","x":864,"y":360,"width":250,"height":60,"type":"text","text":"Stile dorico"},
+		{"id":"8db7804cc9e5c5f2","x":864,"y":440,"width":256,"height":77,"type":"text","text":"architrave decorato con eventi storici e scanalature"},
+		{"id":"ff08930eeda26dda","x":864,"y":540,"width":250,"height":60,"type":"text","text":"balaustra che aumenta il volume"},
+		{"id":"d9c2a5a8a2253125","x":864,"y":620,"width":250,"height":60,"type":"text","text":"cupola con la lanterna (la torre)"}
+	],
+	"edges":[
+		{"id":"d7ec70eca41c65d7","fromNode":"4a0200efb67d8a0e","fromSide":"right","toNode":"0b4b2df0ecea8029","toSide":"left"},
+		{"id":"1781acfd9057beec","fromNode":"0b4b2df0ecea8029","fromSide":"right","toNode":"c2001c7cf1490a52","toSide":"left"},
+		{"id":"fec0d119d95dc5c1","fromNode":"4a0200efb67d8a0e","fromSide":"right","toNode":"e9bd8ad343c86e04","toSide":"left"},
+		{"id":"1df68d9fea12bcf8","fromNode":"e9bd8ad343c86e04","fromSide":"right","toNode":"5c15e72bae9ab169","toSide":"left"},
+		{"id":"6d28a4725688a6ba","fromNode":"4a0200efb67d8a0e","fromSide":"right","toNode":"29e8153fde6d6af9","toSide":"left"},
+		{"id":"85fef8b53a85abea","fromNode":"29e8153fde6d6af9","fromSide":"right","toNode":"e395885b0df14dcc","toSide":"left"},
+		{"id":"0192290290056f7b","fromNode":"4a0200efb67d8a0e","fromSide":"right","toNode":"4ac15a85cd441540","toSide":"left"},
+		{"id":"d9619c97481ec48f","fromNode":"4ac15a85cd441540","fromSide":"right","toNode":"33b733385fcf2647","toSide":"left"},
+		{"id":"476d7d2d8b36efd5","fromNode":"4ac15a85cd441540","fromSide":"right","toNode":"75e0f0da4a6a8712","toSide":"left"},
+		{"id":"4f74056765d49c72","fromNode":"33b733385fcf2647","fromSide":"right","toNode":"2a9023879d11a328","toSide":"left"},
+		{"id":"e278969ca0116833","fromNode":"33b733385fcf2647","fromSide":"right","toNode":"c24a6ab919ba4097","toSide":"left"},
+		{"id":"bc017acbbd18edc3","fromNode":"33b733385fcf2647","fromSide":"right","toNode":"7eabe2612ef819b1","toSide":"left"},
+		{"id":"70925c558cf67b53","fromNode":"4ac15a85cd441540","fromSide":"right","toNode":"c2833180e718edbc","toSide":"left"},
+		{"id":"271409bd64c11fd2","fromNode":"4ac15a85cd441540","fromSide":"right","toNode":"8db7804cc9e5c5f2","toSide":"left"},
+		{"id":"0037a363f1aaeb06","fromNode":"4ac15a85cd441540","fromSide":"right","toNode":"ff08930eeda26dda","toSide":"left"},
+		{"id":"7ac230c099e9531c","fromNode":"4ac15a85cd441540","fromSide":"right","toNode":"d9c2a5a8a2253125","toSide":"left"}
+	]
+}
