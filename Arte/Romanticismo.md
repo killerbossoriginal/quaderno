@@ -1,14 +1,18 @@
 186-187-188
 
 Esercizio: 198->199, 201->205, 207, 213. rintracciare i riferimenti romantici
+
+
+Artisti importanti:
+- [[Francisco Goya]]
+- [[William Turner]]
+- [[John Constable]]
 - [Caspar David Friedrich](Caspar%20David%20Friedrich.md)
-- [William Turner](William%20Turner.md)
-- [John Constable](John%20Constable.md)
 
 Da valore al **sentimento**, alla **passionalità** e all'**emozione**.
 
 Lo storicismo è la presa di coscienza di un'entità nazionale.
-In questo periodo venne rivalutato il periodo del medioevo.
+In questo periodo venne **rivalutato** il medioevo.
 # Inquadramento Storico
 ## Il Risorgimento
 Nel 1815 si concluse il congresso di Vienna, che impose la **_Restaurazione_** dei regni precedenti.

@@ -1,5 +1,5 @@
 # La nascita di Venere
-![Botticelli-La_nascita_di_Venere](Botticelli-La_nascita_di_Venere.jpg)
+![Botticelli-La_nascita_di_Venere](Botticelli%20-%20La%20nascita%20di%20Venere.jpg)
 Così come nella primavera, si vuole associare il classicismo, letto con chiave **neoplatonica**, con la resa estetica del cattolicesimo.
 
 La nascita di venere vuole riproporre il battesimo come un rimando diretto, anche se ovviamente rappresenta in stile neoplatonico un episodio pagano.
