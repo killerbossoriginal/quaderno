@@ -5,4 +5,4 @@
 - [Statistica](Statistica.md)
 - [Geometria](Geometria.md)
 - [Geometria Analitica](Geometria%20Analitica.md)
-- [Goniometria](Goniometria.md)
+- [Goniometria 1](Goniometria%201.md)
