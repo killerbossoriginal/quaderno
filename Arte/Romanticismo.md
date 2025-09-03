@@ -4,15 +4,25 @@ Esercizio: 198->199, 201->205, 207, 213. rintracciare i riferimenti romantici
 
 
 Artisti importanti:
-- [[Francisco Goya]]
-- [[William Turner]]
-- [[John Constable]]
-- [Caspar David Friedrich](Caspar%20David%20Friedrich.md)
+- Spagnoli
+	- [[Francisco Goya]]
+- Inglesi
+	- [[William Turner]]
+	- [[John Constable]]
+- Tedeschi
+	- [Caspar David Friedrich](Caspar%20David%20Friedrich.md)
+- Francesi
+	- [[Théodore Géricault]] - soggetti di cronaca
+	- [[Eugène Delacroix]] - politica con fatti di cronaca
+- Italiani
+	- [[Francesco Hayez]] - romanticismo storico, amore senza lieto fine
 
 Da valore al **sentimento**, alla **passionalità** e all'**emozione**.
 
 Lo storicismo è la presa di coscienza di un'entità nazionale.
 In questo periodo venne **rivalutato** il medioevo.
+
+In generale i pittori in luoghi più legati al classicismo mantennero più "il legame con la società", mentre gli altri, come i tedeschi e gli inglesi, mostravano la natura come soggetto delle opere.
 # Inquadramento Storico
 ## Il Risorgimento
 Nel 1815 si concluse il congresso di Vienna, che impose la **_Restaurazione_** dei regni precedenti.

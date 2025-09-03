@@ -29,4 +29,6 @@
 	- In che posizione sono?
 		- Di profilo (vedi medaglistica romana)
 		- Di 3/4 (influenza fiamminga)
+	- Cosa fanno?
+		- Contemplazione della natura (romanticismo)
 - Fedeltà nella rappresentazione di oggetti
