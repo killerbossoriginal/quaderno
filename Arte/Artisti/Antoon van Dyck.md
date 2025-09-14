@@ -1,0 +1,1 @@
+- Osservazione della realtà

@@ -1,0 +1,2 @@
+- Attenzione alla realtà
+- Luce -> Caravaggesca ma riadattata con fonte "interna"

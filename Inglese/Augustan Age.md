@@ -25,7 +25,7 @@ Generally regarded as a golden age, the 18th century in Britain was called ‘A
 
 Eighteenth-century society championed **individualism**, seizing opportunities in the sectors of economy that provided scope for initiative, enterprise and enrichment. It was in many ways an extraordinarily free and open age, whose characteristics distinguished Britain from the other European countries. Many travellers were surprised by what they saw as the **comparative** freedom enjoyed by the British people in contrast with the more absolutist regimes of their own countries. Enlightened thinkers, from the philosopher John Locke to journalists such as Joseph Addison, rejected the strict, **pessimistic** values of Puritanism, like original sin and the depravity of man. Liberal thought influenced the new view of the world and affirmed free will, salvation for all, as well as the belief in the goodness of mankind and its capacity for progress. **Optimism** encouraged faith in progress and human perfectibility, and made people eager to try new ways of trusting their own capabilities: reason, which made them different from animals, and common sense.
 # Literature
-![18cnovels](18cnovels.png)
+![18cnovels](18th%20century%20novel.png)
 The population who was able to read increased to 60% of adult males and 40% adult females. This was caused by the increased number of volume published by the writers. This became an economic-driven work.
 The works wanted to be more realistic, the protagonists were usually from the middle class, struggling for survival or social success. The primary aim of the writer was to write in a simple way to make everyone understand.
 ## Daniel Defoe

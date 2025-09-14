@@ -1,0 +1,4 @@
+- Germania
+- Mantova (Gonzaga)
+- Genova (Doria?)
+- Più legato ai modelli rinascimentali

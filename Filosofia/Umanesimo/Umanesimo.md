@@ -3,7 +3,7 @@ L'umanesimo è la corrente che mette l'uomo al centro del cosmo.
 
 L'uomo viene considerato libero. In quel contesto c'era una grande fiducia e c'era la convinzione che l'uomo poteva scegliere il proprio destino e, impegnandosi, cambiarlo.
 
-Ad esempio l'uomo vitruviano di [Leonardo da Vinci](../../Arte/Rinascimento%20Maturo/Leonardo%20da%20Vinci/Leonardo%20da%20Vinci.md) ci rappresenta come l'uomo possa essere misura di tutte le cose.
+Ad esempio l'uomo vitruviano di [Leonardo da Vinci](Leonardo%20da%20Vinci.md) ci rappresenta come l'uomo possa essere misura di tutte le cose.
 
 In questo periodo, grazie alle sovvenzioni di Cosimo de' Medici venne ripreso il [Neoplatonismo](../Platone/Neoplatonismo/Neoplatonismo.md).
 
