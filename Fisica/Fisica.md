@@ -13,6 +13,7 @@ Si dividono in:
 # Il Sistema Internazionale
 ## I Prefissi
 
+
 | Prefisso | Simbolo  | Notazione scientfica | Numero decimale                           | Scala lunga      | Scala corta   |
 | -------- | -------- | -------------------- | ----------------------------------------- | ---------------- | ------------- |
 | quetta   | Q        | $10^{30}$            | 1 000 000 000 000 000 000 000 000 000 000 | Quintillione     | Nonillion     |
@@ -41,9 +42,11 @@ Si dividono in:
 | ronto    | r        | $10^{-27}$           | 1 000 000 000 000 000 000 000 000 000     | Quadriliardesimo | Octillionth   |
 | quecto   | q        | $10^{-30}$           | 1 000 000 000 000 000 000 000 000 000 000 | Quintillionesimo | Nonillionth   |
 
+
 # La notazione scientifica
 Viene usata la notazione scientifica per la rappresentazione di misure di *ordini di grandezza* più grandi o piccole di quelle a cui siamo abituati.
 Ad esempio ecco una scala:
+
 
 | Nome unità di misura           | Notazione scientifica   | Oggetto                         |
 | ------------------------------ | ----------------------- | ------------------------------- |
@@ -72,8 +75,12 @@ Ad esempio ecco una scala:
 | 1 zettametro                   | $10^{21}$               | una galassia                    |
 | 10 yottametri                  | $10^{25}$               | la mappa delle galassie esterne |
 
+
 # Concetti
 - [Gravitazione](./Gravitazione/Gravitazione.md)
 - [La Termodinamica](./Termodinamica/Termodinamica.md)
 - [La Meccanica dei Fluidi](./Meccanica%20dei%20Fluidi/Meccanica%20dei%20Fluidi.md)
 - [Elettrostatica](./Elettrostatica/Elettrostatica.md)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjM5NjU5NjVdfQ==
+-->
