@@ -1,4 +1,5 @@
-Successivo al [[Romanticismo]], alternativa europea al [[Verismo]]
+Successivo al [[Romanticismo]], alternativa europea al [[Verismo]].
+Strettamente collegato con il [[Naturalismo]].
 # Introduzione storica
 Iniziò in questo periodo la rivoluzione industriale, separata in 2 fasi, la prima incrementò il settore tessile e la seconda quello metallurgico e meccanico.
 Nacquero 2 classi, la borghesia industriale e la classe operaia.
@@ -13,8 +14,10 @@ Il positivismo deriva da un specifico ambiente culturale, sociale e geografico, 
 
 Ad esempio alcuni hanno rappresentato i bassifondi (slums) della capitale britannica, i quartieri popolari e sovrappopolati, raccontando il dramma del lavoro minorile.
 
-I principali artisti della corrente del **realismo francese** sono [[Gustave Courbet]] e [[Jean-François Millet]]. Fu proprio Courbet che definì nel 1855 in un opuscolo scritto per l'esposizione universale la poetica di questo movimento.
+I principali artisti della corrente del **realismo francese** sono [[Gustave Courbet]] e [[Jean-François Millet]]. Fu proprio Courbet che definì nel **==1855==** in un opuscolo scritto per l'esposizione universale la poetica di questo movimento.
 Aprì il *Pavillon du Réalisme*, dove espose tutte le tele rifiutate.
+
+Courbet ritrae quello che vuole, alcuni critici sono contrari all'idea che Courbet mostra l'aspetto sociale, Millet invece seleziona i contenuti e li mostra in un certo modo.
 
 Il **verismo italiano** fu in parte influenzato da Millet, e gli artisti furono attivi negli anni '60, '70 e '80 dell'1800.
 

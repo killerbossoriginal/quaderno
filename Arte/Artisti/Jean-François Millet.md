@@ -2,12 +2,15 @@ E' un artista francese, considerato parte del [[Realismo]]. Nato in Normandia, s
 # Opere
 ## Il Seminatore
 ![[Millet - Il seminatore.png]]
+Lui descrive quel momento sospeso, in cui si vede l'atteggiamento. E' statuario, i personaggi sono in prosa.
 ## L'Angelus
 ![[Millet - L'angelus.png]]Nelle opere di questo autore, sono spesso presenti tematiche religiose.
 In questo quadro, ad esempio, due contadini si sono fermati per pregare la madonna, di solito si recitava l'angelus, la mattina, a mezzogiorno e la sera.
 Millet racconta i contadini poveri, con quest'etica del lavoro rurale e questa religiosità della vita domestica riuscì a farsi apprezzare dal pubblico.
 
 Con il tempo Millet iniziò a diventare [[Romanticismo|romantico]], in quanto preferiva sempre di più disegnare paesaggi e omise le figure umane.
+
+Millet è cattolico, i due si fermano e ringraziano perché hanno vissuto e devono ringraziare Dio.
 ## Le spigolatrici
 ![[Millet - Le spigolatrici.png]]
 E' considerato uno dei più grandi capolavori realisti.

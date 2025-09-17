@@ -1,4 +1,6 @@
-Frequentò l'Accademia delle Belle Arti di Firenze, dove acquisì una preparazione classicistica. Frequentò il "Caffè Michelangelo".
+Frequentò l'[[Accademia di Belle Arti#Firenze]], dove acquisì una preparazione classicistica. Frequentò il [[Accademia di Belle Arti#Caffè Michelangelo]].
+
+Utilizza sistemi tradizionali, come la prospettiva lineare. Mette i dettagli negli abiti, ma non li dettaglia.
 # Opere
 ## Il pergolato
 ![[Lega - Il pergolato.jpg]]
