@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"f99183f31e1dd675","type":"text","text":"Generale (matematiche dimostrazioni)\n(ipotesi)","x":-117,"y":-158,"width":250,"height":98},
+		{"id":"831628dadddfce3e","type":"text","text":"Particolare (sensate esperienze)","x":-117,"y":140,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"1e2d875883dc718e","fromNode":"831628dadddfce3e","fromSide":"right","toNode":"f99183f31e1dd675","toSide":"right","label":"Induzione"},
+		{"id":"b51c25e7eef71af3","fromNode":"f99183f31e1dd675","fromSide":"left","toNode":"831628dadddfce3e","toSide":"left","label":"Deduzione"}
+	]
+}

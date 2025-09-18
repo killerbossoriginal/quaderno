@@ -1,6 +1,6 @@
 I nuovi ideali platonici sono definiti dentro il [Neoplatonismo](./Neoplatonismo/Neoplatonismo.md)
 # La vita
-Platone voleva entrare e diventare un politico, ma le sue aspirazioni vengono distrutte dalla sconfitta di Atene nella guerra del Peloponneso, come raccontato nella lettera autobiografica chiamata [Lettera VII](Lettera%20VII.md), e dalla seguente condanna a [morte](../Socrate/La%20morte.md) del suo maestro Socrate. 
+Platone voleva entrare e diventare un politico, ma le sue aspirazioni vengono distrutte dalla sconfitta di Atene nella guerra del Peloponneso, come raccontato nella lettera autobiografica chiamata [Lettera VII](Lettera%20VII.md), e dalla seguente condanna a [morte](Socrate.md) del suo maestro Socrate. 
 Da ciò Platone capisce che non è la politica che cambierà il mondo, ma lui potrebbe aiutare i nuovi politici a imparare il giusto o lo sbagliato, e in generale la giustizia (che per lui equivale all'equilibrio delle 3 componenti dell'[anima](Anima.md)) , tramite la **filosofia**.
 ## Il primo viaggio a Siracusa
 Iniziò poi a girare per la Grecia, e in particolare venne ospitato dal tiranno **Dioniso il Vecchio**.

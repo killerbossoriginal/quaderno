@@ -10,6 +10,16 @@ Si dividono in:
 - [Il Momento Angolare](Il%20Momento%20Angolare.md)
 - [La Pressione](Pressione.md)
 - [La densità](La%20densità.md)
+# I campi
+- [[Principio di sovrapposizione dei campi]]
+# Elettrostatica
+- [[Bilancia di torsione]]
+- [[Legge di Coulomb]]
+- [[Campo elettrico]]
+# Elettromagnetismo
+- [[Campo magnetico]]
+- [[Correnti indotte]]
+- [[Legge di Faraday - Newmann]]
 # Il Sistema Internazionale
 ## I Prefissi
 

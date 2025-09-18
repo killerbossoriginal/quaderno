@@ -1,1 +1,0 @@
-E' governata dalla [legge di Coulomb](Legge%20di%20Coulomb.md).

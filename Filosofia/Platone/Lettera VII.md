@@ -5,4 +5,4 @@ Dopo la sconfitta di Atene da parte di Sparta, e quindi la caduta del governo de
 ## Il pensiero di Platone sui Trenta tiranni
 Platone all'inizio era fiducioso nei nuovi governanti, tra i quali ci erano amici e familiari, ma il nuovo governo si dimostrò corrotto e dispotico.
 ## La caduta dei Trenta tiranni
-Iniziò un lento e graduale ripristino della democrazia. Questo nuovo governo democratico attaccò Socrate, condannandolo a [morte](La%20morte.md).
+Iniziò un lento e graduale ripristino della democrazia. Questo nuovo governo democratico attaccò Socrate, condannandolo a [morte](Socrate.md).

@@ -16,3 +16,5 @@ matematica (pagine riassunti)
 - 160
 - 586
 - 587
+
+> "mklink /D "Percorso\destinazione" "Percorso\origine"   ""

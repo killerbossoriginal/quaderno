@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"d3a3ed1a67b71038","x":520,"y":-60,"width":790,"height":160,"type":"group","label":"Intelletto"},
+		{"id":"ab395c9ffd14fe26","x":20,"y":-60,"width":290,"height":240,"type":"group","label":"Sensibilità"},
+		{"id":"cd2f1e875362f79e","x":-440,"y":180,"width":300,"height":100,"type":"group","label":"Ragione"},
+		{"id":"3f23610a19321db7","x":40,"y":-40,"width":250,"height":60,"type":"text","text":"Intuizioni Empiriche"},
+		{"id":"2e241158f080f290","x":40,"y":100,"width":250,"height":60,"type":"text","text":"Intuizioni pura"},
+		{"id":"7f2994f4e60adf44","x":540,"y":20,"width":250,"height":60,"type":"text","text":"Concetti puri"},
+		{"id":"ac5ec6372e0da9bd","x":1040,"y":-40,"width":250,"height":60,"type":"text","text":"Concetto empirico"},
+		{"id":"f1234fe80939a223","x":-420,"y":-100,"width":250,"height":60,"type":"text","text":"Realtà (noumeno)"},
+		{"id":"e413183a14aa2967","x":-420,"y":200,"width":250,"height":60,"type":"text","text":"**Idee** non dimostrabili"}
+	],
+	"edges":[
+		{"id":"2bfc8512d4fbbbe5","fromNode":"f1234fe80939a223","fromSide":"right","toNode":"3f23610a19321db7","toSide":"left"},
+		{"id":"a77f3db4039eefa1","fromNode":"2e241158f080f290","fromSide":"top","toNode":"3f23610a19321db7","toSide":"bottom","label":"organizzano le"},
+		{"id":"9d3fca8fbc79c903","fromNode":"3f23610a19321db7","fromSide":"right","toNode":"ac5ec6372e0da9bd","toSide":"left","label":"aggregati formano"},
+		{"id":"a473082f06ef165b","fromNode":"3f23610a19321db7","fromSide":"right","toNode":"7f2994f4e60adf44","toSide":"left","label":"viene visto tramite i"},
+		{"id":"fdc08ecf8cf4f00d","fromNode":"7f2994f4e60adf44","fromSide":"right","toNode":"ac5ec6372e0da9bd","toSide":"left","label":"che riconduce ad"},
+		{"id":"db56053f325ff2e3","fromNode":"e413183a14aa2967","fromSide":"right","toNode":"3f23610a19321db7","toSide":"left"}
+	]
+}
