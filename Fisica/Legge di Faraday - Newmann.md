@@ -1,3 +1,5 @@
+`pronuncia: Faradai-Noimann`
+
 $$i_i=\frac{1\cdot\Delta \Phi(\vec B)}{R\cdot\Delta T}$$
 
 ($i\downarrow i = \Delta\Phi(\vec B) \cdot (R\Delta T)\uparrow(-1)$)
@@ -18,7 +20,7 @@ Raggruppando i pezzi, quindi: $\Delta \Phi (\vec B) = -B \cdot l \cdot v \Delta 
 $$\frac{\Delta \Phi (\vec B)}{\Delta t}=-Blv$$
 
 Però $-Blv$, può anche essere preso dal seguente ragionamento:
-Il lavoro $L = \vec F_l \cdot \vec l = |e^-| v B \cdot l \cdot \cos \alpha$, con $\cos\alpha=0$
+Il lavoro $L = \vec F_l \cdot \vec l = |e^-| v B \cdot l \cdot \cos \alpha$, con $\cos\alpha=1$
 $fem = \frac{L}{e^-}=\frac{e^- \cdot vB \cdot l}{e^-} = Blv$
 
 allora sarà che:

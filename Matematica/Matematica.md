@@ -6,3 +6,4 @@
 - [Geometria](Geometria.md)
 - [Geometria Analitica](Geometria%20Analitica.md)
 - [Goniometria](Goniometria.md)
+- [[Trigonometria]]
