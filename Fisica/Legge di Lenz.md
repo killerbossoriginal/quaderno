@@ -1,0 +1,1 @@
+Per un campo che genera una corrente indotta, la corrente indotta genererà un campo opposto

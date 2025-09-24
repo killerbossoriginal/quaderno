@@ -5,7 +5,7 @@
 - [Italiano](./Italiano/Italiano.md)
 - [Storia](./Storia/Storia.md)
 - [Arte](./Arte/Arte.md)
-- [Inglese](./Inglese/English.md)
+- [Inglese](Inglese.md)
 - [Scienze](./Scienze/Scienze.md)
 - [videogames](./videogames/videogames.md)
 

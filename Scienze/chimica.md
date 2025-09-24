@@ -1,0 +1,1 @@
+Ogni materiale presente sulla terra è un [[composto]], formato da una o molteplici [[atomo|atomi]].

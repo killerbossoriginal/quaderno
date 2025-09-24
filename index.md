@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Quaderno
 ---
 
 This is a blank Quartz installation.

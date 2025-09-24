@@ -20,6 +20,7 @@ Si dividono in:
 - [[Campo magnetico]]
 - [[Correnti indotte]]
 - [[Legge di Faraday - Newmann]]
+- [[Legge di Lenz]]
 # Il Sistema Internazionale
 ## I Prefissi
 
