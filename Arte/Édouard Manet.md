@@ -7,6 +7,8 @@ I soggetti solitamente non sono in posa.
 ## Musica alle Tuileries
 ![[Manet - Musica alle Tuileries.png]]
 Racconta le Tuileries, giardini dove la borghesia si ritrovava a socializzare, dove ci sono sedie che si possono spostare. Questi spazi sono sempre sorvegliati dalla polizia.
+Rappresenta come i parigini passavano il loro tempo libero.
+Egli raffigura il vero, gli alberi non hanno dettagli per raffigurare l'effetto della luce e dello spazio, così come i vestiti in movimento. Non sono in posa.
 ## Colazione sull'erba
 ![[Manet - Colazione sull'erba.png]]
 ### Descrizione
@@ -15,7 +17,10 @@ Dietro l'ultima signora si intravede un laghetto, anche se non si distingue molt
 ### Tecnica
 I loro corpi non sono disegnati, ma dati dal chiaroscuro. La donna in primo piano rompe la quarta parete, guardando direttamente lo spettatore.
 L'artista "smonta" la natura morta, mettendo completamente in disordine i cibi.
+"Smonta" anche il ritratto, tramite la donna nuda che osserva l'interlocutore.
 In questo caso i soggetti sono messi in posa, e sono dei suoi conoscenti, in quanto lui non poteva permettersi un calco dall'[[Accademia di Belle Arti#Scuola del nudo]].
+### Storia
+Viene rifiutata al salone del 1863, per colpa della presenza del nudo *ingiustificato* in contrasto con un ambiente idealizzato.
 ## Il bar delle Folies-Bergère
 ![[Manet - Il bar delle Folies-Bergère.png]]
 ### Descrizione
@@ -24,8 +29,9 @@ In questo bar si ritrovano i borghesi a bere, socializzare, ascoltare la musica 
 ### Tecnica
 Le persone non sono in posa, dell'acrobata si vedono solo i piedi. Utilizza un *taglio fotografico*. Infatti era stata inventata la macchina fotografica. Gli artisti, anche se era appena stata inventata la fotografia, non avevano paura di essa, perché era in bianco e nero.
 Sul bancone è una natura morta.
+Non sono presenti pose.
 ## Olympia
 ![[Manet - Olympia.png]]
-Quest'opera è stata accettata al Salon, ma è stata posizionata in un angolo. Il mazzo di fiori è una natura morta, e la donna nera è una serva africana.
+Quest'opera è stata accettata al Salon, ma è stata posizionata in un angolo. Il mazzo di fiori è una natura morta, con pochi dettagli per la distanza, e la donna nera è una serva africana.
 I tessuti e le tappezzerie non sono tessuti tradizionali. Viene messa la contemporaneità, tramite i tacchi, la tappezzeria e gli abiti della serva.
-Il soggetto è una prostituta probabilmente una prostituta.
+Il soggetto è una prostituta probabilmente una prostituta, si nota dagli oggetti che indossa, e dalla poca idealizzazione del corpo.
