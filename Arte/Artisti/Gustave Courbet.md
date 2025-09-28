@@ -1,4 +1,5 @@
 Courbet studia all'[[Accademia di Belle Arti#Parigi]], e partecipa più volte al [[Accademia di Belle Arti#Il salon]].
+Molte delle sue opere vengono rifiutate ai Salon, perché utilizza spesso tele grandi per ritrarre oggetti non importanti (esse solitamente erano destinate a soggetti mitologici e storici). Mostra soprattutto soggetti *"insignificanti"* e poveri.
 # Opere
 ## Il funerale a Ornans
 ![[Courbet - Funerale a Ornans.png]]

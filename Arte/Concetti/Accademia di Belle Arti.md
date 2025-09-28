@@ -13,3 +13,6 @@ Il Salon è solo ad invito.
 Molti degli studenti, dopo scuola commentano la giornata.
 Si trovano spesso nel [[#Caffè Michelangelo]].
 ### Caffè Michelangelo
+
+# Scuola del nudo
+E' una parte dell'accademia dove si creano e disegnano calchi di parti del corpo o di modelli.

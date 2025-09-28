@@ -19,8 +19,13 @@ Aprì il *Pavillon du Réalisme*, dove espose tutte le tele rifiutate.
 
 Courbet ritrae quello che vuole, alcuni critici sono contrari all'idea che Courbet mostra l'aspetto sociale, Millet invece seleziona i contenuti e li mostra in un certo modo.
 
+Courbet riproduce in modo oggettivo, ad esempio ne[[Gustave Courbet#Gli spaccapietre|gli spaccapietre]], mentre millet nobilita i soggetti mandando un certo messaggi, ad esempio nell'[[Jean-François Millet#L'Angelus|Angelus]] e nel[[Jean-François Millet#Le spigolatrici|le spigolatrici]].
+
 Il **verismo italiano** fu in parte influenzato da Millet, e gli artisti furono attivi negli anni '60, '70 e '80 dell'1800.
 
 Entrambe le correnti **studiano la realtà** e **osservano analiticamente il vero**. Ad esempio fecero molte pitture di paesaggio.
 
 Il verismo non fu un movimento omogeneo, e mantenne caratterizzazioni regionali.
+# Origini del realismo
+La rappresentazione del vero è stata introdotta in quest'epoca da Zolà, con il movimento naturalista. Il realismo nacque a Parigi, nel 1855, durante l'esposizione universale, in cui Courbet apre il Pavillon du Réalisme e si fa pagare il biglietto di entrata (lasciandolo economico, per poter garantire l'accesso a tutti).
+Questa passerà alla storia come la prima mostra. Tramite le mostre, aumentò il commercio di opere d'arte perché diventano più popolari e accessibili.

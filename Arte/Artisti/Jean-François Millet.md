@@ -1,4 +1,5 @@
 E' un artista francese, considerato parte del [[Realismo]]. Nato in Normandia, studia all'Accademia di Belle Arti di Parigi.
+Mostra una forte religiosità nelle sue opere, spesso come ringraziamento verso dio. Sceglie le pose e le luci, così come i soggetti, per inviare dei messaggi.
 # Opere
 ## Il Seminatore
 ![[Millet - Il seminatore.png]]

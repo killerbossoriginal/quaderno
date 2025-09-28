@@ -36,6 +36,7 @@ Questa teoria fu formulata da Brønsted e Lowry e descriveva il fenomeno tramite
 | Acido                             | Base                                | Molecola anfiprotica                                       |
 | --------------------------------- | ----------------------------------- | ---------------------------------------------------------- |
 | Può cedere un protone ad una base | Può ricevere un protone da un acido | Si comporta da acido o da base a seconda della circostanza |
+In questo caso: $K_w = K_a \cdot K_b$, con $K_w=10^{-14}$. 
 ### Acidi
 Una sostanza è' considerata un **acido forte** se ha un alta tendenza a cedere un protone, altrimenti è considerata debole.
 
@@ -52,3 +53,7 @@ Il parametro che esprime la misura quantitativa dell'equilibrio è la **costante
 $$K_b=\frac{[BH^+][OH^-]}{[B]}$$
 ## La teoria di Lewis
 Lewis utilizzando la sua famosa notazione ha spiegato che l'acido è una molecola che **accetta** un **doppietto** elettronico, tramite un **legame dativo**, mentre la base lo condivide.
+# Idrolisi
+L'idrolisi è quel fenomeno secondo il quale, inserendo un sale composto da acidi e basi con diverse costanti, (preferibilmente uno forte e uno debole), in acqua, variano il $pH$ della soluzione.
+Non fa idrolisi: $NaCl$
+Fa idrolisi: $CH_3COONa$ 

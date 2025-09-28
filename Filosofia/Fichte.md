@@ -21,9 +21,16 @@ La realtà è fatta di opposizioni, che vanno superate.
 L'essere libero non è niente, il diventare libero è cosa celeste.
 
 E' soggettivo ed etico.
+
+Nella dialettica, i 3 momenti principali sono 3 principi
+- principio di identità, tesi
+- principio di opposizione, antitesi
+- principio di ragione, sintesi
+
 ### Tesi
 L'io pone se stesso, l'io è il prodotto della sua azione
 Questo è il principio di identità.
+"L'io è ciò che egli stesso si fa", è il prodotto della sua azione.
 ### Antitesi
 L'io non può rimanere da solo allora l'io crea e oppone a se stesso il non io.
 Questo è il principio di opposizione.
@@ -41,3 +48,20 @@ Il sapere è volto al dominio dell'uomo sulla natura.
 2. Tendere al perfezionamento dell'umanità attraverso l'educazione.
 Il bene è plasmare il mondo secondo la nostra volontà, tendere alla libertà e all'assoluto. Il male è l'accidia, l'inerzia.
 Il dotto ha un sapere incentrato sulla storia e sulla filosofia, perché la storia sono i fatti, e la filosofia è l'interpretazione di essi.
+
+# Parole chiave
+1. Fenomeno - Noumeno
+2. Realismo
+3. Idealismo soggettivo/etico
+4. Dialettica
+	1. Io assoluto - Non io assoluto
+	2. Io divisibile - Non io divisibile
+5. Principi
+	1. identità
+	2. opposizione
+	3. ragione
+6. Immaginazione produttiva, l'io è produttore (non ordinatore come per [[Kant]]), inconsapevole.
+7. Ambito conoscitivo: il non io limita l'io
+8. Ambito pratico: l'io produce il non io
+9. Sforzo (Streben)
+10. L'accidia è il male
