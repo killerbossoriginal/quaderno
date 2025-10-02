@@ -3,6 +3,8 @@ Nel suo stile è ancora più libero di quello di [[Gustave Courbet]]. Guarda la 
 
 Anche lui, similmente al [[Verismo]] e ai macchiaioli, rappresenta ciò che vede dopo gli effetti della luce, dunque ci sono pochi dettagli.
 I soggetti solitamente non sono in posa.
+
+Lui ha dichiarato di non essere un impressionista, ma casomai un precursore.
 # Opere
 ## Musica alle Tuileries
 ![[Manet - Musica alle Tuileries.png]]

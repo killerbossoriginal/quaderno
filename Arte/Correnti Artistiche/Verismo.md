@@ -14,7 +14,9 @@ Vogliono rappresentare la luce, prendendo ispirazione da [[Leonardo da Vinci]]. 
 Quando sono *abbagliato*, non riesco a distinguere bene gli elementi, quindi vedo delle macchie. (eliminando la campitura). 
 
 Fino ad ora bisognava produrre le tempere tramite l'albume/il sangue di bue e i pigmenti colorati, in questo periodo creeranno i tubetti con tempera acrilica, e questo permise di iniziare a fare pittura **all'aria aperta** (*en plain air*).
-Non potendo portare grandi tele, iniziarono a usare materiali di recupero, come scatole dei sigari.
+Non potendo portare grandi tele, e non potendo fare grandi investimenti, iniziarono a usare materiali di recupero, come scatole dei sigari.
+
+Molte delle opere macchiaiole, sono state eseguite in **Maremma**. E' una zona molto brulla e selvaggia, a tal punto da essere state alcuni dei punti in cui sono stati registrati *gli spaghetti western*.
 
 Nelle opere si spiccano alcuni dettagli:
 - Il ruolo della luce

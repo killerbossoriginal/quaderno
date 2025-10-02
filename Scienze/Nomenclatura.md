@@ -9,8 +9,8 @@
 
 | Formula    | Nome                        | IUPAC | $K_a$             |
 | ---------- | --------------------------- | ----- | ----------------- |
-| $HSO_4^-$  | bisolfato, idrogeno solfato |       | $1.2\cdot10^{-2}$ |
 | $CH_3COOH$ | acido acetico               |       | $1.8\cdot10^{-5}$ |
+| $HSO_4^-$  | bisolfato, idrogeno solfato |       | $1.2\cdot10^{-2}$ |
 # Basi
 ## Forti
 
@@ -25,8 +25,23 @@
 | $NH_3$  | Ammoniaca | $1.8\cdot10^{-5}$ |
 
 # Ioni
+## Carica positiva
+| Formula  | Nome      |
+| -------- | --------- |
+| $H^+$    | *protone* |
+| $H_3O^+$ | Idronio   |
+## Carica negativa
 
-| Formula     | Nome      |
-| ----------- | --------- |
-| $H^+$       | *protone* |
-| $SO_4^{--}$ | Solfato   |
+| Formula     | Nome         |
+| ----------- | ------------ |
+| $NH_4^-$    | Ammonio      |
+| $Cl^-$      | Cloruro      |
+| $MnO_4^-$   | Permanganato |
+| $SO_4^{2-}$ | Solfato      |
+
+# Sali
+
+| Formula  | Nome              |
+| -------- | ----------------- |
+| $NaCl$   | Cloruro di sodio  |
+| $NH_4Cl$ | Cloruro d'ammonio |

@@ -1,4 +1,3 @@
-# Esercizio 15/09/25
 ![[Fattori - Il campo italiano dopo la battaglia di Magenta.jpg]]
 L'opera e' denominata "Campo italiano alla battaglia di Magenta". E' un dipinto del 1862, realizzato dall'artista macchiaiolo Giovanni Fattori. Oggi è conservata alla Galleria d'arte moderna di Firenze, presso palazzo Pitti.
 Raffigura dei soldati, tra cui anche i feriti e morti, sul campo di battaglia, in una tela di 232x348 cm.

@@ -57,3 +57,12 @@ Lewis utilizzando la sua famosa notazione ha spiegato che l'acido è una molecol
 L'idrolisi è quel fenomeno secondo il quale, inserendo un sale composto da acidi e basi con diverse costanti, (preferibilmente uno forte e uno debole), in acqua, variano il $pH$ della soluzione.
 Non fa idrolisi: $NaCl$
 Fa idrolisi: $CH_3COONa$ 
+# Soluzioni tampone
+Una soluzione è detta tampone se è composta da un acido/base debole e un suo sale.
+Ad esempio $CH_3COOH + CH_3COONa$.
+$CH_3COOH \rightleftarrows CH_3COO^- + H^+$
+e in questo caso $K_a = \frac{[CH_3COO^-][H^+]}{[CH_3COOH]}$
+Tutto ciò sarebbe $K_a = \frac{([CH_3COO^-]+x) \cdot x}{[CH_3COOH]-x}$. In cui però $+x$ e $-x$ possono essere rimossi.
+Perciò sarebbe $$\frac{K_{a/b}\cdot C_{a/b}}{C_s}=C_{H^+/OH^-}$$
+
+$CH_3COONa \to CH_3COO^- + Na^+$, che si dissocia completamente.

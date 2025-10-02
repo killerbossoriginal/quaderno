@@ -7,3 +7,7 @@ san matteo e l'angelo: due opere, una distrutta (caravaggio), perchè è stata r
 Caravaggio e Carracci: differenze
 Caravaggio e Carracci: la chiesa con 3 opere
 La crocifissione di San Pietro, perchè è capovolta
+
+taglio fotografico
+relazione fotografia arte
+napoleone iii
