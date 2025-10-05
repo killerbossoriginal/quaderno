@@ -3,7 +3,7 @@ Mostra una forte religiosità nelle sue opere, spesso come ringraziamento verso 
 # Opere
 ## Il Seminatore
 ![[Millet - Il seminatore.png]]
-Lui descrive quel momento sospeso, in cui si vede l'atteggiamento. E' statuario, i personaggi sono in prosa.
+Lui descrive quel momento sospeso, in cui si vede l'atteggiamento. E' statuario, i personaggi sono in posa.
 ## L'Angelus
 ![[Millet - L'angelus.png]]Nelle opere di questo autore, sono spesso presenti tematiche religiose.
 In questo quadro, ad esempio, due contadini si sono fermati per pregare la madonna, di solito si recitava l'angelus, la mattina, a mezzogiorno e la sera.

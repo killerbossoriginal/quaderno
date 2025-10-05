@@ -2,7 +2,7 @@ Dopo il padiglione di [[Gustave Courbet]], del [[Realismo]], molti artisti decis
 
 Napoleone III aveva una politica populista e nazionalista. Voleva cercare di accontentarli tutti, in virtù di un riscontro. Cerca di modernizzare Parigi con un piano urbanistico, in cui creò i boulevard (ovvero dei grandi viali), sostituendoli ad alcune case. Queste nuove infrastrutture aiuteranno di contenere le rivolte, permettendo alla Gendarmeria movimenti rapidi. Voleva nascondere i posti, e mandò così in periferia dei quartieri malfamati.
 
-L'imperatore teneva molto a favorire i votanti, e sapendo che gli artisti possono essere influenti, creò nel 1863 il "Salon du Refusé", dove tutti gli artisti rifiutati dall'accedamia potevano esporre le proprie opere.
+L'imperatore teneva molto a favorire i votanti, e sapendo che gli artisti possono essere influenti, creò nel 1863 il "Salon du Refusé", dove tutti gli artisti rifiutati dall'accademia potevano esporre le proprie opere.
 
 Uno dei precursori dell'impressionismo è considerato [[Édouard Manet]].
 
@@ -17,7 +17,7 @@ Questi qui, "pensando tutti nella stessa maniera", racchiusero, nel 1874 nel lab
 In questo periodo, le fotografie girarono soprattutto di persone, perché sono più riconoscibili rispetto alla natura.
 
 Come tutte le mostre, al vernissage (l'inaugurazione), partecipato dalla borghesia, gente che gravita in quel mondo e anche la clientela del negozio, ma soprattutto i critici, che scrivono di quegli eventi.
-Uno tra i più importanti critici si chiamava Leroy. Tra tutte le opere vide quelle di [[Claude Monet]]. Leroy scrive *nominadoli per la prima volta impressionisti*, in modo completamente dispregiativo.
+Un esempio ne è la esposizione in cui venne esposto [[Claude Monet#Impression, soleil levant]]
 
 Il soggetto per gli impressionisti è la luce, utilizzando anche il taglio fotografico.
 
