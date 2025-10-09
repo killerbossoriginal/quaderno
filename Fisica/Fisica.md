@@ -40,18 +40,18 @@ Si dividono in:
 | etto     | h        | $10^{2}$             | 1 00                                      | Centinaio        | Hundred       |
 | deca     | da       | $10^{1}$             | 10                                        | Decina           | Ten           |
 | -        | -        | $10^{0}$             | 1                                         | Unità            | One           |
-| deci     | d        | $10^{-1}$            | 10                                        | Decimo           | Tenth         |
-| centi    | c        | $10^{-2}$            | 100                                       | Centesimo        | Hundredth     |
-| milli    | m        | $10^{-3}$            | 1 000                                     | Millesimo        | Thousandth    |
-| micro    | $\micro$ | $10^{-6}$            | 1 000 000                                 | Milionesimo      | Millionth     |
-| nano     | n        | $10^{-9}$            | 1 000 000 000                             | Miliardesimo     | Billionth     |
-| pico     | p        | $10^{-12}$           | 1 000 000 000 000                         | Bilionesimo      | Trillionth    |
-| femto    | f        | $10^{-15}$           | 1 000 000 000 000 000                     | Biliardesimo     | Quadrillionth |
-| atto     | a        | $10^{-18}$           | 1 000 000 000 000 000 000                 | Trilionesimo     | Quintillionth |
-| zepto    | z        | $10^{-21}$           | 1 000 000 000 000 000 000 000             | Triliardesimo    | Sixtillionth  |
-| yocto    | y        | $10^{-24}$           | 1 000 000 000 000 000 000 000 000         | Quadrilionesimo  | Septillion    |
-| ronto    | r        | $10^{-27}$           | 1 000 000 000 000 000 000 000 000 000     | Quadriliardesimo | Octillionth   |
-| quecto   | q        | $10^{-30}$           | 1 000 000 000 000 000 000 000 000 000 000 | Quintillionesimo | Nonillionth   |
+| deci     | d        | $10^{-1}$            | 0.1                                       | Decimo           | Tenth         |
+| centi    | c        | $10^{-2}$            | 0.01                                      | Centesimo        | Hundredth     |
+| milli    | m        | $10^{-3}$            | 0.001                                     | Millesimo        | Thousandth    |
+| micro    | $\micro$ | $10^{-6}$            | 0.000 001                                 | Milionesimo      | Millionth     |
+| nano     | n        | $10^{-9}$            | 0.000 000 001                             | Miliardesimo     | Billionth     |
+| pico     | p        | $10^{-12}$           | 0.000 000 000 001                         | Bilionesimo      | Trillionth    |
+| femto    | f        | $10^{-15}$           | 0.000 000 000 000 001                     | Biliardesimo     | Quadrillionth |
+| atto     | a        | $10^{-18}$           | 0.000 000 000 000 000 001                 | Trilionesimo     | Quintillionth |
+| zepto    | z        | $10^{-21}$           | 0.000 000 000 000 000 000 001             | Triliardesimo    | Sixtillionth  |
+| yocto    | y        | $10^{-24}$           | 0.000 000 000 000 000 000 000 001         | Quadrilionesimo  | Septillion    |
+| ronto    | r        | $10^{-27}$           | 0.000 000 000 000 000 000 000 000 001     | Quadriliardesimo | Octillionth   |
+| quecto   | q        | $10^{-30}$           | 0.000 000 000 000 000 000 000 000 000 001 | Quintillionesimo | Nonillionth   |
 
 
 # La notazione scientifica

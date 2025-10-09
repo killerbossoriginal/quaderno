@@ -37,6 +37,7 @@
 | $NH_4^-$    | Ammonio      |
 | $Cl^-$      | Cloruro      |
 | $MnO_4^-$   | Permanganato |
+| $SO_3^{2-}$ | Solfito      |
 | $SO_4^{2-}$ | Solfato      |
 
 # Sali

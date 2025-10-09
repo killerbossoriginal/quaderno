@@ -22,6 +22,9 @@ Un esempio ne è la esposizione in cui venne esposto [[Claude Monet#Impression, 
 Il soggetto per gli impressionisti è la luce, utilizzando anche il taglio fotografico.
 
 Dal '74 all''86, vengono realizzate 8 mostre diverse, in cui verranno presentati diversi artisti, aperte e libere, con intrusioni occasionali.
+
+Tra tutti i pittori rientrano [[Claude Monet]], [[Pierre-Auguste Renoir]] e [[Edgar Degas]].
+
 # Napoleone III
 10/12/1948, Luigi Napoleone diventa presidente della II repubblica.
 02/12/1851, spazza via la II repubblica francese, e l'anno dopo diventa imperatore.

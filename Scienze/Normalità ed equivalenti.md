@@ -1,5 +1,5 @@
 # Normalità
-$$N=\frac{Eq}{V_{[l]}}$$
+$$N=\frac{Eq}{V_{[l]}}=M_{mol}\cdot Z$$
 # Equivalenti
 $$Eq = \frac{m_{[g]}}{M_{eq}}$$
 # Massa equivalente
