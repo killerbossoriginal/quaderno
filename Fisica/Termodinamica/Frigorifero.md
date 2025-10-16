@@ -1,2 +1,0 @@
-La pompa di calore è un frigorifero che prende calore dall'esterno all'interno.
-Il frigorifero ha del liquido / gas, il liquido nella serpentina dietro perde calore, entra in un compressore che lo fa diventare gas, diminuendo di molto la temperatura. Assorbe calore all'interno del frigo e con il processo inverso torna fuori caldo come gas.

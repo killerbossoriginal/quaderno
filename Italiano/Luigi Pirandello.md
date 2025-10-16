@@ -5,3 +5,4 @@ Il signor Ponza da della pazza alla signora Frola perché crede che la figlia si
 ## Così è, se vi pare
 E' il nome teatrale del[[#la signora Frola e il signor Ponza, suo genero]]. E' molto più estesa della novella.
 ## I sei personaggi in cerca d'autore
+Su un palcoscenico di un teatro, 6 personaggi stanno provando una commedia, quando si presentano dei personaggi vestiti a lutto dalla porta dove sono entrati gli spettatori. La realtà è finzione perché noi stiamo recitando.

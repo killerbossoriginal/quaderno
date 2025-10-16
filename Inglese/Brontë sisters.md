@@ -1,0 +1,1 @@
+Initially they used male names because women weren't well-considered when they wrote.

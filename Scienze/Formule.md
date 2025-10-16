@@ -14,7 +14,7 @@ $[H^+]=\sqrt{\frac{K_w}{K_b}\cdot C_s}$
 Acido debole + suo sale
 $[H^+]=K_a\frac{C_a}{C_s}$
 Base debole + suo sale
-$[OH^-]=K_b\frac{C_b}{C_s}$
+$ $
 # Diluizione
 $C_i\cdot V_i = C_f\cdot V_f$
 # Quantità di sostanza

@@ -1,9 +1,9 @@
 # Normalità
-$$N=\frac{Eq}{V_{[l]}}=M_{mol}\cdot Z$$
+$$N=\frac{Eq}{V_{[l]}}=M\cdot Z$$
 # Equivalenti
-$$Eq = \frac{m_{[g]}}{M_{eq}}$$
+$$Eq = \frac{m_{[g]}}{M_{eq}}=n\cdot Z$$
 # Massa equivalente
-$$M_{eq}=\frac{M_{mol[\frac{g}{mol}]}}{Z_{[\frac{mol}{Eq}]}}$$
+$$M_{eq}=\frac{M_{mol[\frac{g}{mol}]}}{Z_{[\frac{Eq}{mol}]}}$$
 # Z
 1. Per un acido equivale agli ioni $H^+$ dissociati
 2. Per una base equivale agli ioni $OH^-$ dissociati

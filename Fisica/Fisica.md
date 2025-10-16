@@ -10,20 +10,40 @@ Si dividono in:
 - [Il Momento Angolare](Il%20Momento%20Angolare.md)
 - [La Pressione](Pressione.md)
 - [La densità](La%20densità.md)
+# Meccanica
+## Fluidi
+- [[Meccanica dei Fluidi]]
 # I campi
 - [[Principio di sovrapposizione dei campi]]
-# Elettrostatica
-- [[Bilancia di torsione]]
-- [[Legge di Coulomb]]
-- [[Campo elettrico]]
+# Termodinamica
+- [[Calore]]
+- [[Calore Specifico]]
+- [[Frigorifero]]
+- [[L'efficenza di una macchina termica]]
+## Principi
+1. [[2° Principio]]
+2. [[3° Principio]]
+## Trasformazioni
+- [[Trasformazioni Adiabatiche]]
+- [[Ciclo di Carnot]]
 # Elettromagnetismo
-- [[Campo magnetico]]
-- [[Correnti indotte]]
+[[Equazioni di Maxwell]]
+- Elettrostatica
+	- [[Bilancia di torsione]]
+	- [[Legge di Coulomb]]
+	- [[Campo elettrico]]
+	- [[Teorema di Gauss]]
+	- [[Circuitazione del campo elettrico]]
+- Magnetismo
+	- [[Campo magnetico]]
+	- [[Teorema di Gauss per il campo magnetico]]
+- [[Corrente indotta]]
 - [[Legge di Faraday - Newmann]]
 - [[Legge di Lenz]]
+- [[Teorema di Ampère]]
+- [[Circuitazione del campo magnetico]]
 # Il Sistema Internazionale
 ## I Prefissi
-
 
 | Prefisso | Simbolo  | Notazione scientfica | Numero decimale                           | Scala lunga      | Scala corta   |
 | -------- | -------- | -------------------- | ----------------------------------------- | ---------------- | ------------- |
@@ -90,7 +110,7 @@ Ad esempio ecco una scala:
 # Concetti
 - [Gravitazione](./Gravitazione/Gravitazione.md)
 - [La Termodinamica](./Termodinamica/Termodinamica.md)
-- [La Meccanica dei Fluidi](./Meccanica%20dei%20Fluidi/Meccanica%20dei%20Fluidi.md)
+- [La Meccanica dei Fluidi](Meccanica%20dei%20Fluidi.md)
 - [Elettrostatica](./Elettrostatica/Elettrostatica.md)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjM5NjU5NjVdfQ==

@@ -1,0 +1,2 @@
+$$\Phi (\vec B)=0$$
+Il flusso del campo magnetico generato da un filo è 0, in quanto, immaginando di avvolgere il filo in un cilindro, la faccia del cilindro sarà sempre parallela al campo magnetico, che "gira attorno" anch'esso al filo.
