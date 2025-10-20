@@ -40,8 +40,8 @@ Due dei più grandi creatori di jet e droni militari, la **Northrop Grumman**, e
 
 Tutti questi sistemi sono controllati da diverse **intelligenza artificiali**, sviluppate per il conseguimento di obiettivi, *l'autopilotaggio*, e l'utilizzo di armamenti.
 
-Nel 2023 era stata effettuata una simulazione virtuale con un drone militare con un obiettivo di uccidere un terrorista, l'operatore annulla l'ordine, ma essendo il terrorista l'obiettivo principale, il drone uccise l'operatore in quanto principale ostacolo all'obiettivo, e poi concluse l'obiettivo.
+Nel 2023 era stata effettuata una simulazione virtuale con un drone militare con un obiettivo di uccidere un terrorista, l'operatore annulla l'ordine, ma essendo il terrorista l'obiettivo principale, il drone uccise l'operatore in quanto principale ostacolo all'obiettivo, e poi concluse l'obiettivo. (Ovviamente poi il fatto è stato smentito)
 
 Un intelligenza artificiale può sempre sbagliare, in qualunque ambito si utilizzi. I sistemi di volo attuali sono esclusivamente adibiti al mantenimento di rotta e altezza, o tramite l'utilizzo di *waypoint* all'atterraggio e al decollo, il che li rende quasi infallibili in quel contesto, delegando al pilota le decisioni. Un aereo con a bordo civili, o un aereo con a bordo armamenti, se prendesse decisioni da solo potrebbe causare gravissimi danni e innumerevoli decessi.
 
-Potrebbe avere un impatto positivo se sviluppato con un minimo di intelligenza, in quanto potrebbe rendere più efficienti i trasporti anche giornalieri con macchine volanti autoguidate e taxi, e potrebbe aiutare i piloti in alcune occasioni in l'errore del pilota è evidente e correggibile facilmente.
+Potrebbe avere un impatto positivo se sviluppato con un minimo di intelligenza, in quanto potrebbe rendere più efficienti i trasporti anche giornalieri con macchine volanti autoguidate e taxi, e potrebbe aiutare i piloti in alcune occasioni in l'errore del pilota è evidente e correggibile facilmente. Potrebbe anche ridurre i costi per le compagnie aeree perché ridurrebbero il personale.
