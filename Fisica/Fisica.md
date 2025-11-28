@@ -38,10 +38,12 @@ Si dividono in:
 	- [[Campo magnetico]]
 	- [[Teorema di Gauss per il campo magnetico]]
 - [[Corrente indotta]]
-- [[Legge di Faraday - Newmann]]
+- [[Legge di Faraday - Neumann]]
 - [[Legge di Lenz]]
 - [[Teorema di Ampère]]
 - [[Circuitazione del campo magnetico]]
+# Relatività
+
 # Il Sistema Internazionale
 ## I Prefissi
 

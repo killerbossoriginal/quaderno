@@ -18,3 +18,7 @@ matematica (pagine riassunti)
 - 587
 
 > "mklink /D "Percorso\destinazione" "Percorso\origine"   ""
+
+```
+mklink /D "C:\Users\Kille\OneDrive\Documenti\Scuola\Quaderno\Libri" "C:\Users\Kille\OneDrive\Documenti\Scuola\Libri"
+```

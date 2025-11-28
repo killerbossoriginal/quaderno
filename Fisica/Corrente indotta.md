@@ -18,4 +18,4 @@ $$\Delta \Phi(\vec B)\ne0 \to i_{i}\ne0$$
 infatti, sia la calamita, che il circuito generano un campo magnetico, e muovendo la fonte cambia il campo, così come cambiando la distanza o interrompendo il tasto, variano il campo.
 
 Ovvero, la modifica del flusso del campo magnetico genera corrente indotta.
-![[Legge di Faraday - Newmann]]
+![[Legge di Faraday - Neumann]]

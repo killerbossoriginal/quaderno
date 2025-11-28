@@ -1,3 +1,14 @@
+```
+\newcommand{\s}[2]{#1 \times 10^{#2}}
+```
+
+```
+\begin{align}
+& \\
+\end{align}
+```
+$\overset{testo sopra}{testo}$ `\overset{testo sopra}{testo}
+$\underset{testo sotto}{testo}$ `\underset{testo sotto}{testo}
 # Aiuto:Formule matematiche
 
 > **Nota:** Questa pagina è la traduzione della pagina inglese [meta:Help:Formula](https://meta.wikimedia.org/wiki/Help:Formula). Verrà aggiornata di tanto in tanto, ma la pagina inglese resta la guida di riferimento.
@@ -46,33 +57,33 @@ In Obsidian, i comandi TeX per formule inline devono essere racchiusi tra `$`, m
 
 ## Apici, pedici, integrali
 
-|**Caratteristica**|**Sintassi**|**Come appare**|
-|---|---|---|
-|**Apice**|`a^2`|$a^2$|
-|**Pedice**|`a_2`|$a_2$|
-|**Raggruppamento**|`a^{2+2}`|$a^{2+2}$|
-|**Raggruppamento**|`a_{i,j}`|$a_{i,j}$|
-|**Combinazione di apici e pedici**|`x_2^3`|$x_2^3$|
-|**Derivate**|`x', y'', f', f''`|$x', y'', f', f''$|
-|**Sottolineato, sopralineato, vettori**|`\hat a \ \bar b \ \vec c \ \overrightarrow{a b} \ \overleftarrow{c d} \ \widehat{d e f} \ \overline{g h i} \ \underline{j k l} \ \tilde{x}`|$\hat a \ \bar b \ \vec c \ \overrightarrow{a b} \ \overleftarrow{c d} \ \widehat{d e f} \ \overline{g h i} \ \underline{j k l}\ \tilde{x}$|
-|**Parentesi sopra**|`\overbrace{ 1+2+\cdots+100 }^{5050}`|$\overbrace{ 1+2+\cdots+100 }^{5050}$|
-|**Parentesi sotto**|`\underbrace{ a+b+\cdots+z }_{26}`|$\underbrace{ a+b+\cdots+z }_{26}$|
-|**Sommatoria**|`\sum_{k=1}^N k^2`|$\sum_{k=1}^N k^2$|
-|**Sommatoria (forzando \textstyle)**|`\begin{matrix} \sum_{k=1}^N k^2 \end{matrix}`|$\begin{matrix} \sum_{k=1}^N k^2 \end{matrix}$|
-|**Produttoria**|`\prod_{i=1}^N x_i`|$\prod_{i=1}^N x_i$|
-|**Produttoria (forzando \textstyle)**|`\begin{matrix} \prod_{i=1}^N x_i \end{matrix}`|$\begin{matrix} \prod_{i=1}^N x_i \end{matrix}$|
-|**Coproduttoria**|`\coprod_{i=1}^N x_i`|$\coprod_{i=1}^N x_i$|
-|**Coproduttoria (forzando \textstyle)**|`\begin{matrix} \coprod_{i=1}^N x_i \end{matrix}`|$\begin{matrix} \coprod_{i=1}^N x_i \end{matrix}$|
-|**Limite**|`\lim_{n \to \infty}x_n`|$\lim_{n \to \infty}x_n$|
-|**Limite (forzando \textstyle)**|`\begin{matrix} \lim_{n \to \infty}x_n \end{matrix}`|$\begin{matrix} \lim_{n \to \infty}x_n \end{matrix}$|
-|**Integrale**|`\int_{-N}^{N} e^x\, dx`|$\int_{-N}^{N} e^x, dx$|
-|**Integrale (forzando \textstyle)**|`\begin{matrix} \int_{-N}^{N} e^x\, dx \end{matrix}`|$\begin{matrix} \int_{-N}^{N} e^x, dx \end{matrix}$|
-|**Integrale doppio**|`\iint_{D}^{W} \, dx\,dy`|$\iint_{D}^{W} , dx,dy$|
-|**Integrale triplo**|`\iiint_{E}^{V} \, dx\,dy\,dz`|$\iiint_{E}^{V} , dx,dy,dz$|
-|**Integrale quadruplo**|`\iiiint_{F}^{U} \, dx\,dy\,dz\,dt`|$\iiiint_{F}^{U} , dx,dy,dz,dt$|
-|**Integrale su frontiera**|`\oint_{C} x^3\, dx + 4y^2\, dy`|$\oint_{C} x^3, dx + 4y^2, dy$|
-|**Intersezioni**|`\bigcap_1^{n} p`|$\bigcap_1^{n} p$|
-|**Unioni**|`\bigcup_1^{k} p`|$\bigcup_1^{k} p$|
+| **Caratteristica**                      | **Sintassi**                                                                                                                                 | **Come appare**                                                                                                                             |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Apice**                               | `a^2`                                                                                                                                        | $a^2$                                                                                                                                       |
+| **Pedice**                              | `a_2`                                                                                                                                        | $a_2$                                                                                                                                       |
+| **Raggruppamento**                      | `a^{2+2}`                                                                                                                                    | $a^{2+2}$                                                                                                                                   |
+| **Raggruppamento**                      | `a_{i,j}`                                                                                                                                    | $a_{i,j}$                                                                                                                                   |
+| **Combinazione di apici e pedici**      | `x_2^3`                                                                                                                                      | $x_2^3$                                                                                                                                     |
+| **Derivate**                            | `x', y'', f', f''`                                                                                                                           | $x', y'', f', f''$                                                                                                                          |
+| **Sottolineato, sopralineato, vettori** | `\hat a \ \bar b \ \vec c \ \overrightarrow{a b} \ \overleftarrow{c d} \ \widehat{d e f} \ \overline{g h i} \ \underline{j k l} \ \tilde{x}` | $\hat a \ \bar b \ \vec c \ \overrightarrow{a b} \ \overleftarrow{c d} \ \widehat{d e f} \ \overline{g h i} \ \underline{j k l}\ \tilde{x}$ |
+| **Parentesi sopra**                     | `\overbrace{ 1+2+\cdots+100 }^{5050}`                                                                                                        | $\overbrace{ 1+2+\cdots+100 }^{5050}$                                                                                                       |
+| **Parentesi sotto**                     | `\underbrace{ a+b+\cdots+z }_{26}`                                                                                                           | $\underbrace{ a+b+\cdots+z }_{26}$                                                                                                          |
+| **Sommatoria**                          | `\sum_{k=1}^N k^2`                                                                                                                           | $\sum_{k=1}^N k^2$                                                                                                                          |
+| **Sommatoria (forzando \textstyle)**    | `\begin{matrix} \sum_{k=1}^N k^2 \end{matrix}`                                                                                               | $\begin{matrix} \sum_{k=1}^N k^2 \end{matrix}$                                                                                              |
+| **Produttoria**                         | `\prod_{i=1}^N x_i`                                                                                                                          | $\prod_{i=1}^N x_i$                                                                                                                         |
+| **Produttoria (forzando \textstyle)**   | `\begin{matrix} \prod_{i=1}^N x_i \end{matrix}`                                                                                              | $\begin{matrix} \prod_{i=1}^N x_i \end{matrix}$                                                                                             |
+| **Coproduttoria**                       | `\coprod_{i=1}^N x_i`                                                                                                                        | $\coprod_{i=1}^N x_i$                                                                                                                       |
+| **Coproduttoria (forzando \textstyle)** | `\begin{matrix} \coprod_{i=1}^N x_i \end{matrix}`                                                                                            | $\begin{matrix} \coprod_{i=1}^N x_i \end{matrix}$                                                                                           |
+| **Limite**                              | `\lim_{n \to \infty}x_n`                                                                                                                     | $\lim_{n \to \infty}x_n$                                                                                                                    |
+| **Limite (forzando \textstyle)**        | `\begin{matrix} \lim_{n \to \infty}x_n \end{matrix}`                                                                                         | $\begin{matrix} \lim_{n \to \infty}x_n \end{matrix}$                                                                                        |
+| **Integrale**                           | `\int_{-N}^{N} e^x\, dx`                                                                                                                     | $\int_{-N}^{N} e^x, dx$                                                                                                                     |
+| **Integrale (forzando \textstyle)**     | `\begin{matrix} \int_{-N}^{N} e^x\, dx \end{matrix}`                                                                                         | $\begin{matrix} \int_{-N}^{N} e^x, dx \end{matrix}$                                                                                         |
+| **Integrale doppio**                    | `\iint_{D}^{W} \, dx\,dy`                                                                                                                    | $\iint_{D}^{W} , dx,dy$                                                                                                                     |
+| **Integrale triplo**                    | `\iiint_{E}^{V} \, dx\,dy\,dz`                                                                                                               | $\iiint_{E}^{V} , dx,dy,dz$                                                                                                                 |
+| **Integrale quadruplo**                 | `\iiiint_{F}^{U} \, dx\,dy\,dz\,dt`                                                                                                          | $\iiiint_{F}^{U} , dx,dy,dz,dt$                                                                                                             |
+| **Integrale su frontiera**              | `\oint_{C} x^3\, dx + 4y^2\, dy`                                                                                                             | $\oint_{C} x^3, dx + 4y^2, dy$                                                                                                              |
+| **Intersezioni**                        | `\bigcap_1^{n} p`                                                                                                                            | $\bigcap_1^{n} p$                                                                                                                           |
+| **Unioni**                              | `\bigcup_1^{k} p`                                                                                                                            | $\bigcup_1^{k} p$                                                                                                                           |
 
 ## Frazioni, matrici, multi-linea
 
@@ -91,22 +102,22 @@ In Obsidian, i comandi TeX per formule inline devono essere racchiusi tra `$`, m
 
 ## Font
 
-|**Caratteristica**|**Sintassi**|**Come appare**|
-|---|---|---|
-|**Lettere greche maiuscole**|`\Alpha \Beta \Gamma \Delta \Epsilon \Zeta \Eta \Theta \Iota \Kappa \Lambda \Mu \Nu \Xi \Omicron \Pi \Rho \Sigma \Tau \Upsilon \Phi \Chi \Psi \Omega`|$\Alpha\ \Beta\ \Gamma\ \Delta\ \Epsilon\ \Zeta\ \Eta\ \Theta\ \Iota\ \Kappa\ \Lambda\ \Mu\ \Nu\ \Xi\ \Omicron\ \Pi\ \Rho\ \Sigma\ \Tau\ \Upsilon\ \Phi\ \Chi\ \Psi\ \Omega$|
-|**Lettere greche minuscole**|`\alpha \beta \gamma \delta \epsilon \zeta \eta \theta \iota \kappa \lambda \mu \nu \xi \omicron \pi \rho \sigma \tau \upsilon \phi \chi \psi \omega`|$\alpha\ \beta\ \gamma\ \delta\ \epsilon\ \zeta\ \eta\ \theta\ \iota\ \kappa\ \lambda\ \mu\ \nu\ \xi\ \omicron\ \pi\ \rho\ \sigma\ \tau\ \upsilon\ \phi\ \chi\ \psi\ \omega$|
-|**Altre lettere greche**|`\varepsilon \digamma \vartheta \varkappa \varpi \varrho \varsigma \varphi`|$\varepsilon\ \digamma\ \vartheta\ \varkappa\ \varpi\ \varrho\ \varsigma\ \varphi$|
-|**Grassetto lavagna**|`\mathbb{N} \mathbb{Z} \mathbb{Q} \mathbb{R} \mathbb{C} \mathbb{H} \mathbb{E}`|$\mathbb{N}\ \mathbb{Z}\ \mathbb{Q}\ \mathbb{R}\ \mathbb{C} \ \mathbb{H} \ \mathbb{E}$|
-|**Grassetto (per vettori)**|`\mathbf{x}\cdot\mathbf{y} = 0`|$\mathbf{x}\cdot\mathbf{y} = 0$|
-|**Grassetto per lettere greche**|`\boldsymbol{\alpha} + \boldsymbol{\beta} + \boldsymbol{\gamma}`|$\boldsymbol{\alpha} + \boldsymbol{\beta} + \boldsymbol{\gamma}$|
-|**Corsivo**|`\mathit{ABCDE abcde 1234}`|$\mathit{ABCDE abcde 1234}$|
-|**Font Roman**|`\mathrm{ABCDE abcde 1234}`|$\mathrm{ABCDE abcde 1234}$|
-|**Font Fraktur**|`\mathfrak{ABCDE abcde 1234}`|$\mathfrak{ABCDE abcde 1234}$|
-|**Calligrafico**|`\mathcal{ABCDE abcde 1234}`|$\mathcal{ABCDE abcde 1234}$|
-|**Lettere ebraiche**|`\aleph \beth \gimel \daleth`|$\aleph\ \beth\ \gimel\ \daleth$|
-|**Caratteri non corsivi**|`\mbox{abc}` o `\text{abc}`|$\mbox{abc}$|
-|**Misto corsivo (cattivo esempio)**|`\mbox{se} n \mbox{pari}`|$\mbox{se} n \mbox{pari}$|
-|**Misto corsivo (buon esempio)**|`\mbox{se } n \mbox{ pari}`|$\mbox{se }n\mbox{ pari}$|
+| **Caratteristica**                  | **Sintassi**                                                                                                                                          | **Come appare**                                                                                                                                                              |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lettere greche maiuscole**        | `\Alpha \Beta \Gamma \Delta \Epsilon \Zeta \Eta \Theta \Iota \Kappa \Lambda \Mu \Nu \Xi \Omicron \Pi \Rho \Sigma \Tau \Upsilon \Phi \Chi \Psi \Omega` | $\Alpha\ \Beta\ \Gamma\ \Delta\ \Epsilon\ \Zeta\ \Eta\ \Theta\ \Iota\ \Kappa\ \Lambda\ \Mu\ \Nu\ \Xi\ \Omicron\ \Pi\ \Rho\ \Sigma\ \Tau\ \Upsilon\ \Phi\ \Chi\ \Psi\ \Omega$ |
+| **Lettere greche minuscole**        | `\alpha \beta \gamma \delta \epsilon \zeta \eta \theta \iota \kappa \lambda \mu \nu \xi \omicron \pi \rho \sigma \tau \upsilon \phi \chi \psi \omega` | $\alpha\ \beta\ \gamma\ \delta\ \epsilon\ \zeta\ \eta\ \theta\ \iota\ \kappa\ \lambda\ \mu\ \nu\ \xi\ \omicron\ \pi\ \rho\ \sigma\ \tau\ \upsilon\ \phi\ \chi\ \psi\ \omega$ |
+| **Altre lettere greche**            | `\varepsilon \digamma \vartheta \varkappa \varpi \varrho \varsigma \varphi`                                                                           | $\varepsilon\ \digamma\ \vartheta\ \varkappa\ \varpi\ \varrho\ \varsigma\ \varphi$                                                                                           |
+| **Grassetto lavagna**               | `\mathbb{N} \mathbb{Z} \mathbb{Q} \mathbb{R} \mathbb{C} \mathbb{H} \mathbb{E}`                                                                        | $\mathbb{N}\ \mathbb{Z}\ \mathbb{Q}\ \mathbb{R}\ \mathbb{C} \ \mathbb{H} \ \mathbb{E}$                                                                                       |
+| **Grassetto (per vettori)**         | `\mathbf{x}\cdot\mathbf{y} = 0`                                                                                                                       | $\mathbf{x}\cdot\mathbf{y} = 0$                                                                                                                                              |
+| **Grassetto per lettere greche**    | `\boldsymbol{\alpha} + \boldsymbol{\beta} + \boldsymbol{\gamma}`                                                                                      | $\boldsymbol{\alpha} + \boldsymbol{\beta} + \boldsymbol{\gamma}$                                                                                                             |
+| **Corsivo**                         | `\mathit{ABCDE abcde 1234}`                                                                                                                           | $\mathit{ABCDE abcde 1234}$                                                                                                                                                  |
+| **Font Roman**                      | `\mathrm{ABCDE abcde 1234}`                                                                                                                           | $\mathrm{ABCDE abcde 1234}$                                                                                                                                                  |
+| **Font Fraktur**                    | `\mathfrak{ABCDE abcde 1234}`                                                                                                                         | $\mathfrak{ABCDE abcde 1234}$                                                                                                                                                |
+| **Calligrafico**                    | `\mathcal{ABCDE abcde 1234}`                                                                                                                          | $\mathcal{ABCDE abcde 1234}$                                                                                                                                                 |
+| **Lettere ebraiche**                | `\aleph \beth \gimel \daleth`                                                                                                                         | $\aleph\ \beth\ \gimel\ \daleth$                                                                                                                                             |
+| **Caratteri non corsivi**           | `\mbox{abc}` o `\text{abc}`                                                                                                                           | $\mbox{abc}$                                                                                                                                                                 |
+| **Misto corsivo (cattivo esempio)** | `\mbox{se} n \mbox{pari}`                                                                                                                             | $\mbox{se} n \mbox{pari}$                                                                                                                                                    |
+| **Misto corsivo (buon esempio)**    | `\mbox{se } n \mbox{ pari}`                                                                                                                           | $\mbox{se }n\mbox{ pari}$                                                                                                                                                    |
 
 ## Le parentesi nelle espressioni estese
 

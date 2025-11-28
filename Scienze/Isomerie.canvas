@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"0f31f0be5554c6c7","x":-356,"y":-30,"width":310,"height":55,"type":"text","text":"Di catena\nCatena diversa con stessa formula"},
+		{"id":"ccbb4f40cdbdebeb","x":-356,"y":25,"width":310,"height":55,"type":"text","text":"Di posizione\nPosizione legami o sostituenti diversa"},
+		{"id":"fdde1bd8d5098bd6","x":-356,"y":80,"width":310,"height":90,"type":"text","text":"Di gruppo funzionale\nStessa formula, gruppo funzionale diverso"},
+		{"id":"68cc6e6b87509609","x":-356,"y":-97,"width":310,"height":60,"type":"text","text":"## Di struttura"},
+		{"id":"0ef20b0858a9e113","type":"text","text":"Conformazionali\nStessa formula, conformazione diversa (rotazione)","x":0,"y":-30,"width":310,"height":85},
+		{"id":"5c7f11ccda164e5d","type":"text","text":"## Stereoisomerie","x":0,"y":-97,"width":310,"height":60},
+		{"id":"76687d2b056cb5aa","x":-356,"y":-180,"width":666,"height":60,"type":"text","text":"# Isomerie"},
+		{"id":"ba8d5f815b3deca1","x":380,"y":-30,"width":101,"height":27,"type":"text","text":"Sfalsata"},
+		{"id":"8a62e399b5b3d7d9","type":"text","text":"\n  eclissata","x":380,"y":11,"width":105,"height":27},
+		{"id":"23e0e1789a6d875c","type":"text","text":"Configurazionali\nStessa formula, posizioni diverse","x":0,"y":55,"width":310,"height":55},
+		{"id":"4009d7efe000e693","x":380,"y":53,"width":250,"height":60,"type":"text","text":"Geometrica\nrotazione impossibile"},
+		{"id":"ad96458b8286eaeb","x":380,"y":125,"width":250,"height":115,"type":"text","text":"Ottica\nSimmetria inesistente\nMolecole chirali (con stereocentri)"}
+	],
+	"edges":[
+		{"id":"16b8bad7a1ddd263","fromNode":"0ef20b0858a9e113","fromSide":"right","toNode":"ba8d5f815b3deca1","toSide":"left"},
+		{"id":"338351943f0bde02","fromNode":"0ef20b0858a9e113","fromSide":"right","toNode":"8a62e399b5b3d7d9","toSide":"left"},
+		{"id":"2ecd4e61406759c9","fromNode":"23e0e1789a6d875c","fromSide":"right","toNode":"4009d7efe000e693","toSide":"left"},
+		{"id":"8e468bd4a2943eec","fromNode":"23e0e1789a6d875c","fromSide":"right","toNode":"ad96458b8286eaeb","toSide":"left"}
+	]
+}

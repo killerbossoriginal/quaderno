@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"b036564e0a939f6e","x":-661,"y":-272,"width":961,"height":432,"type":"group","label":"Dottrina della scienza"},
+		{"id":"36bdfaf62dec27b0","x":-500,"y":-218,"width":233,"height":85,"type":"text","text":"Tesi - principio di inerzia:\nIo universale\n*io pone se stesso*"},
+		{"id":"8f46b0615e914a56","x":-242,"y":-440,"width":125,"height":60,"type":"text","text":"# Fichte"},
+		{"id":"ab00ed9f9dacc9b9","x":-594,"y":-440,"width":250,"height":60,"type":"text","text":"Nascita: Sassonia, 1762\nMorte: Berlino: 1814"},
+		{"id":"69c37c2367ebcf93","x":-641,"y":-254,"width":203,"height":27,"type":"text","text":"Realtà di opposizioni"},
+		{"id":"6862f8ea6effa7f5","x":-226,"y":-237,"width":485,"height":123,"type":"text","text":"Antitesi - principio di opposizione\nNon io universale\nNatura, limita l'io\n(dal quale viene prodotto per l'immaginazione produttiva)"},
+		{"id":"5ab281175ed8c558","x":-108,"y":0,"width":250,"height":60,"type":"text","text":"non io determinato\n"},
+		{"id":"c1fd04c52f11c934","x":-459,"y":0,"width":151,"height":60,"type":"text","text":"io determinato\n(la persona)"},
+		{"id":"cb4373d5480d4231","x":-500,"y":-80,"width":759,"height":50,"type":"text","text":"Sintesi - principio di ragione"},
+		{"id":"6774451ba8e17ab0","x":-650,"y":100,"width":212,"height":27,"type":"text","text":"ricerca della liberazione"},
+		{"id":"f5c26a122549320e","x":347,"y":-425,"width":314,"height":142,"type":"text","text":"## Morale\nPrincipi:\nUmanità come fine\nImportanza dell'educazione"},
+		{"id":"c97cd9304e7be94a","x":379,"y":-218,"width":250,"height":60,"type":"text","text":"Sapere storico(fatti)-filosofico(interpretazioni)"},
+		{"id":"a3695c7cf0aa4750","x":-20,"y":-354,"width":250,"height":60,"type":"text","text":"L'accidia e l'inerzia sono il male"}
+	],
+	"edges":[
+		{"id":"f634788dce250c0c","fromNode":"8f46b0615e914a56","fromSide":"left","toNode":"ab00ed9f9dacc9b9","toSide":"right"},
+		{"id":"64db00aef819f21e","fromNode":"36bdfaf62dec27b0","fromSide":"right","toNode":"6862f8ea6effa7f5","toSide":"left"},
+		{"id":"a8fbe4eaf4af6699","fromNode":"c1fd04c52f11c934","fromSide":"right","toNode":"5ab281175ed8c558","toSide":"left"},
+		{"id":"53e03deabf1a89cb","fromNode":"36bdfaf62dec27b0","fromSide":"bottom","toNode":"c1fd04c52f11c934","toSide":"top"},
+		{"id":"9a5abbff8b996571","fromNode":"6862f8ea6effa7f5","fromSide":"bottom","toNode":"5ab281175ed8c558","toSide":"top"},
+		{"id":"8921774c7975d7ca","fromNode":"36bdfaf62dec27b0","fromSide":"left","toNode":"6774451ba8e17ab0","toSide":"top"},
+		{"id":"92af91216530a9a4","fromNode":"c1fd04c52f11c934","fromSide":"left","toNode":"6774451ba8e17ab0","toSide":"top"},
+		{"id":"2563ab77e4c56acb","fromNode":"8f46b0615e914a56","fromSide":"bottom","toNode":"b036564e0a939f6e","toSide":"top"},
+		{"id":"fac0d50446a984d6","fromNode":"8f46b0615e914a56","fromSide":"right","toNode":"f5c26a122549320e","toSide":"left"},
+		{"id":"40ecc294ab1109ef","fromNode":"f5c26a122549320e","fromSide":"bottom","toNode":"c97cd9304e7be94a","toSide":"top"},
+		{"id":"f232994fa9c1eb59","fromNode":"f5c26a122549320e","fromSide":"left","toNode":"a3695c7cf0aa4750","toSide":"right"}
+	]
+}

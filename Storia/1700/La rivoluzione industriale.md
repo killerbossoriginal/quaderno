@@ -19,7 +19,7 @@ Si creò anche il *coke*, per chi non aveva il carbone, che poteva essere prodot
 
 Iniziò ad essere applicata per il trasporto, soprattutto all'interno delle miniere.
 
-Con il potenziamento della metallurgia iniziarono a esser creati dei **binari** in ferro. Venne usato ancora per il trasporto merci, fino a che nel [1800](1800.md), venne creata la prima ferrovia per trasporto di umani.
+Con il potenziamento della metallurgia iniziarono a esser creati dei **binari** in ferro. Venne usato ancora per il trasporto merci, fino a che nel [1800](Storia/1800/1800.md), venne creata la prima ferrovia per trasporto di umani.
 # Risvolti sociali
 Iniziò ad presentarsi per la prima volta una nuova classe sociale, quella dei ==**proletari**==, gente che **ha solo** la propria prole, sono poveri.
 Sono gente che si è spostata dalla campagna nelle città per lavorare in fabbrica, inizia quindi anche **l'urbanizzazione**.

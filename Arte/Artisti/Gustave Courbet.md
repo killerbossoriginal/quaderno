@@ -9,10 +9,10 @@ Ha le dimensioni di un quadro storico (misura circa 18 metri), tuttavia racconta
 Vengono quindi rappresentate con la stessa importanza di un quadro storico, figure di un valore sociale molto basso.
 Inoltre rappresenta le persone per come sono veramente, con le rughe, le imperfezioni del corpo. Non avevano *il decoro minimo preteso dall'arte*.
 
-Venne accettato all'[[Esposizione Universale#1855 - Parigi]].
+Venne accettato all'[[Esposizioni#1855 - Parigi]].
 ## L'atelier
 ![[Courbet - L'atelier.png]]
-Un secondo quadro, questa volta rifiutato all'EXPO, e quindi l'artista a sue spese fece creare il [[Esposizione Universale#Il padiglione del realismo]], dove espose una quarantina d'opere.
+Un secondo quadro, questa volta rifiutato all'EXPO, e quindi l'artista a sue spese fece creare il [[Esposizioni#Il padiglione del realismo]], dove espose una quarantina d'opere.
 L'artista è osservato da un bambino, dello stesso stile del ritratto, e da una donna nuda, probabilmente musa dell'artista, e simbolo di vizio e virtù, sublimazione della natura e fonte di vita.
 Venne contestato per la volgarità e l'indecenza del nudo.
 Sulla destra sono presenti esponenti dell'arte.

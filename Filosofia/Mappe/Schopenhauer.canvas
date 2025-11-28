@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"42cf15af268241cf","type":"text","text":"# Schopenhauer","x":-377,"y":-94,"width":235,"height":60},
+		{"id":"f60590e4151767f1","type":"text","text":"Nascita: Danzica, 1788\nMorte: Francoforte, 1860\nIl padre si suicidò","x":-726,"y":-106,"width":250,"height":85},
+		{"id":"814bd2d4e8b6a6ce","type":"text","text":"Il mondo come volontà e rappresentazione","x":-384,"y":40,"width":250,"height":60},
+		{"id":"8d79c4521867c908","type":"text","text":"**Fenomeno**: Apparenza,\nvelo di maia, rappresentazione","x":-560,"y":164,"width":263,"height":60},
+		{"id":"c3f6ab288377c1e6","type":"text","text":"**Noumeno**:\nrealtà vera","x":-220,"y":164,"width":250,"height":60},
+		{"id":"7803ab8ec7723e88","type":"text","text":"Principio di individuazione","x":60,"y":40,"width":250,"height":60},
+		{"id":"dca952c19d15d77a","type":"text","text":"Principio di ragion sufficiente (causalità)","x":60,"y":119,"width":250,"height":60},
+		{"id":"4688f3b060c32fc9","type":"text","text":"Forme archetiche (idee di Platone)","x":60,"y":-34,"width":250,"height":60},
+		{"id":"dca3b0bd2d97fb89","type":"text","text":"**Voglia** di vivere,\ninconsapevole e unica","x":-810,"y":40,"width":250,"height":60},
+		{"id":"1a38e47dfea498f9","type":"text","text":"Emancipazione","x":-1080,"y":40,"width":250,"height":60},
+		{"id":"fa129d911d497f15","type":"text","text":"Arte (ci porta in un altro mondo)","x":-1330,"y":-51,"width":250,"height":60},
+		{"id":"c88d0df72ec92227","type":"text","text":"Empatia e compassione (non egoismo)","x":-1360,"y":40,"width":250,"height":60},
+		{"id":"58548be49be5cdab","type":"text","text":"Ascesi: smettere di desiderare","x":-1330,"y":134,"width":250,"height":60},
+		{"id":"3035e3b2162e6505","type":"text","text":"Si vuole sopprimere una voglia, che è causata dalla mancanza","x":-935,"y":194,"width":250,"height":85},
+		{"id":"4060dfc09ad2002c","type":"text","text":"Pendolo","x":-670,"y":301,"width":250,"height":60},
+		{"id":"d72a1256e9cd5438","type":"text","text":"Sofferenza (effimero)","x":-864,"y":430,"width":194,"height":60},
+		{"id":"ff63c08c1ea17ff2","type":"text","text":"gioia (effimera e breve)","x":-650,"y":430,"width":210,"height":60},
+		{"id":"75b08df25222f4d9","type":"text","text":"noia","x":-420,"y":430,"width":77,"height":60}
+	],
+	"edges":[
+		{"id":"a57a11452b6f04f1","fromNode":"42cf15af268241cf","fromSide":"left","toNode":"f60590e4151767f1","toSide":"right"},
+		{"id":"819c2b331d753d18","fromNode":"42cf15af268241cf","fromSide":"bottom","toNode":"814bd2d4e8b6a6ce","toSide":"top"},
+		{"id":"88ea570f65104563","fromNode":"814bd2d4e8b6a6ce","fromSide":"bottom","toNode":"8d79c4521867c908","toSide":"top"},
+		{"id":"facdb6fd24a4a219","fromNode":"814bd2d4e8b6a6ce","fromSide":"bottom","toNode":"c3f6ab288377c1e6","toSide":"top"},
+		{"id":"29596becc3ec593c","fromNode":"c3f6ab288377c1e6","fromSide":"bottom","toNode":"8d79c4521867c908","toSide":"bottom","label":"forme a priori"},
+		{"id":"49c8285fd2c66646","fromNode":"814bd2d4e8b6a6ce","fromSide":"right","toNode":"7803ab8ec7723e88","toSide":"left"},
+		{"id":"d93266bda79d1d70","fromNode":"814bd2d4e8b6a6ce","fromSide":"right","toNode":"dca952c19d15d77a","toSide":"left"},
+		{"id":"41eca3691fed3e83","fromNode":"814bd2d4e8b6a6ce","fromSide":"right","toNode":"4688f3b060c32fc9","toSide":"left"},
+		{"id":"b278afff0624b7d1","fromNode":"814bd2d4e8b6a6ce","fromSide":"left","toNode":"dca3b0bd2d97fb89","toSide":"right"},
+		{"id":"d29662f44f0338d2","fromNode":"dca3b0bd2d97fb89","fromSide":"bottom","toNode":"3035e3b2162e6505","toSide":"top"},
+		{"id":"89bb2d764b583ccd","fromNode":"dca3b0bd2d97fb89","fromSide":"bottom","toNode":"4060dfc09ad2002c","toSide":"top"},
+		{"id":"657c2a56dd757031","fromNode":"4060dfc09ad2002c","fromSide":"bottom","toNode":"d72a1256e9cd5438","toSide":"top"},
+		{"id":"bd5a6d2304b178fc","fromNode":"4060dfc09ad2002c","fromSide":"bottom","toNode":"ff63c08c1ea17ff2","toSide":"top"},
+		{"id":"2f7ad3b7daf6e3b6","fromNode":"4060dfc09ad2002c","fromSide":"bottom","toNode":"75b08df25222f4d9","toSide":"top"},
+		{"id":"74a34f3d7083b008","fromNode":"dca3b0bd2d97fb89","fromSide":"left","toNode":"1a38e47dfea498f9","toSide":"right"},
+		{"id":"89ba16f6928be44d","fromNode":"1a38e47dfea498f9","fromSide":"top","toNode":"fa129d911d497f15","toSide":"right"},
+		{"id":"708db3f9234d7c45","fromNode":"1a38e47dfea498f9","fromSide":"left","toNode":"c88d0df72ec92227","toSide":"right"},
+		{"id":"8d02224bde26d020","fromNode":"1a38e47dfea498f9","fromSide":"bottom","toNode":"58548be49be5cdab","toSide":"right"}
+	]
+}

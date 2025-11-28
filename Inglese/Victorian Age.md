@@ -77,8 +77,11 @@ There were two political parties, Liberals (formerly Whigs, wanted free trade an
 
 In Ireland there was a potato famine that brought poverty and death.
 
-Industry and trade flourished, with new scientific and technological developments, that were also exposed to the [[Esposizione Universale#1851 - Londra|Great Exposition of 1851]].
+Industry and trade flourished, with new scientific and technological developments, that were also exposed to the [[Esposizioni#1851 - Londra|Great Exposition of 1851]].
 Increased railway building and manufacturing production.
+
+---
+
 
 # External politic
 2 opium wars against China
